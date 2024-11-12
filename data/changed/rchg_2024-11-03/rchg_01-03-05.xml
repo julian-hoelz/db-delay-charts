@@ -1,0 +1,59 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7138074359361066746-2411021835-12" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.112" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen" ct="2411030238">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf" ct="2411030246">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </dp>
+</s>
+
+
+<s id="8868050453695511606-2411022158-8" eva="8000105">
+    <ar ct="2411030250"/>
+    <dp ct="2411030316"/>
+</s>
+
+
+<s id="7582314568044505717-2411021944-8" eva="8000105">
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030225">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:14.983"/>
+        <m id="r8944446" t="d" c="2" ts="2411030025" ts-tts="24-11-03 00:25:27.164"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2411030236">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:14.983"/>
+        <m id="r8941824" t="f" c="0" ts="2411022147" ts-tts="24-11-02 21:47:14.742"/>
+        <m id="r8944446" t="d" c="2" ts="2411030025" ts-tts="24-11-03 00:25:27.164"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2411022158-8" eva="8000105">
+    <ar ct="2411030250"/>
+    <dp ct="2411030316"/>
+</s>
+
+
+<s id="-5851721557238592488-2411021944-8" eva="8000105">
+    <m id="r2228273" t="h" from="2411021944" to="2411030820" cat="Bauarbeiten" ts="2411012301" ts-tts="24-11-01 23:01:25.834" pr="1"/>
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030225">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:14.983"/>
+        <m id="r8944149" t="f" c="0" ts="2411030004" ts-tts="24-11-03 00:04:20.721"/>
+        <m id="r8944444" t="d" c="2" ts="2411030025" ts-tts="24-11-03 00:25:27.164"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2411030236">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:14.983"/>
+        <m id="r8944149" t="f" c="0" ts="2411030004" ts-tts="24-11-03 00:04:20.721"/>
+        <m id="r8944444" t="d" c="2" ts="2411030025" ts-tts="24-11-03 00:25:27.164"/>
+    </dp>
+</s>
+
+</timetable>

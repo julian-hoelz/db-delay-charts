@@ -1,0 +1,22 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7582314568044505717-2411011944-8" eva="8000105">
+    <m id="r292610918alt" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.609"/>
+    <m id="r292610917alt" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.609"/>
+    <m id="r292610916alt" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.609"/>
+    <m id="r292610917" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.383"/>
+    <m id="r292610915alt" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.609"/>
+    <m id="r292610918" t="c" ts="2411020231" ts-tts="24-11-02 02:31:59.383"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" pp="19" ct="2411020258" pt="2411020220">
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+        <m id="r8914832" t="f" c="0" ts="2411020231" ts-tts="24-11-02 02:31:59.458"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2411020321" pt="2411020236">
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+        <m id="r8914992" t="f" c="0" ts="2411020315" ts-tts="24-11-02 03:15:14.456"/>
+        <m id="r8914994" t="f" c="0" ts="2411020315" ts-tts="24-11-02 03:15:14.456"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+</timetable>

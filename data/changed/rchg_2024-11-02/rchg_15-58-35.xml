@@ -1,0 +1,47 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="856156214005093168-2411021513-13" eva="8000105">
+    <ar ct="2411021604" l="61">
+        <m id="r8907886" t="f" c="0" ts="2411012029" ts-tts="24-11-01 20:29:45.495"/>
+    </ar>
+</s>
+
+
+<s id="-5421178437440633147-2411021449-17" eva="8000105">
+    <ar ct="2411021624" l="SE14"/>
+</s>
+
+
+<s id="-2094843924873777042-2411021129-14" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411041200" cat="Störung" ts="2411011239" ts-tts="24-11-02 13:16:05.632" pr="1"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:10.461" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" pp="2" ct="2411021735" pt="2411021703">
+        <m id="r8921930" t="d" c="17" ts="2411021010" ts-tts="24-11-02 10:10:26.090"/>
+        <m id="r8921960" t="d" c="17" ts="2411021011" ts-tts="24-11-02 10:11:12.324"/>
+        <m id="r8928173" t="d" c="17" ts="2411021354" ts-tts="24-11-02 13:54:36.326"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1911"/>
+</s>
+
+
+<s id="2582272817214826443-2411021143-4" eva="8000105">
+    <ar cp="5" ct="2411021558">
+        <m id="r8929871" t="d" c="43" ts="2411021449" ts-tts="24-11-02 14:50:07.013"/>
+    </ar>
+</s>
+
+
+<s id="-4580757756484141741-2411021315-6" eva="8000105">
+    <ar ct="2411021700">
+        <m id="r8926107" t="q" c="80" ts="2411021245" ts-tts="24-11-02 12:45:28.236"/>
+        <m id="r8926109" t="q" c="84" ts="2411021245" ts-tts="24-11-02 12:45:28.237"/>
+        <m id="r8926111" t="q" c="84" ts="2411021245" ts-tts="24-11-02 12:45:28.237"/>
+    </ar>
+    <dp ct="2411021707">
+        <m id="r8926107" t="q" c="80" ts="2411021245" ts-tts="24-11-02 12:45:28.237"/>
+        <m id="r8926109" t="q" c="84" ts="2411021245" ts-tts="24-11-02 12:45:28.237"/>
+        <m id="r8926111" t="q" c="84" ts="2411021245" ts-tts="24-11-02 12:45:28.237"/>
+    </dp>
+</s>
+
+</timetable>

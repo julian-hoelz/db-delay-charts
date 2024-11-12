@@ -1,0 +1,12 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="9145020881380014050-2411020802-11" eva="8000105">
+    <ar cpth="Leipzig Hbf|Erfurt Hbf|Gotha|Eisenach|Bad Hersfeld|Fulda">
+        <m id="r8845969" t="f" c="0" ts="2410311217" ts-tts="24-10-31 12:17:37.736"/>
+        <m id="r8876309" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.486"/>
+        <m id="r8914593" t="d" c="36" ts="2411020202" ts-tts="24-11-02 02:02:26.461"/>
+        <m id="r8914736" t="f" c="0" ts="2411020218" ts-tts="24-11-02 02:19:02.244"/>
+    </ar>
+</s>
+
+</timetable>

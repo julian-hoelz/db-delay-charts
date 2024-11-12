@@ -1,0 +1,45 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5704305862261415448-2411032312-1" eva="8000105">
+    <dp ct="2411032314" l="60">
+        <m id="r8976861" t="f" c="0" ts="2411032210" ts-tts="24-11-03 22:10:53.442"/>
+    </dp>
+</s>
+
+
+<s id="-7224767778327466931-2411031846-9" eva="8000105">
+    <m id="r2308737" t="h" from="2411031329" to="2411032324" cat="Information" ts="2411031251" ts-tts="24-11-03 12:51:42.434" pr="3"/>
+    <ar ct="2411032324">
+        <m id="r8969012" t="q" c="80" ts="2411031816" ts-tts="24-11-03 18:16:32.093"/>
+        <m id="r8975504" t="d" c="41" ts="2411032115" ts-tts="24-11-03 21:15:45.158"/>
+    </ar>
+</s>
+
+
+<s id="-5866803282986553707-2411032344-15" eva="8000105">
+    <m id="r2108173" t="h" from="2401070000" to="2412122359" cat="Bauarbeiten" ts="2408230832" ts-tts="24-11-02 23:16:09.632" pr="2" del="1"/>
+    <ar ct="2411040027" l="6"/>
+</s>
+
+
+<s id="-4676449235988274755-2411031609-11" eva="8000105">
+    <ar ppth="Hamburg Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" pp="6" ct="2411032316" pt="2411032235">
+        <m id="r8969383" t="d" c="31" ts="2411031823" ts-tts="24-11-03 18:23:31.830"/>
+        <m id="r8976688" t="f" c="0" ts="2411032203" ts-tts="24-11-03 22:03:56.137"/>
+    </ar>
+    <dp ppth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf" pp="6" ct="2411032322" pt="2411032244">
+        <m id="r8969383" t="d" c="31" ts="2411031823" ts-tts="24-11-03 18:23:31.830"/>
+        <m id="r8976688" t="f" c="0" ts="2411032203" ts-tts="24-11-03 22:03:56.137"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="1021"/>
+</s>
+
+
+<s id="-3612194776124486214-2411032210-7" eva="8000105">
+    <ar ppth="Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" pp="23 A-C" ct="2411032315" pt="2411032302" l="RB10">
+        <m id="r8927581" t="f" c="0" ts="2411021335" ts-tts="24-11-02 13:35:45.361"/>
+    </ar>
+    <tl t="e" o="R4RH" c="DPN" n="21635"/>
+</s>
+
+</timetable>

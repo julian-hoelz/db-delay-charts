@@ -1,0 +1,35 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7610672940066525446-2411021846-8" eva="8000105">
+    <ar ct="2411022307">
+        <m id="r8914651" t="f" c="0" ts="2411020210" ts-tts="24-11-02 02:10:36.896"/>
+        <m id="r8938194" t="d" c="7" ts="2411021927" ts-tts="24-11-02 19:27:40.810"/>
+        <m id="r8938388" t="f" c="0" ts="2411021935" ts-tts="24-11-02 19:35:25.191"/>
+        <m id="r8939025" t="f" c="0" ts="2411021957" ts-tts="24-11-02 19:57:19.873"/>
+    </ar>
+</s>
+
+
+<s id="830181245400956492-2411022229-1" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-11-01 23:16:10.318" pr="2"/>
+    <dp ct="2411022229" l="22"/>
+</s>
+
+
+<s id="-3586042881332355115-2411021848-1" eva="8000105">
+    <m id="r2307914" t="h" from="2411020552" to="2411030015" cat="Information" ts="2411020155" ts-tts="24-11-02 02:16:10.746" pr="2"/>
+    <m id="r2308070" t="h" from="2411021848" to="2411030015" cat="Information" ts="2411021058" ts-tts="24-11-02 10:58:48.360" pr="2"/>
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Gießen|Marburg(Lahn)|Treysa|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2411021851">
+        <m id="r8935773" t="q" c="80" ts="2411021818" ts-tts="24-11-02 18:18:29.570"/>
+    </dp>
+</s>
+
+
+<s id="2774174590951633862-2411022228-20" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:10.461" pr="2"/>
+    <ar ct="2411030701">
+        <m id="r8942123" t="q" c="80" ts="2411022158" ts-tts="24-11-02 21:58:18.089"/>
+    </ar>
+</s>
+
+</timetable>

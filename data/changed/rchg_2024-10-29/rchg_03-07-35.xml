@@ -1,0 +1,16 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-5851721557238592488-2410282028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-27 23:16:13.537" pr="2"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410290307" pt="2410290223" hi="1" wings="7582314568044505717-2410282028">
+        <m id="r8728297" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:15.429"/>
+        <m id="r8728659" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:38.931"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410290312" pt="2410290236" hi="1" wings="7582314568044505717-2410282028">
+        <m id="r8728297" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:15.429"/>
+        <m id="r8728659" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:38.931"/>
+    </dp>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+</timetable>

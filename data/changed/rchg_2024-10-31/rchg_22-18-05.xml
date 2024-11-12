@@ -1,0 +1,95 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-2820315739988979208-2410311859-9" eva="8000105">
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf" ct="2410312352">
+        <m id="r8860680" t="d" c="48" ts="2410311729" ts-tts="24-10-31 17:29:11.509"/>
+        <m id="r8861592" t="f" c="0" ts="2410311751" ts-tts="24-10-31 17:51:51.013"/>
+        <m id="r8861666" t="q" c="98" ts="2410311753" ts-tts="24-10-31 17:53:55.881"/>
+        <m id="r8861860" t="f" c="0" ts="2410311757" ts-tts="24-10-31 17:57:19.212"/>
+        <m id="r8861930" t="f" c="0" ts="2410311758" ts-tts="24-10-31 17:58:21.539"/>
+        <m id="r8872159" t="d" c="2" ts="2410312217" ts-tts="24-10-31 22:17:55.123"/>
+    </ar>
+</s>
+
+
+<s id="895338070731693269-2410312116-13" eva="8000105">
+    <ar ct="2410312219" l="51"/>
+</s>
+
+
+<s id="5407315589150106200-2410311817-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-10-30 23:16:11.716" pr="3" del="1"/>
+    <ar ct="2410312245"/>
+</s>
+
+
+<s id="4219110208332631493-2410312107-15" eva="8000105">
+    <ar ct="2410312225" l="68">
+        <m id="r8870392" t="d" c="47" ts="2410312108" ts-tts="24-10-31 21:08:13.529"/>
+    </ar>
+</s>
+
+
+<s id="7909079333769130460-2410312023-12" eva="8000105">
+    <ar ct="2410312248" l="30">
+        <m id="r8826000" t="q" c="85" ts="2410302258" ts-tts="24-10-30 22:58:32.504"/>
+    </ar>
+</s>
+
+
+<s id="7084098503655686187-2410312119-13" eva="8000105">
+    <ar ct="2410312229" l="22">
+        <m id="r8870606" t="f" c="0" ts="2410312116" ts-tts="24-10-31 21:16:16.425"/>
+        <m id="r8870623" t="d" c="21" ts="2410312117" ts-tts="24-10-31 21:17:03.289"/>
+    </ar>
+</s>
+
+
+<s id="-7056878515633598205-2410311838-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-30 23:16:11.879" pr="2"/>
+    <ar cpth="Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf" pp="18" ct="2410312305" pt="2410312226">
+        <m id="r8866393" t="d" c="24" ts="2410311927" ts-tts="24-10-31 19:27:14.310"/>
+        <m id="r8866686" t="d" c="51" ts="2410311935" ts-tts="24-10-31 19:35:33.483"/>
+        <m id="r8866688" t="d" c="51" ts="2410311935" ts-tts="24-10-31 19:35:33.483"/>
+    </ar>
+    <tl f="F" t="p" o="84" c="ICE" n="221"/>
+</s>
+
+
+<s id="-7610672940066525446-2410311846-8" eva="8000105">
+    <ar ct="2410312252">
+        <m id="r8862828" t="q" c="80" ts="2410311816" ts-tts="24-10-31 18:16:20.216"/>
+        <m id="r8862830" t="q" c="80" ts="2410311816" ts-tts="24-10-31 18:16:20.216"/>
+        <m id="r8870490" t="f" c="0" ts="2410312111" ts-tts="24-10-31 21:12:07.252"/>
+        <m id="r8871309" t="d" c="2" ts="2410312141" ts-tts="24-10-31 21:41:25.189"/>
+    </ar>
+</s>
+
+
+<s id="2769724218638057691-2411011448-1" eva="8000105">
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Gießen|Marburg(Lahn)|Treysa|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg">
+        <m id="r8869318" t="d" c="31" ts="2410312041" ts-tts="24-10-31 20:42:01.211"/>
+        <m id="r8869380" t="d" c="31" ts="2410312043" ts-tts="24-10-31 20:43:34.694"/>
+    </dp>
+</s>
+
+
+<s id="486882855192455368-2411011454-1" eva="8000105">
+    <dp>
+        <m id="r8865075" t="f" c="1000" ts="2410311900" ts-tts="24-10-31 19:00:38.972"/>
+    </dp>
+</s>
+
+
+<s id="8241530050107987384-2411011452-5" eva="8000105">
+    <ar cp="17" l="22"/>
+</s>
+
+
+<s id="4871792043336475885-2410312133-14" eva="8000105">
+    <ar ct="2410312249" l="60">
+        <m id="r8871552" t="d" c="21" ts="2410312150" ts-tts="24-10-31 21:50:29.575"/>
+    </ar>
+</s>
+
+</timetable>

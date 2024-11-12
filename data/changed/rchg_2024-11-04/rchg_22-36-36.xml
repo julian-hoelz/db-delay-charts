@@ -1,0 +1,35 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3080474508177482894-2411041851-9" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-11-03 23:16:13.818" pr="2"/>
+    <ar ct="2411042351">
+        <m id="r9024258" t="d" c="24" ts="2411041954" ts-tts="24-11-04 19:55:00.559"/>
+    </ar>
+</s>
+
+
+<s id="899526545449232559-2411041926-28" eva="8000105">
+    <ar ct="2411042242" l="54">
+        <m id="r9027985" t="d" c="43" ts="2411042135" ts-tts="24-11-04 21:35:54.086"/>
+    </ar>
+</s>
+
+
+<s id="5726617865424892740-2411042311-13" eva="8000105">
+    <ar ppth="Fulda|Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach|Gelnhausen|Langenselbold|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd" pp="12" ct="2411050111" pt="2411050031" l="50">
+        <m id="r9028041" t="d" c="48" ts="2411042139" ts-tts="24-11-04 21:39:31.481"/>
+        <m id="r9029286" t="d" c="48" ts="2411042234" ts-tts="24-11-04 22:35:04.908"/>
+    </ar>
+    <tl f="N" t="p" o="8005KG" c="RE" n="4539"/>
+</s>
+
+
+<s id="-4822877454349863859-2411041810-10" eva="8000105">
+    <m id="r2308942" t="h" from="2411040610" to="2411042236" cat="Information" ts="2411040232" ts-tts="24-11-04 02:32:22.823" pr="2"/>
+    <ar cp="9" ct="2411042237">
+        <m id="r8979702" t="q" c="91" ts="2411040206" ts-tts="24-11-04 02:06:37.973"/>
+        <m id="r8979711" t="q" c="98" ts="2411040207" ts-tts="24-11-04 02:07:23.834"/>
+    </ar>
+</s>
+
+</timetable>

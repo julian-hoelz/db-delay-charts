@@ -1,0 +1,71 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6612588602948453145-2410310806-17" eva="8000105">
+    <ar cp="12" ct="2410310936" l="RB82"/>
+</s>
+
+
+<s id="1805809465569099030-2410310942-1" eva="8000105">
+    <dp ct="2410310942" l="51"/>
+</s>
+
+
+<s id="8643789978838418197-2410310941-7" eva="8000105">
+    <ar ppth="Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Köln/Bonn Flughafen|Frankfurt(M) Flughafen Fernbf" pp="8" ct="2410311147" pt="2410311148">
+        <m id="r8749833" t="f" c="0" ts="2410291220" ts-tts="24-10-29 12:20:43.701"/>
+        <m id="r8779015" t="f" c="0" ts="2410300143" ts-tts="24-10-30 01:43:23.978"/>
+        <m id="r8797598" t="d" c="31" ts="2410301211" ts-tts="24-10-30 12:11:23.971"/>
+    </ar>
+    <dp ppth="Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" pp="8" ct="2410311154" pt="2410311154">
+        <m id="r8749833" t="f" c="0" ts="2410291220" ts-tts="24-10-29 12:20:43.701"/>
+        <m id="r8779015" t="f" c="0" ts="2410300143" ts-tts="24-10-30 01:43:23.978"/>
+        <m id="r8797598" t="d" c="31" ts="2410301211" ts-tts="24-10-30 12:11:23.971"/>
+    </dp>
+    <tl f="F" t="s" o="80" c="ICE" n="623"/>
+</s>
+
+
+<s id="1840414594245135896-2410310652-26" eva="8000105">
+    <ar ct="2410310930" l="RB10">
+        <m id="r8834128" t="d" c="34" ts="2410310702" ts-tts="24-10-31 07:02:05.093"/>
+    </ar>
+</s>
+
+
+<s id="6563386602617930831-2410310507-8" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-30 23:16:11.872" pr="2"/>
+    <ar cpth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" cp="8" pp="6" ct="2410310934" pt="2410310900">
+        <m id="r8830937" t="q" c="80" ts="2410310437" ts-tts="24-10-31 04:37:18.466"/>
+        <m id="r8830939" t="q" c="80" ts="2410310437" ts-tts="24-10-31 04:37:18.466"/>
+        <m id="r8835871" t="d" c="64" ts="2410310752" ts-tts="24-10-31 07:52:46.882"/>
+        <m id="r8836229" t="f" c="0" ts="2410310803" ts-tts="24-10-31 08:03:08.225"/>
+        <m id="r8836835" t="f" c="0" ts="2410310820" ts-tts="24-10-31 08:20:12.929"/>
+        <m id="r8838120" t="f" c="0" ts="2410310848" ts-tts="24-10-31 08:49:10.875"/>
+        <m id="r8838127" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:10.875"/>
+        <m id="r8838140" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:26.388"/>
+        <m id="r8838157" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:57.394"/>
+        <m id="r8838224" t="f" c="0" ts="2410310852" ts-tts="24-10-31 08:52:16.938"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf|München-Pasing|München Hbf" ppth="Mainz Hbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf|München-Pasing|München Hbf" cp="8" pp="6" ct="2410310940" pt="2410310905">
+        <m id="r8830937" t="q" c="80" ts="2410310437" ts-tts="24-10-31 04:37:18.466"/>
+        <m id="r8830939" t="q" c="80" ts="2410310437" ts-tts="24-10-31 04:37:18.467"/>
+        <m id="r8835871" t="d" c="64" ts="2410310752" ts-tts="24-10-31 07:52:46.882"/>
+        <m id="r8836229" t="f" c="0" ts="2410310803" ts-tts="24-10-31 08:03:08.225"/>
+        <m id="r8836835" t="f" c="0" ts="2410310820" ts-tts="24-10-31 08:20:12.929"/>
+        <m id="r8838120" t="f" c="0" ts="2410310848" ts-tts="24-10-31 08:49:10.875"/>
+        <m id="r8838127" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:10.875"/>
+        <m id="r8838140" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:26.388"/>
+        <m id="r8838157" t="f" c="0" ts="2410310849" ts-tts="24-10-31 08:49:57.394"/>
+        <m id="r8838224" t="f" c="0" ts="2410310852" ts-tts="24-10-31 08:52:16.938"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="593"/>
+</s>
+
+
+<s id="2846214950676975755-2410310908-1" eva="8000105">
+    <dp ct="2410310910" l="2">
+        <m id="r8838066" t="f" c="0" ts="2410310847" ts-tts="24-10-31 08:47:53.109"/>
+    </dp>
+</s>
+
+</timetable>

@@ -1,0 +1,61 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5433458561289262992-2411031104-13" eva="8000105">
+    <ar ct="2411031248" l="2">
+        <m id="r8939546" t="f" c="0" ts="2411022012" ts-tts="24-11-02 20:12:32.932"/>
+        <m id="r8947802" t="f" c="0" ts="2411030635" ts-tts="24-11-03 06:35:15.736"/>
+    </ar>
+</s>
+
+
+<s id="-7076418821650022285-2411031026-1" eva="8000105">
+    <dp ct="2411031033" l="50">
+        <m id="r8952816" t="f" c="0" ts="2411031026" ts-tts="24-11-03 10:26:45.427"/>
+        <m id="r8952925" t="d" c="47" ts="2411031030" ts-tts="24-11-03 10:30:52.195"/>
+    </dp>
+</s>
+
+
+<s id="-4617228405729794669-2411030829-9" eva="8000105">
+    <ar ct="2411031233">
+        <m id="r8950073" t="d" c="47" ts="2411030839" ts-tts="24-11-03 08:39:27.599"/>
+    </ar>
+</s>
+
+
+<s id="-6671480439727615956-2411031038-1" eva="8000105">
+    <dp ct="2411031040" l="RE85"/>
+</s>
+
+
+<s id="-118744224958089337-2411031032-1" eva="8000105">
+    <m id="r2308603" t="h" from="2411031032" to="2411031200" cat="Information" ts="2411030637" ts-tts="24-11-03 06:37:18.673" pr="3"/>
+    <dp ct="2411031032">
+        <m id="r8952840" t="f" c="0" ts="2411031027" ts-tts="24-11-03 10:27:16.409"/>
+    </dp>
+</s>
+
+
+<s id="7945632340812070418-2411030838-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" ct="2411031035" l="RB82"/>
+</s>
+
+
+<s id="-2863948585401562055-2411031237-14" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411041200" cat="Störung" ts="2411011239" ts-tts="24-11-02 23:16:09.937" pr="1"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-02 23:16:09.915" pr="2"/>
+    <ar cpth="Kiel Hbf|Neumünster|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031913">
+        <m id="r8932459" t="f" c="0" ts="2411021625" ts-tts="24-11-02 16:25:10.154"/>
+        <m id="r8932731" t="d" c="17" ts="2411021631" ts-tts="24-11-02 16:32:08.397"/>
+        <m id="r8932825" t="d" c="17" ts="2411021635" ts-tts="24-11-02 16:35:29.946"/>
+    </ar>
+</s>
+
+
+<s id="-2995662081921118884-2411031102-17" eva="8000105">
+    <ar ct="2411031432">
+        <m id="r8936406" t="q" c="90" ts="2411021836" ts-tts="24-11-02 18:37:05.404"/>
+    </ar>
+</s>
+
+</timetable>

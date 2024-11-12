@@ -1,0 +1,36 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7455087584675999219-2411040420-6" eva="8000105">
+    <ar>
+        <m id="r8980256" t="q" c="80" ts="2411040350" ts-tts="24-11-04 03:50:23.991"/>
+        <m id="r8980258" t="q" c="80" ts="2411040350" ts-tts="24-11-04 03:50:23.991"/>
+    </ar>
+    <dp>
+        <m id="r8980256" t="q" c="80" ts="2411040350" ts-tts="24-11-04 03:50:23.991"/>
+        <m id="r8980258" t="q" c="80" ts="2411040350" ts-tts="24-11-04 03:50:23.991"/>
+    </dp>
+</s>
+
+
+<s id="8975581633582068992-2411040506-1" eva="8000105">
+    <m id="r2308966" t="h" from="2411040506" to="2411040656" cat="Information" ts="2411040349" ts-tts="24-11-04 03:49:53.134" pr="2"/>
+    <dp ppth="Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur" pp="6" pt="2411040506">
+        <m id="r8980203" t="d" c="38" ts="2411040343" ts-tts="24-11-04 03:43:13.049"/>
+    </dp>
+    <tl f="F" t="e" o="80" c="ICE" n="2873"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1271"/>
+    </ref>
+</s>
+
+
+<s id="7230422352747736541-2411040419-13" eva="8000105">
+    <ar ct="2411040530" l="22"/>
+</s>
+
+
+<s id="-1055747470447340683-2411040419-26" eva="8000105">
+    <ar ct="2411040624" l="55"/>
+</s>
+
+</timetable>

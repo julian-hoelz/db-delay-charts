@@ -1,0 +1,40 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4845313366765401542-2410310637-16" eva="8000105">
+    <ar ct="2410310804" l="55"/>
+</s>
+
+
+<s id="7556014111328415912-2410310606-12" eva="8000105">
+    <ar cpth="Koblenz Hbf|Boppard Hbf|Oberwesel|Bingen(Rhein) Hbf|Ingelheim|Heidesheim(Rheinhess)|Mainz Hbf|Mainz Römisches Theater|Mainz-Bischofsheim|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf|Frankfurt-Niederrad" ct="2410310755" l="2"/>
+</s>
+
+
+<s id="-4259697957378930536-2410310538-5" eva="8000105">
+    <ar ct="2410310745">
+        <m id="r8831248" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:20.924"/>
+        <m id="r8831302" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:20.924"/>
+    </ar>
+</s>
+
+
+<s id="-2207613486972401003-2410310652-13" eva="8000105">
+    <ar ct="2410310839" l="2">
+        <m id="r8835296" t="d" c="45" ts="2410310736" ts-tts="24-10-31 07:36:59.510"/>
+    </ar>
+</s>
+
+
+<s id="-8244790564162753872-2410310600-3" eva="8000105">
+    <m id="r289491835" t="c" ts="2410310734" ts-tts="24-10-31 07:34:24.014"/>
+    <m id="r289491835alt" t="c" ts="2410310734" ts-tts="24-10-31 07:34:24.202"/>
+    <ar ct="2410310754">
+        <m id="r8835215" t="f" c="0" ts="2410310734" ts-tts="24-10-31 07:34:24.081"/>
+    </ar>
+    <dp ct="2410310801">
+        <m id="r8834603" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:31.986"/>
+        <m id="r8834608" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:31.986"/>
+    </dp>
+</s>
+
+</timetable>

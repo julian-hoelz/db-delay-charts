@@ -1,0 +1,21 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8868050453695511606-2411022158-8" eva="8000105">
+    <ar ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf" pp="18" ct="2411030400" pt="2411030243" hi="1" wings="4753870957390372842-2411022158"/>
+    <dp ppth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Utrecht Centraal|Amsterdam Centraal" pp="18" ct="2411030405" pt="2411030313" hi="1" wings="4753870957390372842-2411022158"/>
+    <tl t="p" o="85" c="NJ" n="402"/>
+</s>
+
+
+<s id="4753870957390372842-2411022158-8" eva="8000105">
+    <ar ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf" pp="18" ct="2411030400" pt="2411030243"/>
+    <dp ppth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Utrecht Centraal|Amsterdam Centraal" pp="18" ct="2411030405" pt="2411030313"/>
+    <tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+</s>
+
+
+<s id="339817515348174159-2411030754-9" eva="8000105">
+    <ar ct="2411030941" l="RE99"/>
+</s>
+
+</timetable>

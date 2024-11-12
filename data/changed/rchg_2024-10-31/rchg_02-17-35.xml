@@ -1,0 +1,111 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7108274583246193747-2410302151-8" eva="8000105">
+    <ar ct="2410310233">
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:51.255"/>
+    </ar>
+    <dp ct="2410310249">
+        <m id="r8822858" t="f" c="0" ts="2410302106" ts-tts="24-10-30 21:06:14.920"/>
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:51.255"/>
+    </dp>
+</s>
+
+
+<s id="3281170958201236190-2410310616-1" eva="8000105">
+    <dp ct="2410310616" l="RE98"/>
+</s>
+
+
+<s id="4482270657237930589-2410311828-19" eva="8000105">
+    <ar cpth="Stadtallendorf|Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410302122" l="RB41"/>
+</s>
+
+
+<s id="-7138074359361066746-2410311835-15" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-30 23:16:13.242" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Eisenach">
+        <m id="r8756408" t="f" c="0" ts="2410291448" ts-tts="24-10-29 14:48:30.750"/>
+        <m id="r8779174" t="f" c="0" ts="2410300143" ts-tts="24-10-30 01:43:45.689"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf">
+        <m id="r8756408" t="f" c="0" ts="2410291448" ts-tts="24-10-29 14:48:30.750"/>
+        <m id="r8779174" t="f" c="0" ts="2410300143" ts-tts="24-10-30 01:43:45.689"/>
+    </dp>
+</s>
+
+
+<s id="5667959537072183906-2410311831-18" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-30 23:16:13.442" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410302122" l="RB40"/>
+</s>
+
+
+<s id="377916917112555014-2410311854-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-30 23:16:13.473" pr="2"/>
+    <dp>
+        <m id="r8817496" t="f" c="1000" ts="2410301900" ts-tts="24-10-30 19:00:40.465"/>
+        <m id="r8829651" t="q" c="98" ts="2410310213" ts-tts="24-10-31 02:14:11.228"/>
+    </dp>
+</s>
+
+
+<s id="200202937769164954-2410311829-1" eva="8000105">
+    <dp l="22">
+        <m id="r8826461" t="q" c="77" ts="2410302315" ts-tts="24-10-30 23:15:18.733"/>
+    </dp>
+</s>
+
+
+<s id="-3726624042286163559-2410311859-1" eva="8000105">
+    <dp l="20">
+        <m id="r8826345" t="q" c="85" ts="2410302310" ts-tts="24-10-30 23:10:36.901"/>
+    </dp>
+</s>
+
+
+<s id="-2269259515107887-2410311818-1" eva="8000105">
+    <dp l="5">
+        <m id="r8826208" t="q" c="85" ts="2410302305" ts-tts="24-10-30 23:05:53.937"/>
+    </dp>
+</s>
+
+
+<s id="66037742347613976-2410311801-1" eva="8000105">
+    <dp l="30">
+        <m id="r8826024" t="q" c="85" ts="2410302259" ts-tts="24-10-30 22:59:20.578"/>
+    </dp>
+</s>
+
+
+<s id="4067520104924330339-2410311838-1" eva="8000105">
+    <dp l="SE14">
+        <m id="r8824871" t="f" c="0" ts="2410302216" ts-tts="24-10-30 22:16:32.480"/>
+    </dp>
+</s>
+
+
+<s id="-8454454517290803659-2410311829-15" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-30 23:16:13.473" pr="2"/>
+</s>
+
+
+<s id="3080474508177482894-2410311851-9" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-30 23:16:13.268" pr="2"/>
+</s>
+
+
+<s id="4341219805487381340-2410311825-8" eva="8000105">
+    <m id="r2277690" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-30 23:16:13.251" pr="2"/>
+</s>
+
+
+<s id="-7056878515633598205-2410311838-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-30 23:16:13.250" pr="2"/>
+</s>
+
+
+<s id="5407315589150106200-2410311817-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-10-30 23:16:13.098" pr="3" del="1"/>
+</s>
+
+</timetable>

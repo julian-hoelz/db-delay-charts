@@ -1,0 +1,85 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4219110208332631493-2411012107-15" eva="8000105">
+    <ar cp="18" ct="2411012225" l="68"/>
+</s>
+
+
+<s id="7006667736143692899-2411012152-5" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-10-31 23:16:12.043" pr="2"/>
+    <ar ct="2411012229" l="22"/>
+</s>
+
+
+<s id="-1268335842879231054-2411011905-6" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.016" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.022" pr="2"/>
+    <ar ct="2411012329"/>
+</s>
+
+
+<s id="7909079333769130460-2411012023-12" eva="8000105">
+    <ar ct="2411012239" l="30">
+        <m id="r8872800" t="q" c="85" ts="2410312247" ts-tts="24-10-31 22:47:54.917"/>
+    </ar>
+</s>
+
+
+<s id="4871792043336475885-2411012133-14" eva="8000105">
+    <ar ct="2411012249" l="60">
+        <m id="r8910157" t="d" c="43" ts="2411012201" ts-tts="24-11-01 22:01:07.674"/>
+    </ar>
+</s>
+
+
+<s id="-4023325533668720220-2411012242-1" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411012330" cat="Störung" ts="2411012056" ts-tts="24-11-01 22:16:11.701" pr="1"/>
+    <dp cp="4" ct="2411012242" l="51"/>
+</s>
+
+
+<s id="7019623136381818860-2411011828-14" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:14.388" pr="1"/>
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-31 23:16:11.842" pr="2"/>
+    <ar cpth="Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)" ct="2411012308">
+        <m id="r8870028" t="d" c="31" ts="2410312058" ts-tts="24-10-31 20:58:21.882"/>
+        <m id="r8870038" t="d" c="31" ts="2410312058" ts-tts="24-10-31 20:58:37.410"/>
+    </ar>
+</s>
+
+
+<s id="3212956860110230921-2411012107-13" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411012330" cat="Störung" ts="2411012056" ts-tts="24-11-01 22:16:11.701" pr="1"/>
+    <ar ct="2411012252" l="50"/>
+</s>
+
+
+<s id="2312296716933966404-2411011554-13" eva="8000105">
+    <ar ct="2411012242">
+        <m id="r8904121" t="d" c="43" ts="2411011841" ts-tts="24-11-01 18:41:40.744"/>
+        <m id="r8909580" t="f" c="0" ts="2411012136" ts-tts="24-11-01 21:36:22.585"/>
+    </ar>
+    <dp ct="2411012248">
+        <m id="r8904121" t="d" c="43" ts="2411011841" ts-tts="24-11-01 18:41:40.744"/>
+        <m id="r8909580" t="f" c="0" ts="2411012136" ts-tts="24-11-01 21:36:22.585"/>
+    </dp>
+</s>
+
+
+<s id="-4476878338290935164-2411012326-1" eva="8000105">
+    <dp cpth="Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Langenselbold|Hailer-Meerholz|Gelnhausen|Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)|Fulda" l="50">
+        <m id="r8910561" t="d" c="8" ts="2411012219" ts-tts="24-11-01 22:19:56.855"/>
+    </dp>
+</s>
+
+
+<s id="5157855554066104361-2411012207-13" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411012330" cat="Störung" ts="2411012056" ts-tts="24-11-01 22:16:11.701" pr="1"/>
+    <ar cpth="Fulda|Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach|Gelnhausen|Langenselbold|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd" ct="2411012335" l="50">
+        <m id="r8909600" t="d" c="8" ts="2411012137" ts-tts="24-11-01 21:37:24.498"/>
+        <m id="r8910175" t="d" c="8" ts="2411012201" ts-tts="24-11-01 22:01:38.623"/>
+        <m id="r8910180" t="d" c="8" ts="2411012201" ts-tts="24-11-01 22:02:09.494"/>
+    </ar>
+</s>
+
+</timetable>

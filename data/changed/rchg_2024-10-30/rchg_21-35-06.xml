@@ -1,0 +1,60 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="6084542420969462186-2410301726-8" eva="8000105">
+    <ar ct="2410302156">
+        <m id="r8819228" t="d" c="54" ts="2410301931" ts-tts="24-10-30 19:31:27.545"/>
+        <m id="r8819387" t="d" c="1" ts="2410301936" ts-tts="24-10-30 19:36:46.942"/>
+        <m id="r8819824" t="f" c="0" ts="2410301947" ts-tts="24-10-30 19:47:58.697"/>
+        <m id="r8823453" t="d" c="34" ts="2410302122" ts-tts="24-10-30 21:22:25.990"/>
+    </ar>
+    <dp ct="2410302202">
+        <m id="r8819228" t="d" c="54" ts="2410301931" ts-tts="24-10-30 19:31:27.545"/>
+        <m id="r8819387" t="d" c="1" ts="2410301936" ts-tts="24-10-30 19:36:46.942"/>
+        <m id="r8819824" t="f" c="0" ts="2410301947" ts-tts="24-10-30 19:47:58.697"/>
+        <m id="r8823453" t="d" c="34" ts="2410302122" ts-tts="24-10-30 21:22:25.990"/>
+    </dp>
+</s>
+
+
+<s id="793392190968382291-2410302059-3" eva="8000105">
+    <ar cp="22" ct="2410302135" l="8"/>
+</s>
+
+
+<s id="3736117015423388331-2410301751-5" eva="8000105">
+    <m id="r2220079" t="h" from="2409041648" to="2411282327" cat="Bauarbeiten" ts="2408230832" ts-tts="24-10-29 23:16:13.688" pr="1" del="1"/>
+    <m id="r2193459" t="h" from="2408071648" to="2411282327" cat="Bauarbeiten" ts="2408230832" ts-tts="24-10-29 23:16:13.682" pr="1" del="1"/>
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" pp="7" ct="2410302147" pt="2410302104">
+        <m id="r8771602" t="d" c="31" ts="2410292011" ts-tts="24-10-29 20:11:41.626"/>
+        <m id="r8771712" t="f" c="0" ts="2410292013" ts-tts="24-10-29 20:13:49.149"/>
+        <m id="r8818600" t="f" c="0" ts="2410301918" ts-tts="24-10-30 19:18:22.346"/>
+        <m id="r8823765" t="f" c="0" ts="2410302133" ts-tts="24-10-30 21:33:49.492"/>
+    </ar>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Koblenz Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" ppth="Frankfurt(M) Flughafen Fernbf|Koblenz Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" pp="7" ct="2410302154" pt="2410302109">
+        <m id="r8771602" t="d" c="31" ts="2410292011" ts-tts="24-10-29 20:11:41.626"/>
+        <m id="r8771712" t="f" c="0" ts="2410292013" ts-tts="24-10-29 20:13:49.149"/>
+        <m id="r8818600" t="f" c="0" ts="2410301918" ts-tts="24-10-30 19:18:22.346"/>
+        <m id="r8822851" t="f" c="0" ts="2410302106" ts-tts="24-10-30 21:06:14.920"/>
+        <m id="r8823765" t="f" c="0" ts="2410302133" ts-tts="24-10-30 21:33:49.492"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="526"/>
+</s>
+
+
+<s id="-9059022266409596957-2410302033-14" eva="8000105">
+    <ar ct="2410302209" l="60">
+        <m id="r8821889" t="d" c="43" ts="2410302040" ts-tts="24-10-30 20:40:26.507"/>
+    </ar>
+</s>
+
+
+<s id="-5038273185526805270-2410301954-8" eva="8000105">
+    <ar ct="2410302135" l="RE99"/>
+</s>
+
+
+<s id="-3863211215924100829-2410301905-21" eva="8000105">
+    <ar cpth="Wabern(Bz Kassel)|Singlis|Borken(Hess)|Zimmersrode|Schlierbach(Schwalm-Eder-Kr.)|Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)" ct="2410302136" l="RE98"/>
+</s>
+
+</timetable>

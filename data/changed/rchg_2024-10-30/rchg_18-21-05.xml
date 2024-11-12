@@ -1,0 +1,92 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-3863211215924100829-2410301905-21" eva="8000105">
+    <ar cpth="Wabern(Bz Kassel)|Singlis|Borken(Hess)|Zimmersrode|Schlierbach(Schwalm-Eder-Kr.)|Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)" ct="2410302147" l="RE98"/>
+</s>
+
+
+<s id="1182223268081247614-2410301702-13" eva="8000105">
+    <m id="r2306130" t="h" from="2410301702" to="2410302035" cat="Information" ts="2410301722" ts-tts="24-10-30 17:22:11.536" pr="2"/>
+    <ar cpth="Dortmund Hbf|Witten Hbf|Letmathe|Altena(Westf)|Werdohl|Plettenberg|Finnentrop|Lennestadt-Grevenbrück|Lennestadt-Altenhundem|Kreuztal|Siegen-Weidenau|Siegen Hbf|Dillenburg|Wetzlar|Bad Nauheim|Frankfurt(Main)West" ppth="Dortmund Hbf|Witten Hbf|Letmathe|Altena(Westf)|Werdohl|Plettenberg|Finnentrop|Lennestadt-Grevenbrück|Lennestadt-Altenhundem|Kreuztal|Siegen-Weidenau|Siegen Hbf" pp="16" ct="2410302033" pt="2410302035">
+        <m id="r8807554" t="f" c="0" ts="2410301600" ts-tts="24-10-30 16:00:39.702"/>
+        <m id="r8807573" t="f" c="0" ts="2410301601" ts-tts="24-10-30 16:01:11.898"/>
+        <m id="r8807594" t="f" c="0" ts="2410301601" ts-tts="24-10-30 16:02:00.069"/>
+        <m id="r8807639" t="f" c="0" ts="2410301602" ts-tts="24-10-30 16:02:16.042"/>
+        <m id="r8808344" t="d" c="36" ts="2410301615" ts-tts="24-10-30 16:15:09.469"/>
+        <m id="r8814057" t="d" c="36" ts="2410301801" ts-tts="24-10-30 18:01:22.678"/>
+    </ar>
+    <tl f="F" t="s" o="80" c="IC" n="2935"/>
+</s>
+
+
+<s id="-6386283175346457289-2410301551-18" eva="8000105">
+    <ar ct="2410301846" l="3">
+        <m id="r8814873" t="d" c="43" ts="2410301818" ts-tts="24-10-30 18:18:24.815"/>
+    </ar>
+</s>
+
+
+<s id="-4428512129679500917-2410301620-1" eva="8000105">
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Gießen|Marburg(Lahn)|Cölbe|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Schwalmstadt-Wiera|Treysa|Schlierbach(Schwalm-Eder-Kr.)|Zimmersrode|Borken(Hess)|Singlis|Wabern(Bz Kassel)" ct="2410301620" l="RE98">
+        <m id="r8804152" t="f" c="0" ts="2410301447" ts-tts="24-10-30 14:47:21.716"/>
+    </dp>
+</s>
+
+
+<s id="4067520104924330339-2410301838-1" eva="8000105">
+    <m id="r2306062" t="h" from="2410301557" to="2410301900" cat="Störung" ts="2410301606" ts-tts="24-10-30 17:16:12.312" pr="1"/>
+    <m id="r2305709" t="h" from="2410300850" to="2410301100" cat="Störung" ts="2410300905" ts-tts="24-10-30 10:16:02.024" pr="1"/>
+    <dp ct="2410301846" l="SE14">
+        <m id="r8813579" t="f" c="0" ts="2410301752" ts-tts="24-10-30 17:53:00.156"/>
+    </dp>
+</s>
+
+
+<s id="-4930005745220627540-2410301634-8" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-29 23:16:13.886" pr="2"/>
+    <ar ct="2410302143">
+        <m id="r8807735" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+        <m id="r8807737" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+        <m id="r8807739" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+    </ar>
+    <dp ct="2410302152">
+        <m id="r8807735" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+        <m id="r8807737" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+        <m id="r8807739" t="q" c="80" ts="2410301604" ts-tts="24-10-30 16:04:24.600"/>
+    </dp>
+</s>
+
+
+<s id="-3574258081945208957-2410301659-15" eva="8000105">
+    <ar ct="2410301824" l="68">
+        <m id="r8813123" t="d" c="43" ts="2410301744" ts-tts="24-10-30 17:44:20.747"/>
+    </ar>
+</s>
+
+
+<s id="8428028954903351107-2410301636-11" eva="8000105">
+    <m id="r2306090" t="h" from="2410301642" to="2410301845" cat="Störung" ts="2410301643" ts-tts="24-10-30 16:43:08.083" pr="1"/>
+    <ar ct="2410302031">
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:14.639"/>
+    </ar>
+    <dp ct="2410302038">
+        <m id="r8807912" t="f" c="0" ts="2410301607" ts-tts="24-10-30 16:07:22.477"/>
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:14.639"/>
+    </dp>
+</s>
+
+
+<s id="3812416505935961143-2410301816-1" eva="8000105">
+    <dp ct="2410301818" l="34"/>
+</s>
+
+
+<s id="-7821637860017398323-2410301743-5" eva="8000105">
+    <m id="r2305529" t="h" from="2410301126" to="2410302157" cat="Information" ts="2410300342" ts-tts="24-10-30 03:42:48.740" pr="2"/>
+    <ar ct="2410302157">
+        <m id="r8808425" t="d" c="48" ts="2410301616" ts-tts="24-10-30 16:17:02.524"/>
+        <m id="r8811247" t="q" c="80" ts="2410301713" ts-tts="24-10-30 17:13:15.744"/>
+    </ar>
+</s>
+
+</timetable>

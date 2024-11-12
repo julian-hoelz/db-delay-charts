@@ -1,0 +1,33 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7108274583246193747-2410302151-8" eva="8000105">
+    <ar cp="18" ct="2410310236">
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:51.255"/>
+        <m id="r8829904" t="d" c="21" ts="2410310236" ts-tts="24-10-31 02:36:29.491"/>
+        <m id="r8830010" t="f" c="0" ts="2410310248" ts-tts="24-10-31 02:48:46.563"/>
+    </ar>
+    <dp cp="18" ct="2410310311">
+        <m id="r8822858" t="f" c="0" ts="2410302106" ts-tts="24-10-30 21:06:14.920"/>
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:51.255"/>
+        <m id="r8829904" t="d" c="21" ts="2410310236" ts-tts="24-10-31 02:36:29.491"/>
+        <m id="r8830010" t="f" c="0" ts="2410310248" ts-tts="24-10-31 02:48:46.563"/>
+    </dp>
+</s>
+
+
+<s id="4552943191053312167-2410311038-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Hochheim(Main)|Mainz Hbf|Mainz Römisches Theater|Bodenheim|Nierstein|Oppenheim|Guntersblum|Osthofen|Worms Hbf|Frankenthal Hbf|Frankenthal Süd|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" cs="c" clt="2410310310" l="SE14">
+        <m id="r8824821" t="f" c="0" ts="2410302213" ts-tts="24-10-30 22:13:38.670"/>
+        <m id="r8830190" t="d" c="49" ts="2410310310" ts-tts="24-10-31 03:10:48.421"/>
+    </dp>
+</s>
+
+
+<s id="-7264585270489080729-2410310849-16" eva="8000105">
+    <ar cpth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Frankenthal Süd|Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" cs="c" clt="2410310310" l="SE14">
+        <m id="r8824805" t="f" c="0" ts="2410302213" ts-tts="24-10-30 22:13:38.671"/>
+        <m id="r8830192" t="d" c="49" ts="2410310310" ts-tts="24-10-31 03:10:48.422"/>
+    </ar>
+</s>
+
+</timetable>

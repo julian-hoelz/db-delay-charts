@@ -1,0 +1,76 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5168410402603736157-2410301530-1" eva="8000105">
+    <dp ct="2410301530" l="RB15"/>
+</s>
+
+
+<s id="-428989444287040363-2410300713-16" eva="8000105">
+    <ar ct="2410300828" l="RB15"/>
+</s>
+
+
+<s id="-1145545552519879876-2410300449-4" eva="8000105">
+    <ar ct="2410300651">
+        <m id="r8759277" t="f" c="0" ts="2410291547" ts-tts="24-10-29 15:47:56.718"/>
+    </ar>
+    <dp ct="2410300657">
+        <m id="r8759277" t="f" c="0" ts="2410291547" ts-tts="24-10-29 15:47:56.718"/>
+    </dp>
+</s>
+
+
+<s id="2446164127141487212-2410300404-9" eva="8000105">
+    <ar ct="2410300432" l="RB58"/>
+</s>
+
+
+<s id="2767250544822324629-2410302029-1" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-29 23:16:14.049" pr="1"/>
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Gießen Oswaldsgarten|Lollar|Friedelhausen|Fronhausen(Lahn)|Niederwalgern|Niederweimar|Marburg Süd|Marburg(Lahn)" cs="c" clt="2410292153" l="RB41"/>
+</s>
+
+
+<s id="-7680411701843564790-2410302010-22" eva="8000105">
+    <ar cpth="Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410292153" l="RB41"/>
+</s>
+
+
+<s id="2375477003020231749-2410302031-18" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-29 23:16:14.049" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410292153" l="RB40"/>
+</s>
+
+
+<s id="8573811631662133764-2410302048-7" eva="8000105">
+    <ar cpth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf">
+        <m id="r8702231" t="f" c="0" ts="2410281308" ts-tts="24-10-28 13:09:09.491"/>
+        <m id="r8731752" t="f" c="0" ts="2410290158" ts-tts="24-10-29 01:58:41.201"/>
+    </ar>
+</s>
+
+
+<s id="-2320340282101811304-2410302043-8" eva="8000105">
+    <ar>
+        <m id="r8779692" t="q" c="85" ts="2410300223" ts-tts="24-10-30 02:24:08.793"/>
+    </ar>
+</s>
+
+
+<s id="-1658303684909188967-2410302018-1" eva="8000105">
+    <dp l="5">
+        <m id="r8778127" t="q" c="85" ts="2410300121" ts-tts="24-10-30 01:21:31.799"/>
+    </dp>
+</s>
+
+
+<s id="7582314568044505717-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:13.869" pr="2"/>
+</s>
+
+
+<s id="-5851721557238592488-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:13.869" pr="2"/>
+</s>
+
+</timetable>

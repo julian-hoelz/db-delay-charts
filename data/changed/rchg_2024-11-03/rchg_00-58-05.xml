@@ -1,0 +1,39 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-2320340282101811304-2411022043-8" eva="8000105">
+    <m id="r2308283" t="h" from="2411022000" to="2411022200" cat="Störung" ts="2411022059" ts-tts="24-11-02 20:59:40.151" pr="1"/>
+    <ar ppth="München Hbf|München-Pasing|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf" cp="1" pp="2" ct="2411030139" pt="2411030059">
+        <m id="r8914640" t="f" c="0" ts="2411020207" ts-tts="24-11-02 02:08:03.603"/>
+        <m id="r8939563" t="q" c="80" ts="2411022013" ts-tts="24-11-02 20:13:19.297"/>
+        <m id="r8940676" t="d" c="7" ts="2411022054" ts-tts="24-11-02 20:54:16.265"/>
+        <m id="r8940925" t="f" c="0" ts="2411022104" ts-tts="24-11-02 21:04:33.278"/>
+        <m id="r8941061" t="f" c="0" ts="2411022110" ts-tts="24-11-02 21:10:28.544"/>
+        <m id="r8941281" t="d" c="7" ts="2411022118" ts-tts="24-11-02 21:18:57.706"/>
+        <m id="r8941428" t="f" c="0" ts="2411022124" ts-tts="24-11-02 21:24:52.826"/>
+        <m id="r8941481" t="f" c="0" ts="2411022127" ts-tts="24-11-02 21:27:42.654"/>
+        <m id="r8941668" t="f" c="0" ts="2411022138" ts-tts="24-11-02 21:38:45.891"/>
+        <m id="r8941796" t="f" c="0" ts="2411022146" ts-tts="24-11-02 21:46:12.954"/>
+        <m id="r8943298" t="f" c="0" ts="2411022255" ts-tts="24-11-02 22:55:33.654"/>
+        <m id="r8943305" t="f" c="0" ts="2411022256" ts-tts="24-11-02 22:56:04.503"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="990"/>
+</s>
+
+
+<s id="-7138074359361066746-2411021835-12" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.112" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen" ct="2411030240">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf" ct="2411030246">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </dp>
+</s>
+
+</timetable>

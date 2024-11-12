@@ -1,0 +1,49 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8868050453695511606-2411012134-8" eva="8000105">
+    <ar ct="2411020245">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2411012134-8" eva="8000105">
+    <ar ct="2411020245">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+
+<s id="-6582453439070561259-2411012046-9" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411020200" cat="Störung" ts="2411012056" ts-tts="24-11-01 23:16:12.284" pr="1"/>
+    <ar cpth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Hanau Hbf|Frankfurt(Main)Süd" ppth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Schlüchtern|Bad Soden-Salmünster|Hanau Hbf|Frankfurt(Main)Süd" pp="7" ct="2411020107" pt="2411012232" l="5">
+        <m id="r8872565" t="q" c="73" ts="2410312238" ts-tts="24-10-31 22:38:46.361"/>
+        <m id="r8872632" t="q" c="85" ts="2410312240" ts-tts="24-10-31 22:40:37.209"/>
+        <m id="r8906909" t="f" c="0" ts="2411011955" ts-tts="24-11-01 19:55:36.430"/>
+        <m id="r8909416" t="d" c="8" ts="2411012128" ts-tts="24-11-01 21:28:35.733"/>
+    </ar>
+    <tl f="N" t="p" o="8005KG" c="RE" n="4598"/>
+</s>
+
+
+<s id="5888878348182935850-2411012303-26" eva="8000105">
+    <ar ct="2411020204" l="RE98"/>
+</s>
+
+
+<s id="9117006994590991223-2411012236-32" eva="8000105">
+    <m id="r2296719" t="h" from="2411012236" to="2411020054" cat="Bauarbeiten" ts="2410312303" ts-tts="24-10-31 23:03:14.635" pr="2"/>
+    <ar ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd" pp="5" ct="2411020136" pt="2411020048" l="54">
+        <m id="r8911666" t="d" c="31" ts="2411012317" ts-tts="24-11-01 23:18:09.476"/>
+        <m id="r8912219" t="d" c="31" ts="2411012353" ts-tts="24-11-01 23:53:50.639"/>
+    </ar>
+    <tl f="N" t="p" o="800772" c="RE" n="4636"/>
+</s>
+
+</timetable>

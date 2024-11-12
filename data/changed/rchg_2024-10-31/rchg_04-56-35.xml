@@ -1,0 +1,25 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="6174471127908678384-2410310444-1" eva="8000105">
+    <m id="r2306470" t="h" from="2410310444" to="2410310603" cat="Information" ts="2410310456" ts-tts="24-10-31 04:56:31.463" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-30 23:16:12.102" pr="2"/>
+    <dp cp="3" ct="2410310445">
+        <m id="r8817521" t="f" c="1000" ts="2410301900" ts-tts="24-10-30 19:00:45.685"/>
+    </dp>
+</s>
+
+
+<s id="3704713885565394549-2410311036-11" eva="8000105">
+    <m id="r2306455" t="h" from="2410311036" to="2410311926" cat="Information" ts="2410310356" ts-tts="24-10-31 03:56:37.576" pr="2"/>
+    <m id="r2306469" t="h" from="2410311153" to="2410311339" cat="Information" ts="2410310453" ts-tts="24-10-31 04:53:57.382" pr="1"/>
+    <m id="r2306467" t="h" from="2410311036" to="2410311036" cat="Information" ts="2410310443" ts-tts="24-10-31 04:43:57.642" pr="1"/>
+    <m id="r2306468" t="h" from="2410311100" to="2410311150" cat="Information" ts="2410310448" ts-tts="24-10-31 04:48:34.483" pr="1"/>
+    <ar cpth="" cs="c" clt="2410310456">
+        <m id="r8831085" t="d" c="55" ts="2410310456" ts-tts="24-10-31 04:56:16.096"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf">
+        <m id="r8831085" t="d" c="55" ts="2410310456" ts-tts="24-10-31 04:56:16.096"/>
+    </dp>
+</s>
+
+</timetable>

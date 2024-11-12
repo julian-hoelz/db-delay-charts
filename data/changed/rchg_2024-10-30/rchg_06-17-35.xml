@@ -1,0 +1,148 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7827307397706401371-2410300647-5" eva="8000105">
+    <ar ct="2410301004">
+        <m id="r8782779" t="q" c="80" ts="2410300617" ts-tts="24-10-30 06:17:28.848"/>
+    </ar>
+    <dp ct="2410301011">
+        <m id="r8782779" t="q" c="80" ts="2410300617" ts-tts="24-10-30 06:17:28.848"/>
+    </dp>
+</s>
+
+
+<s id="377380470887407460-2410300513-16" eva="8000105">
+    <ar ct="2410300634" l="RB15"/>
+</s>
+
+
+<s id="3281170958201236190-2410300616-1" eva="8000105">
+    <dp ct="2410300617" l="RE98"/>
+</s>
+
+
+<s id="9029167071702223712-2410300602-10" eva="8000105">
+    <ar ct="2410300648" l="RB12"/>
+</s>
+
+
+<s id="-5549851624903416991-2410300647-1" eva="8000105">
+    <dp ct="2410300650" l="RB12"/>
+</s>
+
+
+<s id="-3943170705080026081-2410300514-14" eva="8000105">
+    <ar ct="2410300618" l="51">
+        <m id="r8781540" t="d" c="43" ts="2410300528" ts-tts="24-10-30 05:28:45.630"/>
+    </ar>
+</s>
+
+
+<s id="8932391452276218057-2410300608-16" eva="8000105">
+    <ar ct="2410300840" l="30">
+        <m id="r8782764" t="d" c="43" ts="2410300616" ts-tts="24-10-30 06:16:56.837"/>
+    </ar>
+</s>
+
+
+<s id="989207292618606600-2410301032-10" eva="8000105">
+    <ar ct="2410301110" l="RB12"/>
+</s>
+
+
+<s id="896384667678103556-2410300732-10" eva="8000105">
+    <ar ct="2410300810" l="RB12"/>
+</s>
+
+
+<s id="4485692289106163004-2410301417-1" eva="8000105">
+    <dp ct="2410301417" l="RB12"/>
+</s>
+
+
+<s id="4311575177435395938-2410300947-1" eva="8000105">
+    <dp ct="2410300947" l="RB12"/>
+</s>
+
+
+<s id="3883787396073878347-2410301247-1" eva="8000105">
+    <dp ct="2410301247" l="RB12"/>
+</s>
+
+
+<s id="2876338763274642822-2410301117-1" eva="8000105">
+    <dp ct="2410301117" l="RB12"/>
+</s>
+
+
+<s id="2801826025756613862-2410300817-1" eva="8000105">
+    <dp ct="2410300817" l="RB12"/>
+</s>
+
+
+<s id="-8861376845392321716-2410301502-10" eva="8000105">
+    <ar ct="2410301540" l="RB12"/>
+</s>
+
+
+<s id="-8342458159009848227-2410300902-10" eva="8000105">
+    <ar ct="2410300940" l="RB12"/>
+</s>
+
+
+<s id="-2251424720887288145-2410301202-10" eva="8000105">
+    <ar ct="2410301240" l="RB12"/>
+</s>
+
+
+<s id="-2237137775459262366-2410301332-10" eva="8000105">
+    <ar ct="2410301410" l="RB12"/>
+</s>
+
+
+<s id="-7745097300484930838-2410300613-1" eva="8000105">
+    <dp ct="2410300615" l="22"/>
+</s>
+
+
+<s id="-7052912375929255646-2410300502-15" eva="8000105">
+    <ar ct="2410300623" l="68"/>
+</s>
+
+
+<s id="-1569137128894820549-2410300607-15" eva="8000105">
+    <ar ct="2410300725" l="68">
+        <m id="r8782739" t="d" c="43" ts="2410300616" ts-tts="24-10-30 06:16:24.943"/>
+    </ar>
+</s>
+
+
+<s id="7109080472801536148-2410300532-10" eva="8000105">
+    <ar ct="2410300617" l="RB12"/>
+</s>
+
+
+<s id="-42562558602494985-2410300456-17" eva="8000105">
+    <ar ct="2410300617" l="RB82"/>
+</s>
+
+
+<s id="7380922947792359896-2410302231-1" eva="8000105">
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Dutenhofen(Wetzlar)|Wetzlar|Aßlar|Werdorf|Ehringshausen(Kr Wetzlar)|Katzenfurt|Edingen(Wetzlar)|Sinn|Herborn(Dillkr)|Burg(Dillkr) Nord|Niederscheld(Dillkr)Süd|Dillenburg" cs="c" clt="2410292153" l="RB40"/>
+</s>
+
+
+<s id="5405444600047348865-2410302231-1" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-29 23:16:14.049" pr="1"/>
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Gießen Oswaldsgarten|Lollar|Friedelhausen|Fronhausen(Lahn)|Niederwalgern|Niederweimar|Marburg Süd|Marburg(Lahn)" ct="2410302231" cs="c" clt="2410300000" l="RB41"/>
+</s>
+
+
+<s id="2774174590951633862-2410302228-23" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-29 23:16:14.146" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf">
+        <m id="r8705262" t="f" c="0" ts="2410281412" ts-tts="24-10-28 14:12:31.586"/>
+        <m id="r8731828" t="f" c="0" ts="2410290158" ts-tts="24-10-29 01:58:56.604"/>
+    </ar>
+</s>
+
+</timetable>

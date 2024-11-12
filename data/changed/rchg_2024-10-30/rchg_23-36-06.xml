@@ -1,0 +1,77 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3638286882532797531-2410302105-21" eva="8000105">
+    <ar ct="2410302338" l="RE98"/>
+</s>
+
+
+<s id="1077851836241039338-2410302154-8" eva="8000105">
+    <ar ct="2410302338" l="RE99"/>
+</s>
+
+
+<s id="8428028954903351107-2410301636-11" eva="8000105">
+    <m id="r2306090" t="h" from="2410301642" to="2410302000" cat="Störung" ts="2410301643" ts-tts="24-10-30 19:16:10.806" pr="1"/>
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Regionalbf" ppth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Regionalbf" pp="6" ct="2410302047" pt="2410302013">
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:08.235"/>
+        <m id="r8821350" t="f" c="0" ts="2410302025" ts-tts="24-10-30 20:25:50.051"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Straubing|Plattling|Passau Hbf" ppth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf" pp="6" ct="2410302053" pt="2410302022">
+        <m id="r8807912" t="f" c="0" ts="2410301607" ts-tts="24-10-30 16:07:21.351"/>
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:08.235"/>
+        <m id="r8821350" t="f" c="0" ts="2410302025" ts-tts="24-10-30 20:25:50.051"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="929"/>
+</s>
+
+
+<s id="5866882759797823269-2410310632-10" eva="8000105">
+    <ar ct="2410310710" l="RB12"/>
+</s>
+
+
+<s id="377380470887407460-2410310513-16" eva="8000105">
+    <ar ct="2410310628" l="RB15"/>
+</s>
+
+
+<s id="-7766241751002456514-2410310847-1" eva="8000105">
+    <dp ct="2410310847" l="RB12"/>
+</s>
+
+
+<s id="-7196265674974663958-2410302302-10" eva="8000105">
+    <ar ct="2410302341" l="RB12"/>
+</s>
+
+
+<s id="-6845282837818138151-2410310502-10" eva="8000105">
+    <ar ct="2410310540" l="RB12"/>
+</s>
+
+
+<s id="-5912829545801191034-2410310802-10" eva="8000105">
+    <ar ct="2410310840" l="RB12"/>
+</s>
+
+
+<s id="-462382426514279593-2410310547-1" eva="8000105">
+    <dp ct="2410310547" l="RB12"/>
+</s>
+
+
+<s id="-428989444287040363-2410310713-16" eva="8000105">
+    <ar ct="2410310828" l="RB15"/>
+</s>
+
+
+<s id="-3977687208835362778-2410310717-1" eva="8000105">
+    <dp ct="2410310717" l="RB12"/>
+</s>
+
+
+<s id="-1333427391620168769-2410310832-10" eva="8000105">
+    <ar ct="2410310910" l="RB12"/>
+</s>
+
+</timetable>

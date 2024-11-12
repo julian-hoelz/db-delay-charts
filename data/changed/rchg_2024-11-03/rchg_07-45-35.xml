@@ -1,0 +1,65 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-8767056179419145945-2411030815-6" eva="8000105">
+    <m id="r2308379" t="h" from="2411030527" to="2411040033" cat="Information" ts="2411030249" ts-tts="24-11-03 02:49:23.043" pr="3"/>
+    <ar ct="2411031200">
+        <m id="r8945947" t="f" c="0" ts="2411030210" ts-tts="24-11-03 02:10:13.275"/>
+        <m id="r8949016" t="q" c="80" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+        <m id="r8949018" t="q" c="84" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+        <m id="r8949020" t="q" c="84" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+    </ar>
+    <dp ct="2411031206">
+        <m id="r8945947" t="f" c="0" ts="2411030210" ts-tts="24-11-03 02:10:13.275"/>
+        <m id="r8949016" t="q" c="80" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+        <m id="r8949018" t="q" c="84" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+        <m id="r8949020" t="q" c="84" ts="2411030745" ts-tts="24-11-03 07:45:20.463"/>
+    </dp>
+</s>
+
+
+<s id="2648274595113244976-2411031438-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" l="RB82"/>
+</s>
+
+
+<s id="5031310367914604275-2411031225-1" eva="8000105">
+    <dp cpth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)" l="RB82"/>
+</s>
+
+
+<s id="-8244790564162753872-2411030600-3" eva="8000105">
+    <ar ct="2411030747"/>
+    <dp ct="2411030758"/>
+</s>
+
+
+<s id="-6038863164330753428-2411030631-14" eva="8000105">
+    <ar ct="2411030753" l="60">
+        <m id="r8947749" t="d" c="48" ts="2411030630" ts-tts="24-11-03 06:31:04.895"/>
+    </ar>
+</s>
+
+
+<s id="7205068402726255874-2411031238-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" l="RB82"/>
+</s>
+
+
+<s id="1848845147149544039-2411030742-1" eva="8000105">
+    <dp ct="2411030752" l="51">
+        <m id="r8948991" t="d" c="61" ts="2411030744" ts-tts="24-11-03 07:44:18.060"/>
+    </dp>
+</s>
+
+
+<s id="-4111942222860974331-2411030636-17" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411030116" ts="2411011000" ts-tts="24-11-01 10:01:02.223"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411030804" l="RB10"/>
+</s>
+
+
+<s id="-3671994687157025910-2411030813-13" eva="8000105">
+    <ar ct="2411030901" l="61"/>
+</s>
+
+</timetable>

@@ -1,0 +1,59 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8595060505597233374-2411031318-1" eva="8000105">
+    <m id="r2308337" t="h" from="2411031318" to="2411031739" cat="Information" ts="2411030139" ts-tts="24-11-03 01:39:41.048" pr="2"/>
+    <dp ct="2411031325">
+        <m id="r8956603" t="q" c="80" ts="2411031248" ts-tts="24-11-03 12:48:32.994"/>
+    </dp>
+</s>
+
+
+<s id="-3045802317788129416-2411031158-15" eva="8000105">
+    <ar ct="2411031325" l="68"/>
+</s>
+
+
+<s id="-5540925058293275571-2411031216-13" eva="8000105">
+    <ar ct="2411031319" l="51">
+        <m id="r8957265" t="d" c="43" ts="2411031315" ts-tts="24-11-03 13:15:48.891"/>
+    </ar>
+</s>
+
+
+<s id="-7660808388416195763-2411031149-16" eva="8000105">
+    <ar ct="2411031323" l="SE14"/>
+</s>
+
+
+<s id="-5665409642092229233-2411040558-1" eva="8000105">
+    <dp cpth="Berlin-Spandau|Berlin Hbf|Berlin Ostbahnhof">
+        <m id="r8948817" t="f" c="0" ts="2411030734" ts-tts="24-11-03 07:34:24.433"/>
+    </dp>
+</s>
+
+
+<s id="4250821308365947570-2411040528-5" eva="8000105">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf">
+        <m id="r8925976" t="f" c="0" ts="2411021238" ts-tts="24-11-02 12:38:33.507"/>
+        <m id="r8945552" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:37.390"/>
+    </ar>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf">
+        <m id="r8925976" t="f" c="0" ts="2411021238" ts-tts="24-11-02 12:38:33.507"/>
+        <m id="r8945552" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:37.390"/>
+    </dp>
+</s>
+
+
+<s id="7750978145243791777-2411040506-1" eva="8000105">
+    <dp cpth="Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Neumünster|Kiel Hbf">
+        <m id="r8927974" t="f" c="0" ts="2411021348" ts-tts="24-11-02 13:48:12.496"/>
+        <m id="r8945560" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:37.387"/>
+    </dp>
+</s>
+
+
+<s id="377380470887407460-2411040513-16" eva="8000105">
+    <ar ct="2411040628" l="RB15"/>
+</s>
+
+</timetable>

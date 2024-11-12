@@ -1,0 +1,16 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3253900767729253562-2411030147-1" eva="8000105">
+    <dp ct="2411030153" l="RB12"/>
+</s>
+
+
+<s id="4081552720387302901-2411030506-1" eva="8000105">
+    <m id="r2308327" t="h" from="2411030506" to="2411032239" cat="Information" ts="2411030131" ts-tts="24-11-03 01:31:26.086" pr="2"/>
+    <dp cpth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB">
+        <m id="r8945859" t="f" c="0" ts="2411030150" ts-tts="24-11-03 01:50:31.079"/>
+        <m id="r8945878" t="d" c="31" ts="2411030152" ts-tts="24-11-03 01:52:18.641"/>
+    </dp>
+</s>
+
+</timetable>

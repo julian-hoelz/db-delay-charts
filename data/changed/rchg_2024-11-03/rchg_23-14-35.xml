@@ -1,0 +1,23 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-5866803282986553707-2411032344-15" eva="8000105">
+    <m id="r2108173" t="h" from="2401070000" to="2412122359" cat="Bauarbeiten" ts="2408230832" ts-tts="24-11-02 23:16:11.490" pr="2" del="1"/>
+    <ar ct="2411040027" l="6"/>
+</s>
+
+
+<s id="-3612194776124486214-2411032210-7" eva="8000105">
+    <ar ppth="Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" pp="23 A-C" ct="2411032315" pt="2411032302" l="RB10">
+        <m id="r8927581" t="f" c="0" ts="2411021335" ts-tts="24-11-02 13:35:47.459"/>
+    </ar>
+    <tl t="e" o="R4RH" c="DPN" n="21635"/>
+</s>
+
+
+<s id="-1268335842879231054-2411031905-6" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-11-02 23:16:11.534" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-11-02 23:16:11.670" pr="2"/>
+    <ar ct="2411032319"/>
+</s>
+
+</timetable>

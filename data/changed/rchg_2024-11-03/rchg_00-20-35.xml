@@ -1,0 +1,69 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5225634352728182794-2411030726-8" eva="8000105">
+    <ar>
+        <m id="r8944382" t="f" c="0" ts="2411030020" ts-tts="24-11-03 00:20:27.005"/>
+    </ar>
+    <dp>
+        <m id="r8944382" t="f" c="0" ts="2411030020" ts-tts="24-11-03 00:20:27.005"/>
+    </dp>
+</s>
+
+
+<s id="2284329567613934914-2411022238-21" eva="8000105">
+    <ar ct="2411030035" l="RB82"/>
+</s>
+
+
+<s id="-6716213240730000376-2411022237-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411030016" ts="2411011000" ts-tts="24-11-01 10:00:54.039"/>
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ppth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" pp="22" ct="2411030153" pt="2411030104" cs="p" clt="2411011121" l="RB10">
+        <m id="r8887523" t="d" c="31" ts="2411011121" ts-tts="24-11-01 11:21:57.124"/>
+        <m id="r8887627" t="f" c="0" ts="2411011125" ts-tts="24-11-01 11:25:18.434"/>
+        <m id="r8887923" t="f" c="0" ts="2411011134" ts-tts="24-11-01 11:35:06.395"/>
+        <m id="r8944381" t="f" c="0" ts="2411030020" ts-tts="24-11-03 00:20:11.571"/>
+    </ar>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25039"/>
+</s>
+
+
+<s id="7582314568044505717-2411021944-8" eva="8000105">
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030224">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2411030236">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+        <m id="r8941824" t="f" c="0" ts="2411022147" ts-tts="24-11-02 21:47:18.867"/>
+    </dp>
+</s>
+
+
+<s id="7217092419963954024-2411022223-24" eva="8000105">
+    <ar ct="2411030125" l="30">
+        <m id="r8913018" t="f" c="0" ts="2411020110" ts-tts="24-11-02 01:10:42.563"/>
+        <m id="r8913019" t="f" c="1000" ts="2411020110" ts-tts="24-11-02 01:10:42.563"/>
+        <m id="r8913020" t="q" c="85" ts="2411020110" ts-tts="24-11-02 01:10:42.563"/>
+        <m id="r8936936" t="f" c="0" ts="2411021852" ts-tts="24-11-02 18:52:51.931"/>
+        <m id="r8943075" t="d" c="43" ts="2411022249" ts-tts="24-11-02 22:49:04.508"/>
+    </ar>
+</s>
+
+
+<s id="3966244955607959299-2411030017-1" eva="8000105">
+    <dp ct="2411030018" l="61"/>
+</s>
+
+
+<s id="-5851721557238592488-2411021944-8" eva="8000105">
+    <m id="r2228273" t="h" from="2411021944" to="2411030820" cat="Bauarbeiten" ts="2411012301" ts-tts="24-11-01 23:01:24.022" pr="1"/>
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030224">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+        <m id="r8944149" t="f" c="0" ts="2411030004" ts-tts="24-11-03 00:04:23.803"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2411030236">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+        <m id="r8944149" t="f" c="0" ts="2411030004" ts-tts="24-11-03 00:04:23.803"/>
+    </dp>
+</s>
+
+</timetable>

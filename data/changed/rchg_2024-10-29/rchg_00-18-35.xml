@@ -1,0 +1,49 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3966244955607959299-2410290017-1" eva="8000105">
+    <dp cp="9" ct="2410290017" l="61"/>
+</s>
+
+
+<s id="3864375000992578991-2410282137-27" eva="8000105">
+    <ar ct="2410290031" l="RB10"/>
+</s>
+
+
+<s id="7217092419963954024-2410282223-24" eva="8000105">
+    <ar cp="16" ct="2410290138" l="30">
+        <m id="r8727373" t="d" c="48" ts="2410282233" ts-tts="24-10-28 22:33:42.329"/>
+    </ar>
+</s>
+
+
+<s id="8868050453695511606-2410282134-8" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-27 23:16:12.493" pr="2"/>
+    <ar cpth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mainz Hbf" ct="2410290243" cs="c" clt="2410290016">
+        <m id="r8729409" t="d" c="31" ts="2410290016" ts-tts="24-10-29 00:17:07.814"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" ct="2410290306" cs="c" clt="2410290016">
+        <m id="r8729409" t="d" c="31" ts="2410290016" ts-tts="24-10-29 00:17:07.814"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2410282134-8" eva="8000105">
+    <ar cpth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mainz Hbf" ct="2410290243" cs="c" clt="2410290016">
+        <m id="r8729410" t="d" c="31" ts="2410290016" ts-tts="24-10-29 00:17:07.814"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" ct="2410290306" cs="c" clt="2410290016">
+        <m id="r8729410" t="d" c="31" ts="2410290016" ts-tts="24-10-29 00:17:07.814"/>
+    </dp>
+</s>
+
+
+<s id="993826748729604473-2410281946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf" cp="8" ct="2410290020">
+        <m id="r8630788" t="f" c="0" ts="2410261314" ts-tts="24-10-26 13:14:43.890"/>
+        <m id="r8650999" t="f" c="0" ts="2410270146" ts-tts="24-10-27 01:46:40.647"/>
+        <m id="r8721075" t="f" c="0" ts="2410281925" ts-tts="24-10-28 19:25:25.178"/>
+    </ar>
+</s>
+
+</timetable>

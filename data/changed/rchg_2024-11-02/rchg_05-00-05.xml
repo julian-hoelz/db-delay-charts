@@ -1,0 +1,14 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4250821308365947570-2411020528-5" eva="8000105">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ct="2411020736">
+        <m id="r8845608" t="f" c="0" ts="2410311208" ts-tts="24-10-31 12:08:55.121"/>
+        <m id="r8876297" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:17.686"/>
+    </ar>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" ct="2411020742">
+        <m id="r8845608" t="f" c="0" ts="2410311208" ts-tts="24-10-31 12:08:55.121"/>
+        <m id="r8876297" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:17.686"/>
+    </dp>
+</s>
+
+</timetable>

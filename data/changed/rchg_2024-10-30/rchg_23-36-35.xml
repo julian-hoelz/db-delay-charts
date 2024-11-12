@@ -1,0 +1,27 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3638286882532797531-2410302105-21" eva="8000105">
+    <ar ct="2410302338" l="RE98"/>
+</s>
+
+
+<s id="1077851836241039338-2410302154-8" eva="8000105">
+    <ar ct="2410302338" l="RE99"/>
+</s>
+
+
+<s id="8428028954903351107-2410301636-11" eva="8000105">
+    <m id="r2306090" t="h" from="2410301642" to="2410302000" cat="Störung" ts="2410301643" ts-tts="24-10-30 19:16:12.377" pr="1"/>
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Regionalbf" ppth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Regionalbf" pp="6" ct="2410302047" pt="2410302013">
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:14.639"/>
+        <m id="r8821350" t="f" c="0" ts="2410302025" ts-tts="24-10-30 20:25:47.944"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Straubing|Plattling|Passau Hbf" ppth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf" pp="6" ct="2410302053" pt="2410302022">
+        <m id="r8807912" t="f" c="0" ts="2410301607" ts-tts="24-10-30 16:07:22.477"/>
+        <m id="r8809514" t="d" c="51" ts="2410301641" ts-tts="24-10-30 16:41:14.639"/>
+        <m id="r8821350" t="f" c="0" ts="2410302025" ts-tts="24-10-30 20:25:47.944"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="929"/>
+</s>
+
+</timetable>

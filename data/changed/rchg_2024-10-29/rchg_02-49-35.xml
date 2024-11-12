@@ -1,0 +1,44 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3850374983124523240-2410290533-7" eva="8000105">
+    <ar ct="2410290836"/>
+</s>
+
+
+<s id="7582314568044505717-2410282028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-27 23:16:12.387" pr="2"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410290302" pt="2410290223">
+        <m id="r8728299" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:08.906"/>
+        <m id="r8728661" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:46.870"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410290307" pt="2410290236">
+        <m id="r8728299" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:08.906"/>
+        <m id="r8728661" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:46.870"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+
+<s id="-5851721557238592488-2410282028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-27 23:16:12.387" pr="2"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410290302" pt="2410290223" hi="1" wings="7582314568044505717-2410282028">
+        <m id="r8728297" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:08.906"/>
+        <m id="r8728659" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:46.871"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410290307" pt="2410290236" hi="1" wings="7582314568044505717-2410282028">
+        <m id="r8728297" t="d" c="43" ts="2410282330" ts-tts="24-10-28 23:31:08.906"/>
+        <m id="r8728659" t="d" c="36" ts="2410282355" ts-tts="24-10-28 23:55:46.871"/>
+    </dp>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="8780351192518057290-2410290929-15" eva="8000105">
+    <m id="r2304872" t="h" from="2410290413" to="2410300136" cat="Information" ts="2410290215" ts-tts="24-10-29 02:15:45.523" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 23:16:12.575" pr="2"/>
+    <ar>
+        <m id="r8732461" t="q" c="85" ts="2410290247" ts-tts="24-10-29 02:47:46.447"/>
+    </ar>
+</s>
+
+</timetable>

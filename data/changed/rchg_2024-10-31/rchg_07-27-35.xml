@@ -1,0 +1,89 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4311575177435395938-2410310947-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310947" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="-8342458159009848227-2410310902-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310940" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="2095299367669448289-2410310531-23" eva="8000105">
+    <ar ct="2410310733" l="RB40"/>
+</s>
+
+
+<s id="-6296955256436553031-2410310726-1" eva="8000105">
+    <dp ct="2410310726" l="50">
+        <m id="r8834609" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:26.271"/>
+        <m id="r8834611" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:26.271"/>
+    </dp>
+</s>
+
+
+<s id="-1558718362540601901-2410310615-13" eva="8000105">
+    <ar ct="2410310742" l="50"/>
+</s>
+
+
+<s id="8149147754402883805-2410310442-18" eva="8000105">
+    <ar ct="2410310736" l="3"/>
+</s>
+
+
+<s id="-4259697957378930536-2410310538-5" eva="8000105">
+    <ar ct="2410310752">
+        <m id="r8831248" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:09.081"/>
+        <m id="r8831302" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:24.447"/>
+    </ar>
+</s>
+
+
+<s id="4743937711977270766-2410310756-9" eva="8000105">
+    <ar ct="2410310859" l="20">
+        <m id="r8826305" t="q" c="85" ts="2410302308" ts-tts="24-10-30 23:08:53.986"/>
+    </ar>
+</s>
+
+
+<s id="-6251819721670714824-2410310514-27" eva="8000105">
+    <ar ct="2410310734" l="RB41"/>
+</s>
+
+
+<s id="-1569137128894820549-2410310607-15" eva="8000105">
+    <m id="r2306482" t="h" from="2410310511" to="2410310800" cat="Störung" ts="2410310622" ts-tts="24-10-31 06:22:14.886" pr="2"/>
+    <ar ct="2410310728" l="68">
+        <m id="r8823838" t="f" c="0" ts="2410302135" ts-tts="24-10-30 21:35:46.168"/>
+    </ar>
+</s>
+
+
+<s id="7556014111328415912-2410310606-12" eva="8000105">
+    <ar cpth="Koblenz Hbf|Boppard Hbf|Oberwesel|Bingen(Rhein) Hbf|Ingelheim|Heidesheim(Rheinhess)|Mainz Hbf|Mainz Römisches Theater|Mainz-Bischofsheim|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf|Frankfurt-Niederrad" ct="2410310752" l="2"/>
+</s>
+
+
+<s id="4845313366765401542-2410310637-16" eva="8000105">
+    <ar ct="2410310800" l="55"/>
+</s>
+
+
+<s id="-6038863164330753428-2410310631-14" eva="8000105">
+    <ar ct="2410310754" l="60">
+        <m id="r8823477" t="f" c="0" ts="2410302122" ts-tts="24-10-30 21:23:05.476"/>
+        <m id="r8834298" t="d" c="43" ts="2410310707" ts-tts="24-10-31 07:07:25.241"/>
+    </ar>
+</s>
+
+
+<s id="-1998685101828923679-2410310549-16" eva="8000105">
+    <ar ct="2410310727" l="SE14">
+        <m id="r8825042" t="f" c="0" ts="2410302221" ts-tts="24-10-30 22:22:14.808"/>
+        <m id="r8833243" t="d" c="43" ts="2410310637" ts-tts="24-10-31 06:37:58.550"/>
+    </ar>
+</s>
+
+</timetable>

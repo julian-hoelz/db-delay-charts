@@ -1,0 +1,42 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-9175357413104605326-2411021549-16" eva="8000105">
+    <ar ct="2411021727" l="SE14"/>
+</s>
+
+
+<s id="-7821637860017398323-2411021743-5" eva="8000105">
+    <m id="r2307920" t="h" from="2411020502" to="2411030008" cat="Information" ts="2411020204" ts-tts="24-11-02 02:04:28.730" pr="2"/>
+    <ar ct="2411022157"/>
+</s>
+
+
+<s id="5648077596396628178-2411021437-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021616" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411021714" l="RB10"/>
+</s>
+
+
+<s id="-7249415990010503528-2411021600-6" eva="8000105">
+    <ar ct="2411021721"/>
+</s>
+
+
+<s id="-1861627425367595925-2411021515-6" eva="8000105">
+    <ar ct="2411021902">
+        <m id="r8907117" t="f" c="0" ts="2411012003" ts-tts="24-11-01 20:03:32.966"/>
+        <m id="r8929740" t="q" c="80" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8929742" t="q" c="84" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8929744" t="q" c="84" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8932650" t="d" c="43" ts="2411021630" ts-tts="24-11-02 16:30:28.167"/>
+    </ar>
+    <dp ct="2411021909">
+        <m id="r8907117" t="f" c="0" ts="2411012003" ts-tts="24-11-01 20:03:32.966"/>
+        <m id="r8929740" t="q" c="80" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8929742" t="q" c="84" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8929744" t="q" c="84" ts="2411021445" ts-tts="24-11-02 14:45:17.114"/>
+        <m id="r8932650" t="d" c="43" ts="2411021630" ts-tts="24-11-02 16:30:28.167"/>
+    </dp>
+</s>
+
+</timetable>

@@ -1,0 +1,30 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1756361144776443390-2411021844-9" eva="8000105">
+    <ar ct="2411022349">
+        <m id="r8935666" t="q" c="80" ts="2411021814" ts-tts="24-11-02 18:14:18.475"/>
+        <m id="r8935668" t="q" c="84" ts="2411021814" ts-tts="24-11-02 18:14:18.475"/>
+    </ar>
+</s>
+
+
+<s id="-8454454517290803659-2411021827-15" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:12.235" pr="2"/>
+    <ar ct="2411030013">
+        <m id="r8935244" t="q" c="80" ts="2411021757" ts-tts="24-11-02 17:57:22.706"/>
+        <m id="r8935246" t="q" c="80" ts="2411021757" ts-tts="24-11-02 17:57:22.706"/>
+        <m id="r8942651" t="d" c="43" ts="2411022225" ts-tts="24-11-02 22:25:45.728"/>
+    </ar>
+</s>
+
+
+<s id="8503777394879306018-2411022324-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:12.234" pr="2"/>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2411022323">
+        <m id="r8941354" t="d" c="31" ts="2411022121" ts-tts="24-11-02 21:21:26.944"/>
+        <m id="r8941545" t="f" c="0" ts="2411022133" ts-tts="24-11-02 21:33:12.852"/>
+        <m id="r8943253" t="q" c="80" ts="2411022254" ts-tts="24-11-02 22:54:26.292"/>
+    </dp>
+</s>
+
+</timetable>

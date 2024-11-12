@@ -1,0 +1,151 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-1430316347856308242-2411011316-9" eva="8000105">
+    <ar ct="2411011748">
+        <m id="r8891918" t="d" c="47" ts="2411011327" ts-tts="24-11-01 13:27:22.902"/>
+        <m id="r8893264" t="f" c="0" ts="2411011402" ts-tts="24-11-01 14:02:50.870"/>
+        <m id="r8898261" t="f" c="0" ts="2411011610" ts-tts="24-11-01 16:10:17.725"/>
+    </ar>
+    <dp ct="2411011754">
+        <m id="r8891918" t="d" c="47" ts="2411011327" ts-tts="24-11-01 13:27:22.902"/>
+        <m id="r8893264" t="f" c="0" ts="2411011402" ts-tts="24-11-01 14:02:50.870"/>
+        <m id="r8898261" t="f" c="0" ts="2411011610" ts-tts="24-11-01 16:10:17.725"/>
+    </dp>
+</s>
+
+
+<s id="-8135928225998936278-2411011559-15" eva="8000105">
+    <ar ppth="Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Neu-Edingen/Friedrichsfeld|Ladenburg|Weinheim(Bergstr)Hbf|Laudenbach(Bergstr)|Heppenheim(Bergstr)|Bensheim|Bensheim-Auerbach|Zwingenberg(Bergstr)|Hähnlein-Alsbach|Darmstadt-Eberstadt|Darmstadt Hbf|Langen(Hess)" pp="11" ct="2411011757" pt="2411011724" l="68">
+        <m id="r8900721" t="d" c="61" ts="2411011711" ts-tts="24-11-01 17:11:13.693"/>
+    </ar>
+    <tl f="N" t="p" o="800574" c="RE" n="4672"/>
+</s>
+
+
+<s id="-4616529051509705171-2411011754-1" eva="8000105">
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.574" pr="2"/>
+    <dp ct="2411011755">
+        <m id="r8900480" t="f" c="0" ts="2411011704" ts-tts="24-11-01 17:04:49.831"/>
+        <m id="r8901311" t="q" c="80" ts="2411011724" ts-tts="24-11-01 17:24:17.095"/>
+    </dp>
+</s>
+
+
+<s id="6070111901823858771-2411011529-14" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411012359" cat="Störung" ts="2411011239" ts-tts="24-11-01 15:16:11.149" pr="1"/>
+    <m id="r2307465" t="h" from="2411011529" to="2411012103" cat="Information" ts="2411011526" ts-tts="24-11-01 15:26:28.385" pr="2"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-31 23:16:12.712" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411012113">
+        <m id="r8895513" t="q" c="80" ts="2411011459" ts-tts="24-11-01 14:59:22.370"/>
+        <m id="r8895515" t="q" c="80" ts="2411011459" ts-tts="24-11-01 14:59:22.370"/>
+        <m id="r8901302" t="d" c="17" ts="2411011724" ts-tts="24-11-01 17:24:17.096"/>
+        <m id="r8901318" t="q" c="80" ts="2411011724" ts-tts="24-11-01 17:24:32.978"/>
+        <m id="r8901320" t="q" c="80" ts="2411011724" ts-tts="24-11-01 17:24:32.978"/>
+        <m id="r8901324" t="d" c="17" ts="2411011724" ts-tts="24-11-01 17:24:48.899"/>
+    </ar>
+</s>
+
+
+<s id="8514711408085887329-2411011628-14" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-31 23:16:12.391" pr="2"/>
+    <ar cpth="Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)" ct="2411012108">
+        <m id="r8869518" t="d" c="31" ts="2410312047" ts-tts="24-10-31 20:47:59.654"/>
+        <m id="r8869549" t="d" c="31" ts="2410312048" ts-tts="24-10-31 20:48:15.655"/>
+        <m id="r8899556" t="d" c="48" ts="2411011641" ts-tts="24-11-01 16:42:12.322"/>
+    </ar>
+</s>
+
+
+<s id="-8372127814412932043-2411011606-17" eva="8000105">
+    <ar ct="2411011737" l="RB82"/>
+</s>
+
+
+<s id="170093097875396020-2411011916-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <ar>
+        <m id="r8901317" t="f" c="0" ts="2411011724" ts-tts="24-11-01 17:24:32.978"/>
+    </ar>
+    <dp>
+        <m id="r8901317" t="f" c="0" ts="2411011724" ts-tts="24-11-01 17:24:32.978"/>
+    </dp>
+</s>
+
+
+<s id="4890676185954228156-2411011537-28" eva="8000105">
+    <ar cpth="Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411011810" l="RB10">
+        <m id="r8894982" t="d" c="68" ts="2411011444" ts-tts="24-11-01 14:44:16.825"/>
+        <m id="r8900654" t="q" c="91" ts="2411011709" ts-tts="24-11-01 17:09:37.795"/>
+    </ar>
+</s>
+
+
+<s id="5725035179708558025-2411011415-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <m id="r2307121" t="h" from="2411010650" to="2411012149" cat="Information" ts="2411010418" ts-tts="24-11-01 04:18:58.678" pr="2"/>
+    <ar cpth="Hamburg Dammtor|Hamburg Hbf|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" ct="2411011824">
+        <m id="r8892477" t="q" c="80" ts="2411011345" ts-tts="24-11-01 13:45:22.271"/>
+        <m id="r8892479" t="q" c="80" ts="2411011345" ts-tts="24-11-01 13:45:22.271"/>
+        <m id="r8894445" t="d" c="17" ts="2411011428" ts-tts="24-11-01 14:29:08.316"/>
+        <m id="r8897143" t="f" c="0" ts="2411011537" ts-tts="24-11-01 15:37:39.252"/>
+        <m id="r8901107" t="f" c="0" ts="2411011719" ts-tts="24-11-01 17:20:00.902"/>
+        <m id="r8901143" t="f" c="0" ts="2411011720" ts-tts="24-11-01 17:20:49.041"/>
+        <m id="r8901243" t="f" c="0" ts="2411011722" ts-tts="24-11-01 17:22:41.138"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" ct="2411011830">
+        <m id="r8892477" t="q" c="80" ts="2411011345" ts-tts="24-11-01 13:45:22.271"/>
+        <m id="r8892479" t="q" c="80" ts="2411011345" ts-tts="24-11-01 13:45:22.271"/>
+        <m id="r8894445" t="d" c="17" ts="2411011428" ts-tts="24-11-01 14:29:08.316"/>
+        <m id="r8897143" t="f" c="0" ts="2411011537" ts-tts="24-11-01 15:37:39.252"/>
+        <m id="r8901107" t="f" c="0" ts="2411011719" ts-tts="24-11-01 17:20:00.902"/>
+        <m id="r8901143" t="f" c="0" ts="2411011720" ts-tts="24-11-01 17:20:49.041"/>
+        <m id="r8901243" t="f" c="0" ts="2411011722" ts-tts="24-11-01 17:22:41.138"/>
+    </dp>
+</s>
+
+
+<s id="6013213540626996483-2411011552-6" eva="8000105">
+    <ar cpth="Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Frankfurt(M) Flughafen Fernbf" ct="2411011757">
+        <m id="r8894201" t="f" c="0" ts="2411011424" ts-tts="24-11-01 14:24:05.950"/>
+        <m id="r8894238" t="d" c="36" ts="2411011424" ts-tts="24-11-01 14:24:53.641"/>
+    </ar>
+    <dp cpth="Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" ct="2411011804">
+        <m id="r8894201" t="f" c="0" ts="2411011424" ts-tts="24-11-01 14:24:05.950"/>
+        <m id="r8894238" t="d" c="36" ts="2411011424" ts-tts="24-11-01 14:24:53.641"/>
+    </dp>
+</s>
+
+
+<s id="4454046747494641027-2411011606-17" eva="8000105">
+    <ar ct="2411011735" l="RB10"/>
+</s>
+
+
+<s id="3781227478944820339-2411011537-19" eva="8000105">
+    <ar cp="6" ct="2411011725" l="55"/>
+</s>
+
+
+<s id="-5897628308489078401-2411011723-1" eva="8000105">
+    <dp ct="2411011723" l="RB10"/>
+</s>
+
+
+<s id="7893491111614580884-2411011658-5" eva="8000105">
+    <ar ct="2411011737" l="3"/>
+</s>
+
+
+<s id="-7249415990010503528-2411011600-6" eva="8000105">
+    <ar ct="2411011724">
+        <m id="r8896732" t="q" c="80" ts="2411011530" ts-tts="24-11-01 15:30:27.405"/>
+    </ar>
+</s>
+
+
+<s id="-7740891857357423186-2411011753-1" eva="8000105">
+    <dp ct="2411011753" l="RB10"/>
+</s>
+
+</timetable>

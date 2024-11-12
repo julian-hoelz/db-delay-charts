@@ -1,0 +1,21 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7230422352747736541-2410300419-13" eva="8000105">
+    <ar ct="2410300530" l="22"/>
+</s>
+
+
+<s id="-7433442722618839393-2410300418-13" eva="8000105">
+    <ar ct="2410300515" l="51"/>
+</s>
+
+
+<s id="993826748729604473-2410301946-9" eva="8000105">
+    <m id="r2305533" t="h" from="2410301035" to="2410310023" cat="Information" ts="2410300348" ts-tts="24-10-30 03:48:40.497" pr="2"/>
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf">
+        <m id="r8703744" t="f" c="0" ts="2410281342" ts-tts="24-10-28 13:42:25.833"/>
+        <m id="r8731816" t="f" c="0" ts="2410290158" ts-tts="24-10-29 01:58:56.303"/>
+    </ar>
+</s>
+
+</timetable>

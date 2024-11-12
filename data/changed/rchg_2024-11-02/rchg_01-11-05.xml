@@ -1,0 +1,66 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="9117006994590991223-2411012236-32" eva="8000105">
+    <m id="r2296719" t="h" from="2411012236" to="2411020054" cat="Bauarbeiten" ts="2410312303" ts-tts="24-10-31 23:03:25.597" pr="2"/>
+    <ar ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd" pp="5" ct="2411020137" pt="2411020048" l="54">
+        <m id="r8911666" t="d" c="31" ts="2411012317" ts-tts="24-11-01 23:18:10.127"/>
+        <m id="r8912219" t="d" c="31" ts="2411012353" ts-tts="24-11-01 23:53:55.721"/>
+    </ar>
+    <tl f="N" t="p" o="800772" c="RE" n="4636"/>
+</s>
+
+
+<s id="-1562218572515323659-2411021623-13" eva="8000105">
+    <ar l="30">
+        <m id="r8913006" t="f" c="0" ts="2411020109" ts-tts="24-11-02 01:09:40.998"/>
+        <m id="r8913007" t="f" c="1000" ts="2411020109" ts-tts="24-11-02 01:09:40.998"/>
+        <m id="r8913008" t="q" c="85" ts="2411020109" ts-tts="24-11-02 01:09:40.998"/>
+    </ar>
+</s>
+
+
+<s id="8868050453695511606-2411012134-8" eva="8000105">
+    <ar ct="2411020247">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.819"/>
+    </dp>
+</s>
+
+
+<s id="7582314568044505717-2411011944-8" eva="8000105">
+    <ar ct="2411020228">
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:20.795"/>
+    </ar>
+    <dp>
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:20.795"/>
+    </dp>
+</s>
+
+
+<s id="5603348731517268506-2411020108-1" eva="8000105">
+    <dp ct="2411020108" l="RB82"/>
+</s>
+
+
+<s id="4753870957390372842-2411012134-8" eva="8000105">
+    <ar ct="2411020247">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </dp>
+</s>
+
+
+<s id="-5851721557238592488-2411011944-8" eva="8000105">
+    <ar ct="2411020228">
+        <m id="r8911511" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:20.795"/>
+    </ar>
+    <dp>
+        <m id="r8911511" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:20.795"/>
+    </dp>
+</s>
+
+</timetable>

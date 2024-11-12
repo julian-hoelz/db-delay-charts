@@ -1,0 +1,8 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-2741050480516155767-2411021751-1" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411021800" ts="2411020032" ts-tts="24-11-02 00:32:25.764"/>
+    <dp cpth="Bad Vilbel|Friedberg(Hess)|Bad Nauheim|Butzbach|Gießen|Dutenhofen(Wetzlar)|Wetzlar|Aßlar|Werdorf|Ehringshausen(Kr Wetzlar)" cs="c" clt="2411011400" l="RB40"/>
+</s>
+
+</timetable>

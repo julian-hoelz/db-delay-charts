@@ -1,0 +1,475 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="2312296716933966404-2411011554-13" eva="8000105">
+    <ar ct="2411012244">
+        <m id="r8904121" t="d" c="43" ts="2411011841" ts-tts="24-11-01 18:41:40.744"/>
+    </ar>
+    <dp ct="2411012250">
+        <m id="r8904121" t="d" c="43" ts="2411011841" ts-tts="24-11-01 18:41:40.744"/>
+    </dp>
+</s>
+
+
+<s id="-8005609635293134624-2411011716-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:14.388" pr="1"/>
+    <ar ct="2411012106">
+        <m id="r8899701" t="q" c="80" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8899703" t="q" c="84" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8899705" t="q" c="84" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8900845" t="d" c="21" ts="2411011714" ts-tts="24-11-01 17:14:33.244"/>
+    </ar>
+    <dp ct="2411012112">
+        <m id="r8899701" t="q" c="80" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8899703" t="q" c="84" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8899705" t="q" c="84" ts="2411011646" ts-tts="24-11-01 16:46:18.846"/>
+        <m id="r8900845" t="d" c="21" ts="2411011714" ts-tts="24-11-01 17:14:33.244"/>
+    </dp>
+</s>
+
+
+<s id="-7573651573329216408-2411011500-15" eva="8000105">
+    <m id="r2307083" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:14.388" pr="1"/>
+    <ar cp="9" ct="2411012018">
+        <m id="r8906040" t="d" c="34" ts="2411011929" ts-tts="24-11-01 19:29:38.782"/>
+    </ar>
+    <dp cp="9" ct="2411012024">
+        <m id="r8906040" t="d" c="34" ts="2411011929" ts-tts="24-11-01 19:29:38.782"/>
+    </dp>
+</s>
+
+
+<s id="8428028954903351107-2411011636-11" eva="8000105">
+    <ar ct="2411012022">
+        <m id="r8898121" t="q" c="80" ts="2411011606" ts-tts="24-11-01 16:06:24.954"/>
+        <m id="r8898123" t="q" c="80" ts="2411011606" ts-tts="24-11-01 16:06:24.954"/>
+        <m id="r8903040" t="d" c="43" ts="2411011809" ts-tts="24-11-01 18:10:02.559"/>
+    </ar>
+    <dp ct="2411012029">
+        <m id="r8898121" t="q" c="80" ts="2411011606" ts-tts="24-11-01 16:06:24.954"/>
+        <m id="r8898123" t="q" c="80" ts="2411011606" ts-tts="24-11-01 16:06:24.954"/>
+        <m id="r8903040" t="d" c="43" ts="2411011809" ts-tts="24-11-01 18:10:02.559"/>
+    </dp>
+</s>
+
+
+<s id="-6582453439070561259-2411012046-9" eva="8000105">
+    <ar ct="2411012233" l="5">
+        <m id="r8872565" t="q" c="73" ts="2410312238" ts-tts="24-10-31 22:38:52.106"/>
+        <m id="r8872632" t="q" c="85" ts="2410312240" ts-tts="24-10-31 22:40:40.625"/>
+        <m id="r8906909" t="f" c="0" ts="2411011955" ts-tts="24-11-01 19:55:31.771"/>
+    </ar>
+</s>
+
+
+<s id="-2597810254612363168-2411011907-15" eva="8000105">
+    <ar ct="2411012025" l="68">
+        <m id="r8907127" t="d" c="43" ts="2411012004" ts-tts="24-11-01 20:04:03.894"/>
+        <m id="r8907163" t="d" c="43" ts="2411012005" ts-tts="24-11-01 20:05:05.770"/>
+    </ar>
+</s>
+
+
+<s id="3283072955374074575-2411011823-12" eva="8000105">
+    <ar ct="2411012054" l="30">
+        <m id="r8904630" t="d" c="43" ts="2411011855" ts-tts="24-11-01 18:55:24.881"/>
+    </ar>
+</s>
+
+
+<s id="170093097875396020-2411011916-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:14.388" pr="1"/>
+    <ar ct="2411012304">
+        <m id="r8901317" t="f" c="0" ts="2411011724" ts-tts="24-11-01 17:24:24.673"/>
+        <m id="r8904268" t="q" c="80" ts="2411011846" ts-tts="24-11-01 18:46:20.592"/>
+        <m id="r8904270" t="q" c="80" ts="2411011846" ts-tts="24-11-01 18:46:20.592"/>
+        <m id="r8905286" t="d" c="47" ts="2411011907" ts-tts="24-11-01 19:07:20.430"/>
+    </ar>
+    <dp ct="2411012310">
+        <m id="r8901317" t="f" c="0" ts="2411011724" ts-tts="24-11-01 17:24:24.673"/>
+        <m id="r8904268" t="q" c="80" ts="2411011846" ts-tts="24-11-01 18:46:20.592"/>
+        <m id="r8904270" t="q" c="80" ts="2411011846" ts-tts="24-11-01 18:46:20.592"/>
+        <m id="r8905286" t="d" c="47" ts="2411011907" ts-tts="24-11-01 19:07:20.430"/>
+    </dp>
+</s>
+
+
+<s id="-4930005745220627540-2411011634-8" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.016" pr="2"/>
+    <ar ct="2411012140">
+        <m id="r8898029" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8898031" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8898033" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8903036" t="d" c="43" ts="2411011809" ts-tts="24-11-01 18:09:46.784"/>
+        <m id="r8906079" t="f" c="0" ts="2411011931" ts-tts="24-11-01 19:31:11.835"/>
+    </ar>
+    <dp ct="2411012149">
+        <m id="r8898029" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8898031" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8898033" t="q" c="80" ts="2411011604" ts-tts="24-11-01 16:04:20.710"/>
+        <m id="r8903036" t="d" c="43" ts="2411011809" ts-tts="24-11-01 18:09:46.784"/>
+        <m id="r8906079" t="f" c="0" ts="2411011931" ts-tts="24-11-01 19:31:11.835"/>
+    </dp>
+</s>
+
+
+<s id="-5437725442367755051-2411021232-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411021800" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="7131397121877473794-2411021202-1" eva="8000105">
+    <dp cpth="Berlin-Spandau|Berlin Hbf|Berlin Ostbahnhof">
+        <m id="r8845621" t="f" c="0" ts="2410311209" ts-tts="24-10-31 12:09:18.785"/>
+        <m id="r8876298" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:11.336"/>
+    </dp>
+</s>
+
+
+<s id="-5453059959339888905-2411021229-1" eva="8000105">
+    <dp cpth="Hofheim(Taunus)|Niedernhausen(Taunus)|Idstein(Taunus)" cs="c" clt="2411011753" l="22">
+        <m id="r8902415" t="d" c="49" ts="2411011753" ts-tts="24-11-01 17:53:58.515"/>
+    </dp>
+</s>
+
+
+<s id="-3166673588792011994-2411021246-1" eva="8000105">
+    <dp cpth="Bad Vilbel|Bad Vilbel-Gronau|Niederdorfelden|Schöneck-Oberdorfelden|Schöneck-Kilianstädten|Schöneck-Büdesheim|Nidderau-Windecken|Nidderau|Nidderau-Eichen|Altenstadt-Höchst|Altenstadt(Hess)|Altenstadt-Lindheim|Glauburg-Glauberg|Glauburg-Stockheim" cs="c" clt="2411010141" l="34">
+        <m id="r8731226" t="d" c="50" ts="2410290157" ts-tts="24-10-29 01:57:24.369"/>
+        <m id="r8778348" t="d" c="50" ts="2410300141" ts-tts="24-10-30 01:42:07.138"/>
+        <m id="r8828348" t="d" c="50" ts="2410310140" ts-tts="24-10-31 01:41:00.585"/>
+        <m id="r8875285" t="d" c="50" ts="2411010141" ts-tts="24-11-01 01:42:08.153"/>
+    </dp>
+</s>
+
+
+<s id="-2251424720887288145-2411021202-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411021800" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-8056696408563393874-2411021200-16" eva="8000105">
+    <ar cpth="Glauburg-Stockheim|Glauburg-Glauberg|Altenstadt-Lindheim|Altenstadt(Hess)|Altenstadt-Höchst|Nidderau-Eichen|Nidderau|Nidderau-Windecken|Schöneck-Büdesheim|Schöneck-Kilianstädten|Schöneck-Oberdorfelden|Niederdorfelden|Bad Vilbel-Gronau|Bad Vilbel" cs="c" clt="2411010141" l="34">
+        <m id="r8731224" t="d" c="50" ts="2410290157" ts-tts="24-10-29 01:57:24.371"/>
+        <m id="r8778346" t="d" c="50" ts="2410300141" ts-tts="24-10-30 01:42:07.140"/>
+        <m id="r8828346" t="d" c="50" ts="2410310140" ts-tts="24-10-31 01:41:00.586"/>
+        <m id="r8875283" t="d" c="50" ts="2411010141" ts-tts="24-11-01 01:42:08.155"/>
+    </ar>
+</s>
+
+
+<s id="519911420025520770-2411021217-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411021800" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="3883787396073878347-2411021247-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411021800" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="709983469801654561-2411021254-1" eva="8000105">
+    <dp>
+        <m id="r8904953" t="f" c="1000" ts="2411011900" ts-tts="24-11-01 19:00:35.674"/>
+    </dp>
+</s>
+
+
+<s id="-4583956337485204414-2411021153-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="4883405308306035492-2411021123-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="8490302080957405665-2411021118-14" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-2197447328720659546-2411021137-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="2960521612230800493-2411021023-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-9135641941213689906-2411021023-13" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-1714391401305701146-2411021053-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="8161055975861947953-2411021037-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-1839572920361695547-2411020923-13" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10"/>
+</s>
+
+
+<s id="-7388183432558445322-2411020937-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-2520616531119205154-2411020923-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="6090459599836769305-2411020953-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-6926593812931109118-2411020853-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf" l="RB10">
+        <m id="r8892379" t="f" c="0" ts="2411011340" ts-tts="24-11-01 13:40:25.658"/>
+    </dp>
+</s>
+
+
+<s id="2557245721307034919-2411020837-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10">
+        <m id="r8890732" t="f" c="0" ts="2411011252" ts-tts="24-11-01 12:53:07.091"/>
+        <m id="r8892269" t="f" c="0" ts="2411011337" ts-tts="24-11-01 13:37:50.823"/>
+    </ar>
+</s>
+
+
+<s id="-5032710658525460604-2411020737-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10">
+        <m id="r8890403" t="f" c="0" ts="2411011243" ts-tts="24-11-01 12:44:03.997"/>
+        <m id="r8892253" t="f" c="0" ts="2411011337" ts-tts="24-11-01 13:37:35.351"/>
+    </ar>
+</s>
+
+
+<s id="7084036768291492860-2411020753-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf" l="RB10">
+        <m id="r8892314" t="f" c="0" ts="2411011339" ts-tts="24-11-01 13:39:39.156"/>
+        <m id="r8894756" t="f" c="0" ts="2411011438" ts-tts="24-11-01 14:38:23.883"/>
+    </dp>
+</s>
+
+
+<s id="6693787836588078526-2411020654-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf" l="RB10">
+        <m id="r8891651" t="f" c="0" ts="2411011321" ts-tts="24-11-01 13:21:34.616"/>
+        <m id="r8892282" t="f" c="0" ts="2411011338" ts-tts="24-11-01 13:38:37.246"/>
+    </dp>
+</s>
+
+
+<s id="-4111942222860974331-2411020636-17" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10"/>
+</s>
+
+
+<s id="7008307878828452127-2411020637-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10">
+        <m id="r8888809" t="f" c="0" ts="2411011200" ts-tts="24-11-01 12:00:40.571"/>
+        <m id="r8889009" t="f" c="0" ts="2411011206" ts-tts="24-11-01 12:06:37.044"/>
+        <m id="r8889321" t="f" c="0" ts="2411011215" ts-tts="24-11-01 12:15:24.092"/>
+        <m id="r8889714" t="f" c="0" ts="2411011224" ts-tts="24-11-01 12:24:41.739"/>
+        <m id="r8889901" t="f" c="0" ts="2411011230" ts-tts="24-11-01 12:30:53.245"/>
+        <m id="r8892146" t="f" c="0" ts="2411011334" ts-tts="24-11-01 13:34:44.295"/>
+    </ar>
+</s>
+
+
+<s id="2884059809081107025-2411020553-13" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" l="RB10"/>
+</s>
+
+
+<s id="1893592079421645600-2411020153-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-4220379515674722231-2411012353-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-6717839496730661081-2411012253-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411012016" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-7118426883477829136-2411021253-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411031800" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="2062482644552481486-2411021237-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411031800" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="2770059313740740081-2411021223-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411031800" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="1756214407859981226-2411021218-14" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411031800" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+</s>
+
+
+<s id="-884662956731920747-2411021147-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="709619192907414580-2411021102-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="2876338763274642822-2411021117-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-7661986320925319421-2411021132-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-7009356534760750441-2411021017-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="8557763541571876036-2411021047-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="989207292618606600-2411021032-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-4344182421522353440-2411021002-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-5301305442312220899-2411020917-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="4311575177435395938-2411020947-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-3289623992384898938-2411020932-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-8342458159009848227-2411020902-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="2801826025756613862-2411020817-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-7766241751002456514-2411020847-1" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-1333427391620168769-2411020832-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-5912829545801191034-2411020802-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="896384667678103556-2411020732-10" eva="8000105">
+    <m id="r900029555" t="r" from="2411020758" to="2411012016" ts="2410301003" ts-tts="24-10-30 10:04:07.227"/>
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2411011527" l="RB12"/>
+</s>
+
+
+<s id="-8535181229836363177-2411012034-1" eva="8000105">
+    <dp cp="8" ct="2411012034" l="55">
+        <m id="r8907378" t="f" c="0" ts="2411012011" ts-tts="24-11-01 20:11:19.178"/>
+        <m id="r8907380" t="f" c="0" ts="2411012011" ts-tts="24-11-01 20:11:19.178"/>
+    </dp>
+</s>
+
+
+<s id="4511802780835934709-2411011709-5" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.016" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.022" pr="2"/>
+    <ar ct="2411012137">
+        <m id="r8871631" t="f" c="0" ts="2410312154" ts-tts="24-10-31 21:54:53.813"/>
+        <m id="r8884246" t="q" c="90" ts="2411010939" ts-tts="24-11-01 09:40:02.041"/>
+    </ar>
+</s>
+
+
+<s id="-5038273185526805270-2411011954-8" eva="8000105">
+    <ar ct="2411012138" l="RE99"/>
+</s>
+
+
+<s id="-3863211215924100829-2411011905-21" eva="8000105">
+    <ar ct="2411012138" l="RE98"/>
+</s>
+
+</timetable>

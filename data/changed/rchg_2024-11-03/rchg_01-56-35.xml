@@ -1,0 +1,15 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3253900767729253562-2411030147-1" eva="8000105">
+    <dp ct="2411030156" l="RB12"/>
+</s>
+
+
+<s id="-850188460915210790-2411030053-7" eva="8000105">
+    <ar ppth="Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" cp="19" pp="22 A-C" pt="2411030147" l="RB10">
+        <m id="r8928199" t="f" c="0" ts="2411021355" ts-tts="24-11-02 13:56:07.210"/>
+    </ar>
+    <tl t="s" o="R4RH" c="DPN" n="21641"/>
+</s>
+
+</timetable>

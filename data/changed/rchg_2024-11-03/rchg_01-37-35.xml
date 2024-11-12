@@ -1,0 +1,36 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-8941932149309778658-2411031723-4" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-02 23:16:09.660" pr="3" del="1"/>
+    <m id="r2308333" t="h" from="2411031723" to="2411032340" cat="Information" ts="2411030136" ts-tts="24-11-03 01:36:49.402" pr="2"/>
+</s>
+
+
+<s id="5888878348182935850-2411022303-26" eva="8000105">
+    <ar ct="2411030156" l="RE98"/>
+</s>
+
+
+<s id="-4465336030385931642-2411031014-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-02 23:16:09.661" pr="3" del="1"/>
+    <m id="r2308332" t="h" from="2411030633" to="2411031727" cat="Information" ts="2411030136" ts-tts="24-11-03 01:36:18.677" pr="2"/>
+</s>
+
+
+<s id="-7138074359361066746-2411021835-12" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.112" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen" ct="2411030242">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf" ct="2411030248">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:14.982"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:16.485"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:19.280"/>
+    </dp>
+</s>
+
+</timetable>

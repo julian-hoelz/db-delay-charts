@@ -1,0 +1,15 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4924113419153401216-2411031228-14" eva="8000105">
+    <ar ppth="Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)" pp="13" pt="2411031709">
+        <m id="r8946486" t="d" c="36" ts="2411030332" ts-tts="24-11-03 03:32:36.157"/>
+        <m id="r8946629" t="f" c="0" ts="2411030359" ts-tts="24-11-03 03:59:58.756"/>
+        <m id="r8946632" t="f" c="0" ts="2411030400" ts-tts="24-11-03 04:00:29.362"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2945"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1671"/>
+    </ref>
+</s>
+
+</timetable>

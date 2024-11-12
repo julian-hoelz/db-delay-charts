@@ -1,0 +1,27 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8868050453695511606-2411022158-8" eva="8000105">
+    <ar ct="2411030259"/>
+    <dp ct="2411030313"/>
+</s>
+
+
+<s id="4753870957390372842-2411022158-8" eva="8000105">
+    <ar ct="2411030259"/>
+    <dp ct="2411030313"/>
+</s>
+
+
+<s id="-7520003888100728379-2411030016-21" eva="8000105">
+    <ar ct="2411030146" l="60"/>
+</s>
+
+
+<s id="4068219331886202018-2411041423-1" eva="8000105">
+    <dp ppth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)|Assmannshausen|Lorch(Rhein)|Lorchhausen|Kaub" pp="23" pt="2411041423" l="RB10">
+        <m id="r8945523" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:21.955"/>
+    </dp>
+    <tl f="D" t="s" o="R4RH" c="VIA" n="25072"/>
+</s>
+
+</timetable>

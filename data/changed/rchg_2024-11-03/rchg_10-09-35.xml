@@ -1,0 +1,134 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8586438261096316872-2411030907-15" eva="8000105">
+    <ar ct="2411031025" l="68"/>
+</s>
+
+
+<s id="5432365024261254671-2411030849-6" eva="8000105">
+    <ar ct="2411031047">
+        <m id="r8949697" t="q" c="80" ts="2411030819" ts-tts="24-11-03 08:19:28.362"/>
+        <m id="r8949699" t="q" c="80" ts="2411030819" ts-tts="24-11-03 08:19:28.362"/>
+    </ar>
+    <dp ct="2411031053">
+        <m id="r8949697" t="q" c="80" ts="2411030819" ts-tts="24-11-03 08:19:28.362"/>
+        <m id="r8949699" t="q" c="80" ts="2411030819" ts-tts="24-11-03 08:19:28.362"/>
+    </dp>
+</s>
+
+
+<s id="4785202112400007497-2411030715-6" eva="8000105">
+    <ar ct="2411031100">
+        <m id="r8948018" t="q" c="80" ts="2411030645" ts-tts="24-11-03 06:45:29.574"/>
+        <m id="r8948020" t="q" c="80" ts="2411030645" ts-tts="24-11-03 06:45:29.574"/>
+    </ar>
+    <dp ct="2411031107">
+        <m id="r8948018" t="q" c="80" ts="2411030645" ts-tts="24-11-03 06:45:29.574"/>
+        <m id="r8948020" t="q" c="80" ts="2411030645" ts-tts="24-11-03 06:45:29.574"/>
+    </dp>
+</s>
+
+
+<s id="4552943191053312167-2411031038-1" eva="8000105">
+    <dp ct="2411031038" l="SE14"/>
+</s>
+
+
+<s id="3976870288423778576-2411030725-27" eva="8000105">
+    <ar ct="2411031035" l="54"/>
+</s>
+
+
+<s id="3875970235766118050-2411031038-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" ct="2411031232" l="RB82"/>
+</s>
+
+
+<s id="3544618350898915804-2411031008-1" eva="8000105">
+    <dp ct="2411031008" l="3"/>
+</s>
+
+
+<s id="9024089942648433409-2411031447-1" eva="8000105">
+    <dp ct="2411031447" l="RB12"/>
+</s>
+
+
+<s id="8557763541571876036-2411031047-1" eva="8000105">
+    <dp ct="2411031047" l="RB12"/>
+</s>
+
+
+<s id="7945632340812070418-2411030838-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" ct="2411031033" l="RB82"/>
+</s>
+
+
+<s id="5919526130990286378-2411031647-1" eva="8000105">
+    <dp ct="2411031647" l="RB12"/>
+</s>
+
+
+<s id="3883787396073878347-2411031247-1" eva="8000105">
+    <dp ct="2411031247" l="RB12"/>
+</s>
+
+
+<s id="3024319753768168999-2411031847-1" eva="8000105">
+    <dp ct="2411031847" l="RB12"/>
+</s>
+
+
+<s id="1354942989849547183-2411031532-10" eva="8000105">
+    <ar ct="2411031610" l="RB12"/>
+</s>
+
+
+<s id="-7661986320925319421-2411031132-10" eva="8000105">
+    <ar ct="2411031210" l="RB12"/>
+</s>
+
+
+<s id="-3670709421932159110-2411031732-10" eva="8000105">
+    <ar ct="2411031810" l="RB12"/>
+</s>
+
+
+<s id="-2237137775459262366-2411031332-10" eva="8000105">
+    <ar ct="2411031410" l="RB12"/>
+</s>
+
+
+<s id="-1839572920361695547-2411030923-13" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411030116" ts="2411011000" ts-tts="24-11-01 10:01:00.170"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411031035" l="RB10"/>
+</s>
+
+
+<s id="1844303998919868059-2411030903-8" eva="8000105">
+    <ar ct="2411031012" l="RB40"/>
+</s>
+
+
+<s id="-6671480439727615956-2411031038-1" eva="8000105">
+    <dp ct="2411031038" l="RE85"/>
+</s>
+
+
+<s id="-1790024725878292801-2411030836-9" eva="8000105">
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031214">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.128"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.908"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf|St. Valentin|Amstetten NÖ|St.Pölten Hbf|Wien Meidling|Wien Hbf" ct="2411031224">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.128"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.908"/>
+    </dp>
+</s>
+
+
+<s id="3855064864861764104-2411031408-1" eva="8000105">
+    <dp ct="2411031408" l="3"/>
+</s>
+
+</timetable>

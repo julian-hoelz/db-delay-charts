@@ -1,0 +1,63 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-8454454517290803659-2410281829-15" eva="8000105">
+    <m id="r2304717" t="h" from="2410281800" to="2410282030" cat="Störung" ts="2410281812" ts-tts="24-10-28 20:16:11.666" pr="2"/>
+    <m id="r2304276" t="h" from="2410280413" to="2410290004" cat="Information" ts="2410272304" ts-tts="24-10-27 23:04:38.705" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 08:13:26.650" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" pp="18" ct="2410290046" pt="2410290004">
+        <m id="r8682785" t="q" c="85" ts="2410280256" ts-tts="24-10-28 02:56:44.364"/>
+        <m id="r8722155" t="d" c="8" ts="2410281949" ts-tts="24-10-28 19:49:21.599"/>
+        <m id="r8724092" t="d" c="8" ts="2410282038" ts-tts="24-10-28 20:38:45.293"/>
+        <m id="r8727089" t="d" c="67" ts="2410282216" ts-tts="24-10-28 22:17:05.454"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="2417"/>
+</s>
+
+
+<s id="847035409085597212-2410291413-7" eva="8000105">
+    <m id="r2304851" t="h" from="2410291413" to="2410292139" cat="Information" ts="2410282304" ts-tts="24-10-28 23:04:08.443" pr="2"/>
+    <ar cpth="" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf" pp="7" pt="2410291752" cs="c" clt="2410290019">
+        <m id="r8726848" t="d" c="55" ts="2410282201" ts-tts="24-10-28 22:02:08.792"/>
+        <m id="r8729958" t="f" c="0" ts="2410290019" ts-tts="24-10-29 00:19:38.902"/>
+    </ar>
+    <dp cpth="" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf" pp="7" pt="2410291758" cs="c" clt="2410290019">
+        <m id="r8726848" t="d" c="55" ts="2410282201" ts-tts="24-10-28 22:02:08.792"/>
+        <m id="r8729958" t="f" c="0" ts="2410290019" ts-tts="24-10-29 00:19:38.902"/>
+    </dp>
+    <tl f="F" t="e" o="80" c="ICE" n="2876"/>
+</s>
+
+
+<s id="-9190061449337738738-2410291413-7" eva="8000105">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf" pp="7" pt="2410291752">
+        <m id="r8729959" t="f" c="0" ts="2410290019" ts-tts="24-10-29 00:19:38.902"/>
+    </ar>
+    <dp ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf" pp="7" pt="2410291758">
+        <m id="r8729959" t="f" c="0" ts="2410290019" ts-tts="24-10-29 00:19:38.902"/>
+    </dp>
+    <tl f="F" t="e" o="80" c="ICE" n="2878"/>
+    <ref>
+        <tl f="F" t="e" o="80" c="ICE" n="2876"/>
+    </ref>
+</s>
+
+
+<s id="993826748729604473-2410281946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf" cp="8" ct="2410290021">
+        <m id="r8630788" t="f" c="0" ts="2410261314" ts-tts="24-10-26 13:14:43.556"/>
+        <m id="r8650999" t="f" c="0" ts="2410270146" ts-tts="24-10-27 01:46:37.850"/>
+        <m id="r8721075" t="f" c="0" ts="2410281925" ts-tts="24-10-28 19:25:15.573"/>
+    </ar>
+</s>
+
+
+<s id="-2320340282101811304-2410282043-8" eva="8000105">
+    <ar ct="2410290054">
+        <m id="r8723237" t="q" c="80" ts="2410282013" ts-tts="24-10-28 20:13:42.037"/>
+        <m id="r8723239" t="q" c="80" ts="2410282013" ts-tts="24-10-28 20:13:42.037"/>
+        <m id="r8723241" t="q" c="84" ts="2410282013" ts-tts="24-10-28 20:13:42.037"/>
+        <m id="r8725472" t="d" c="31" ts="2410282119" ts-tts="24-10-28 21:19:51.206"/>
+    </ar>
+</s>
+
+</timetable>

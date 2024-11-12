@@ -1,0 +1,75 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-63826304703648840-2410290535-4" eva="8000105">
+    <m id="r2304929" t="h" from="2410290535" to="2410291921" cat="Information" ts="2410290408" ts-tts="24-10-29 04:08:56.746" pr="2"/>
+    <ar cpth="Fulda|Schlüchtern|Hanau Hbf" ct="2410290640">
+        <m id="r8659114" t="f" c="0" ts="2410271138" ts-tts="24-10-27 11:38:17.066"/>
+        <m id="r8682209" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.609"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Vaihingen(Enz)|Stuttgart Hbf" ct="2410290652">
+        <m id="r8659114" t="f" c="0" ts="2410271138" ts-tts="24-10-27 11:38:17.066"/>
+        <m id="r8682209" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.609"/>
+    </dp>
+</s>
+
+
+<s id="-433402074358546073-2410290535-13" eva="8000105">
+    <ar ct="2410290808" l="5"/>
+</s>
+
+
+<s id="448956048228241523-2410290428-16" eva="8000105">
+    <ar ct="2410290525" l="RB58"/>
+</s>
+
+
+<s id="1697269897239043711-2410290905-7" eva="8000105">
+    <ar ct="2410290951" l="RE9"/>
+</s>
+
+
+<s id="-7710914094412173264-2410290905-21" eva="8000105">
+    <ar ct="2410291138" l="RE98"/>
+</s>
+
+
+<s id="-1317670036407023850-2410290534-1" eva="8000105">
+    <dp cp="13" ct="2410290534" l="68"/>
+</s>
+
+
+<s id="-8506985227519472485-2410290521-20" eva="8000105">
+    <m id="r2304843" t="h" from="2410290521" to="2410291309" cat="Information" ts="2410282304" ts-tts="24-10-28 23:04:08.443" pr="2"/>
+    <ar ppth="Stralsund Hbf|Velgast|Ribnitz-Damgarten West|Rostock Hbf|Bützow|Bad Kleinen|Schwerin Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)" pp="13" ct="2410291306" pt="2410291309">
+        <m id="r8726720" t="d" c="36" ts="2410282154" ts-tts="24-10-28 21:54:55.992"/>
+        <m id="r8733811" t="f" c="0" ts="2410290504" ts-tts="24-10-29 05:04:39.690"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2911"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1577"/>
+    </ref>
+</s>
+
+
+<s id="-5610905713110305829-2410290613-16" eva="8000105">
+    <ar cpth="Grävenwiesbach|Hundstadt|Wilhelmsdorf|Usingen|Hausen(Taunus)|Neu-Anspach|Wehrheim|Saalburg(Taunus)|Köppern|Friedrichsdorf(Taunus)|Bad Homburg|Oberursel(Taunus)|Frankfurt-Rödelheim" l="RB15"/>
+</s>
+
+
+<s id="-2558492078502254469-2410290904-9" eva="8000105">
+    <ar ct="2410290940" l="RB58"/>
+</s>
+
+
+<s id="7472867243087489801-2410290400-13" eva="8000105">
+    <ar ct="2410290523" l="50">
+        <m id="r8733772" t="d" c="43" ts="2410290503" ts-tts="24-10-29 05:03:53.557"/>
+    </ar>
+</s>
+
+
+<s id="6546106715002696415-2410290533-14" eva="8000105">
+    <ar ct="2410290643" l="22"/>
+</s>
+
+</timetable>

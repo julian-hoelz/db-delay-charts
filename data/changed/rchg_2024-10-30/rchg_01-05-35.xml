@@ -1,0 +1,9 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3709802648382770109-2410300612-1" eva="8000105">
+    <dp cpth="" cs="c" clt="2410300103" l="61">
+        <m id="r8777985" t="d" c="36" ts="2410300103" ts-tts="24-10-30 01:03:48.093"/>
+    </dp>
+</s>
+
+</timetable>

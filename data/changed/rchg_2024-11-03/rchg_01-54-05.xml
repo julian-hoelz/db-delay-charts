@@ -1,0 +1,29 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-4465336030385931642-2411031014-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-02 23:16:11.520" pr="3" del="1"/>
+    <m id="r2308332" t="h" from="2411030633" to="2411031727" cat="Information" ts="2411030136" ts-tts="24-11-03 01:36:20.408" pr="2"/>
+    <m id="r2308341" t="h" from="2411031250" to="2411031252" cat="Information" ts="2411030153" ts-tts="24-11-03 01:53:50.595" pr="3"/>
+    <ar>
+        <m id="r8945855" t="f" c="0" ts="2411030149" ts-tts="24-11-03 01:49:28.598"/>
+    </ar>
+    <dp>
+        <m id="r8945855" t="f" c="0" ts="2411030149" ts-tts="24-11-03 01:49:28.598"/>
+    </dp>
+</s>
+
+
+<s id="3253900767729253562-2411030147-1" eva="8000105">
+    <dp ct="2411030153" l="RB12"/>
+</s>
+
+
+<s id="4081552720387302901-2411030506-1" eva="8000105">
+    <m id="r2308327" t="h" from="2411030506" to="2411032239" cat="Information" ts="2411030131" ts-tts="24-11-03 01:31:26.086" pr="2"/>
+    <dp cpth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB">
+        <m id="r8945859" t="f" c="0" ts="2411030150" ts-tts="24-11-03 01:50:31.079"/>
+        <m id="r8945878" t="d" c="31" ts="2411030152" ts-tts="24-11-03 01:52:18.641"/>
+    </dp>
+</s>
+
+</timetable>

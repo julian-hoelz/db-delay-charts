@@ -1,0 +1,44 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7670964421205189474-2411020602-9" eva="8000105">
+    <ar ct="2411020904">
+        <m id="r8916253" t="q" c="80" ts="2411020532" ts-tts="24-11-02 05:32:27.767"/>
+        <m id="r8916255" t="q" c="80" ts="2411020532" ts-tts="24-11-02 05:32:27.767"/>
+        <m id="r8916674" t="q" c="84" ts="2411020603" ts-tts="24-11-02 06:03:17.924"/>
+        <m id="r8916676" t="q" c="84" ts="2411020603" ts-tts="24-11-02 06:03:17.924"/>
+    </ar>
+</s>
+
+
+<s id="7109080472801536148-2411020532-10" eva="8000105">
+    <ar ct="2411020610" l="RB12"/>
+</s>
+
+
+<s id="-924011349323769162-2411020632-1" eva="8000105">
+    <dp ct="2411020632" l="68"/>
+</s>
+
+
+<s id="6597109704784414496-2411020342-17" eva="8000105">
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ingelheim|Mainz Hbf|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf" ct="2411020636" l="3"/>
+</s>
+
+
+<s id="-690776802853422910-2411020641-9" eva="8000105">
+    <ar cpth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Mainz Hbf" ct="2411021051">
+        <m id="r8845255" t="f" c="0" ts="2410311159" ts-tts="24-10-31 11:59:34.651"/>
+        <m id="r8876290" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:17.685"/>
+    </ar>
+    <dp cpth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg Hbf" ct="2411021059">
+        <m id="r8845255" t="f" c="0" ts="2410311159" ts-tts="24-10-31 11:59:34.651"/>
+        <m id="r8876290" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:17.685"/>
+    </dp>
+</s>
+
+
+<s id="-1835636978659994252-2411020513-13" eva="8000105">
+    <ar ct="2411020602" l="61"/>
+</s>
+
+</timetable>

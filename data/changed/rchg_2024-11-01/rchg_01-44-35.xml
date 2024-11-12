@@ -1,0 +1,12 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-1998685101828923679-2411010549-16" eva="8000105">
+    <ar cpth="Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" l="SE14">
+        <m id="r8876355" t="d" c="35" ts="2411010144" ts-tts="24-11-01 01:44:16.482"/>
+    </ar>
+</s>
+
+
+<m id="r125561" t="r" from="2411010047" to="2411010600" ts="2411010049" ts-tts="24-11-01 00:49:15.605"/>
+
+</timetable>

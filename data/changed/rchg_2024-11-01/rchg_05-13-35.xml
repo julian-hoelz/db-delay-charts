@@ -1,0 +1,32 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-1361694642872222341-2411010542-4" eva="8000105">
+    <ar ct="2411010957"/>
+</s>
+
+
+<s id="-7451361316148245986-2411010542-1" eva="8000105">
+    <dp ct="2411010542" l="51"/>
+</s>
+
+
+<s id="8173902410314242739-2411010542-16" eva="8000105">
+    <ar ct="2411010647" l="34">
+        <m id="r8866859" t="q" c="82" ts="2410311940" ts-tts="24-10-31 19:40:29.970"/>
+    </ar>
+</s>
+
+
+<s id="377380470887407460-2411010513-16" eva="8000105">
+    <ar cpth="Grävenwiesbach|Hundstadt|Wilhelmsdorf|Usingen|Hausen(Taunus)|Neu-Anspach|Wehrheim|Saalburg(Taunus)|Köppern|Friedrichsdorf(Taunus)|Bad Homburg|Oberursel(Taunus)|Frankfurt-Rödelheim" ct="2411010628" l="RB15"/>
+</s>
+
+
+<s id="5237840093051811079-2411010510-1" eva="8000105">
+    <dp ct="2411010511" l="61"/>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:14.825"/>
+
+</timetable>

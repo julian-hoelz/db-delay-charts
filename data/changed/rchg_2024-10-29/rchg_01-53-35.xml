@@ -1,0 +1,11 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7217092419963954024-2410282223-24" eva="8000105">
+    <ar ppth="Kassel Hbf|Kassel-Wilhelmshöhe|Edermünde-Grifte|Felsberg-Gensungen|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Cölbe|Marburg(Lahn)|Marburg Süd|Niederwalgern|Fronhausen(Lahn)|Lollar|Gießen|Großen Linden|Lang Göns|Butzbach|Bad Nauheim|Friedberg(Hess)|Hanau Hbf" cp="15" pp="13" ct="2410290154" pt="2410290118" l="30">
+        <m id="r8727373" t="d" c="48" ts="2410282233" ts-tts="24-10-28 22:33:42.329"/>
+        <m id="r8730811" t="d" c="43" ts="2410290121" ts-tts="24-10-29 01:21:55.140"/>
+    </ar>
+    <tl f="N" t="p" o="8005MW" c="RE" n="4169"/>
+</s>
+
+</timetable>

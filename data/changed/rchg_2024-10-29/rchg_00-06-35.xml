@@ -1,0 +1,26 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8573811631662133764-2410282048-7" eva="8000105">
+    <ar cpth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ct="2410290007">
+        <m id="r8630135" t="f" c="0" ts="2410261248" ts-tts="24-10-26 12:48:55.807"/>
+        <m id="r8650964" t="f" c="0" ts="2410270146" ts-tts="24-10-27 01:46:37.850"/>
+        <m id="r8723384" t="q" c="80" ts="2410282018" ts-tts="24-10-28 20:18:37.193"/>
+        <m id="r8728271" t="d" c="43" ts="2410282328" ts-tts="24-10-28 23:28:50.454"/>
+    </ar>
+</s>
+
+
+<s id="-8454454517290803659-2410281829-15" eva="8000105">
+    <m id="r2304717" t="h" from="2410281800" to="2410282030" cat="Störung" ts="2410281812" ts-tts="24-10-28 20:16:11.666" pr="2"/>
+    <m id="r2304276" t="h" from="2410280413" to="2410290004" cat="Information" ts="2410272304" ts-tts="24-10-27 23:04:38.705" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 08:13:26.650" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" pp="18" ct="2410290043" pt="2410290004">
+        <m id="r8682785" t="q" c="85" ts="2410280256" ts-tts="24-10-28 02:56:44.364"/>
+        <m id="r8722155" t="d" c="8" ts="2410281949" ts-tts="24-10-28 19:49:21.599"/>
+        <m id="r8724092" t="d" c="8" ts="2410282038" ts-tts="24-10-28 20:38:45.293"/>
+        <m id="r8727089" t="d" c="67" ts="2410282216" ts-tts="24-10-28 22:17:05.454"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="2417"/>
+</s>
+
+</timetable>

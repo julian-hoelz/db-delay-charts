@@ -1,0 +1,96 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="993826748729604473-2411011946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf">
+        <m id="r8801839" t="f" c="0" ts="2410301352" ts-tts="24-10-30 13:52:25.272"/>
+        <m id="r8829284" t="f" c="0" ts="2410310142" ts-tts="24-10-31 01:43:07.384"/>
+    </ar>
+</s>
+
+
+<s id="8427643844771946574-2411011931-23" eva="8000105">
+    <m id="r2292974" t="h" from="2410312031" to="2411020054" cat="Bauarbeiten" ts="2410302302" ts-tts="24-10-31 23:16:12.577" pr="2"/>
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-31 23:16:12.593" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410312131" l="RB40">
+        <m id="r8871011" t="d" c="99" ts="2410312131" ts-tts="24-10-31 21:32:01.201"/>
+    </ar>
+</s>
+
+
+<s id="2659249936109260099-2411011933-23" eva="8000105">
+    <ar cpth="Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410312132" l="RB41">
+        <m id="r8871018" t="d" c="99" ts="2410312132" ts-tts="24-10-31 21:32:32.879"/>
+    </ar>
+</s>
+
+
+<s id="-2026468004269217034-2411011953-1" eva="8000105">
+    <dp cpth="" cs="c" clt="2410312254" l="RB10">
+        <m id="r8872932" t="d" c="49" ts="2410312254" ts-tts="24-10-31 22:54:49.486"/>
+    </dp>
+</s>
+
+
+<s id="-4356853165457193863-2411011908-1" eva="8000105">
+    <dp l="2">
+        <m id="r8874103" t="f" c="0" ts="2411010005" ts-tts="24-11-01 00:05:37.100"/>
+    </dp>
+</s>
+
+
+<s id="-7908451041935798366-2411011919-1" eva="8000105">
+    <dp l="30">
+        <m id="r8872923" t="q" c="85" ts="2410312253" ts-tts="24-10-31 22:53:46.388"/>
+    </dp>
+</s>
+
+
+<s id="899526545449232559-2411011926-28" eva="8000105">
+    <ar l="54">
+        <m id="r8866004" t="q" c="93" ts="2410311918" ts-tts="24-10-31 19:18:53.692"/>
+        <m id="r8866008" t="q" c="77" ts="2410311918" ts-tts="24-10-31 19:19:09.614"/>
+    </ar>
+</s>
+
+
+<s id="5446419279451908244-2411011954-10" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-31 23:16:12.391" pr="2"/>
+</s>
+
+
+<s id="170093097875396020-2411011916-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+</s>
+
+
+<s id="-324577228496578992-2411011923-4" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-31 23:16:12.391" pr="2"/>
+</s>
+
+
+<s id="-3734919257376569162-2411011929-1" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-10-31 23:16:12.593" pr="2"/>
+</s>
+
+
+<s id="-1268335842879231054-2411011905-6" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.569" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.574" pr="2"/>
+</s>
+
+
+<s id="-5519323137816245594-2411011918-1" eva="8000105">
+    <m id="r2307034" t="h" from="2411011918" to="2411020117" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:19.039" pr="2"/>
+</s>
+
+
+<s id="8614367859162303290-2411011930-1" eva="8000105">
+    <dp cp="8" l="54"/>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:11.102"/>
+
+</timetable>

@@ -1,0 +1,85 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7094946457224890485-2411031159-6" eva="8000105">
+    <ar ct="2411031329">
+        <m id="r8955184" t="d" c="47" ts="2411031155" ts-tts="24-11-03 11:55:36.688"/>
+        <m id="r8955190" t="d" c="23" ts="2411031155" ts-tts="24-11-03 11:55:36.688"/>
+        <m id="r8955932" t="f" c="0" ts="2411031223" ts-tts="24-11-03 12:23:55.445"/>
+    </ar>
+</s>
+
+
+<s id="-1430316347856308242-2411031316-9" eva="8000105">
+    <ar cpth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach|Fulda" ct="2411031744">
+        <m id="r8951142" t="f" c="0" ts="2411030919" ts-tts="24-11-03 09:19:54.313"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2411031752">
+        <m id="r8951142" t="f" c="0" ts="2411030919" ts-tts="24-11-03 09:19:54.313"/>
+    </dp>
+</s>
+
+
+<s id="-7118426883477829136-2411031253-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411030116" ts="2411011000" ts-tts="24-11-01 10:01:02.223"/>
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf" ct="2411031253" l="RB10">
+        <m id="r8896370" t="f" c="0" ts="2411011519" ts-tts="24-11-01 15:19:34.656"/>
+        <m id="r8914230" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:45:47.743"/>
+        <m id="r8935303" t="f" c="0" ts="2411021759" ts-tts="24-11-02 17:59:29.311"/>
+    </dp>
+</s>
+
+
+<s id="-5413495420970200756-2411031049-16" eva="8000105">
+    <ar ct="2411031225" l="SE14"/>
+</s>
+
+
+<s id="-7770608903214609941-2411031221-1" eva="8000105">
+    <dp ct="2411031222" l="RE99"/>
+</s>
+
+
+<s id="-2790121391414233897-2411031221-1" eva="8000105">
+    <dp ct="2411031222" l="RE98"/>
+</s>
+
+
+<s id="-1790024725878292801-2411030836-9" eva="8000105">
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031213">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:10.241"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:57.309"/>
+        <m id="r8955377" t="q" c="80" ts="2411031201" ts-tts="24-11-03 12:01:22.831"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf|St. Valentin|Amstetten NÖ|St.Pölten Hbf|Wien Meidling|Wien Hbf" ct="2411031222">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:10.241"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:57.309"/>
+        <m id="r8955377" t="q" c="80" ts="2411031201" ts-tts="24-11-03 12:01:22.832"/>
+    </dp>
+</s>
+
+
+<s id="-8127132002161118974-2411030926-27" eva="8000105">
+    <ar ct="2411031233" l="54"/>
+</s>
+
+
+<s id="-3358111961677103033-2411031252-5" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-11-02 23:16:11.686" pr="2"/>
+    <ar ct="2411031330" l="22"/>
+</s>
+
+
+<s id="-2543008509222161707-2411030846-8" eva="8000105">
+    <ar ct="2411031251">
+        <m id="r8949616" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+        <m id="r8949618" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+        <m id="r8949620" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+    </ar>
+    <dp ct="2411031258">
+        <m id="r8949616" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+        <m id="r8949618" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+        <m id="r8949620" t="q" c="80" ts="2411030816" ts-tts="24-11-03 08:16:21.348"/>
+    </dp>
+</s>
+
+</timetable>

@@ -1,0 +1,51 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6716213240730000376-2411012237-28" eva="8000105">
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" ct="2411020113" l="RB10"/>
+</s>
+
+
+<s id="-6582453439070561259-2411012046-9" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411020200" cat="Störung" ts="2411012056" ts-tts="24-11-01 23:16:12.284" pr="1"/>
+    <ar cpth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Hanau Hbf|Frankfurt(Main)Süd" ppth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Schlüchtern|Bad Soden-Salmünster|Hanau Hbf|Frankfurt(Main)Süd" pp="7" ct="2411020108" pt="2411012232" l="5">
+        <m id="r8872565" t="q" c="73" ts="2410312238" ts-tts="24-10-31 22:38:46.361"/>
+        <m id="r8872632" t="q" c="85" ts="2410312240" ts-tts="24-10-31 22:40:37.209"/>
+        <m id="r8906909" t="f" c="0" ts="2411011955" ts-tts="24-11-01 19:55:36.430"/>
+        <m id="r8909416" t="d" c="8" ts="2411012128" ts-tts="24-11-01 21:28:35.733"/>
+    </ar>
+    <tl f="N" t="p" o="8005KG" c="RE" n="4598"/>
+</s>
+
+
+<s id="7217092419963954024-2411012223-24" eva="8000105">
+    <ar ct="2411020134" l="30">
+        <m id="r8872925" t="q" c="85" ts="2410312253" ts-tts="24-10-31 22:54:02.273"/>
+    </ar>
+</s>
+
+
+<s id="5888878348182935850-2411012303-26" eva="8000105">
+    <ar ct="2411020203" l="RE98"/>
+</s>
+
+
+<s id="8868050453695511606-2411012134-8" eva="8000105">
+    <ar ct="2411020245">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2411012134-8" eva="8000105">
+    <ar ct="2411020245">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+</timetable>

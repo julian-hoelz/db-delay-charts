@@ -1,0 +1,52 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4081552720387302901-2411010506-1" eva="8000105">
+    <m id="r2307062" t="h" from="2410312200" to="2411010600" cat="Störung" ts="2410312313" ts-tts="24-11-01 01:16:11.624" pr="1"/>
+    <m id="r2307056" t="h" from="2411010506" to="2411012226" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:12.591" pr="3"/>
+    <dp cpth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur">
+        <m id="r8876599" t="d" c="35" ts="2411010144" ts-tts="24-11-01 01:45:12.944"/>
+        <m id="r8876618" t="f" c="0" ts="2411010147" ts-tts="24-11-01 01:47:15.830"/>
+        <m id="r8876727" t="q" c="85" ts="2411010211" ts-tts="24-11-01 02:11:18.652"/>
+    </dp>
+</s>
+
+
+<s id="-4853549543155830626-2411011238-12" eva="8000105">
+    <m id="r2307056" t="h" from="2411010506" to="2411012226" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:12.591" pr="3"/>
+    <ar>
+        <m id="r8876725" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:48.091"/>
+    </ar>
+    <dp>
+        <m id="r8876725" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:48.091"/>
+    </dp>
+</s>
+
+
+<s id="776874307993202871-2411011306-8" eva="8000105">
+    <m id="r2307058" t="h" from="2411011306" to="2411012043" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:12.591" pr="3"/>
+    <ar>
+        <m id="r8876722" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:17.537"/>
+    </ar>
+    <dp>
+        <m id="r8876722" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:17.537"/>
+    </dp>
+</s>
+
+
+<s id="7025640092605674704-2411010607-17" eva="8000105">
+    <m id="r2307017" t="h" from="2411010607" to="2411011109" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:12.591" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Bad Bevensen|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)|Frankfurt(Main)West" pp="13" pt="2411011109">
+        <m id="r8868610" t="d" c="55" ts="2410312022" ts-tts="24-10-31 20:22:49.115"/>
+        <m id="r8876717" t="q" c="80" ts="2411010209" ts-tts="24-11-01 02:09:16.205"/>
+        <m id="r8876721" t="f" c="0" ts="2411010209" ts-tts="24-11-01 02:10:02.189"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2945"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1575"/>
+    </ref>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:14.825"/>
+
+</timetable>

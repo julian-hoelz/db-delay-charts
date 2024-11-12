@@ -1,0 +1,38 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-5851721557238592488-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:12.250" pr="2"/>
+    <m id="r289491463alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.625"/>
+    <m id="r289491464alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.625"/>
+    <m id="r289491463" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.477"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410310305" pt="2410310223" hi="1" wings="7582314568044505717-2410302028">
+        <m id="r8829693" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:20:52.226"/>
+        <m id="r8829963" t="f" c="0" ts="2410310240" ts-tts="24-10-31 02:40:14.539"/>
+        <m id="r8830117" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:34.987"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410310309" pt="2410310236" hi="1" wings="7582314568044505717-2410302028">
+        <m id="r8829693" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:20:52.226"/>
+        <m id="r8830117" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:34.987"/>
+    </dp>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="7582314568044505717-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:12.250" pr="2"/>
+    <m id="r289491463alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.625"/>
+    <m id="r289491464alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.625"/>
+    <m id="r289491464" t="c" ts="2410310240" ts-tts="24-10-31 02:40:14.477"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410310305" pt="2410310223">
+        <m id="r8829691" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:20:52.226"/>
+        <m id="r8829967" t="f" c="0" ts="2410310240" ts-tts="24-10-31 02:40:14.539"/>
+        <m id="r8830118" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:34.987"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410310309" pt="2410310236">
+        <m id="r8829691" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:20:52.226"/>
+        <m id="r8830118" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:34.987"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+</timetable>

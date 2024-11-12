@@ -1,0 +1,12 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8573811631662133764-2410282048-7" eva="8000105">
+    <ar cpth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ct="2410290007">
+        <m id="r8630135" t="f" c="0" ts="2410261248" ts-tts="24-10-26 12:48:59.101"/>
+        <m id="r8650964" t="f" c="0" ts="2410270146" ts-tts="24-10-27 01:46:25.385"/>
+        <m id="r8723384" t="q" c="80" ts="2410282018" ts-tts="24-10-28 20:18:37.848"/>
+        <m id="r8728271" t="d" c="43" ts="2410282328" ts-tts="24-10-28 23:28:50.924"/>
+    </ar>
+</s>
+
+</timetable>

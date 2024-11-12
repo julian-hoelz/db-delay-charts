@@ -1,0 +1,30 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="2284329567613934914-2411012238-21" eva="8000105">
+    <ar ct="2411020036" l="RB82"/>
+</s>
+
+
+<s id="9117006994590991223-2411012236-32" eva="8000105">
+    <m id="r2296719" t="h" from="2411012236" to="2411020054" cat="Bauarbeiten" ts="2410312303" ts-tts="24-10-31 23:03:14.635" pr="2"/>
+    <ar ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd" pp="5" ct="2411020131" pt="2411020048" l="54">
+        <m id="r8911666" t="d" c="31" ts="2411012317" ts-tts="24-11-01 23:18:09.476"/>
+        <m id="r8912219" t="d" c="31" ts="2411012353" ts-tts="24-11-01 23:53:50.639"/>
+    </ar>
+    <tl f="N" t="p" o="800772" c="RE" n="4636"/>
+</s>
+
+
+<s id="8149147754402883805-2411020420-18" eva="8000105">
+    <ar ct="2411020736" l="3"/>
+</s>
+
+
+<s id="-2320340282101811304-2411012043-9" eva="8000105">
+    <ar ct="2411020051">
+        <m id="r8907433" t="q" c="80" ts="2411012013" ts-tts="24-11-01 20:13:21.733"/>
+        <m id="r8907435" t="q" c="80" ts="2411012013" ts-tts="24-11-01 20:13:21.733"/>
+    </ar>
+</s>
+
+</timetable>

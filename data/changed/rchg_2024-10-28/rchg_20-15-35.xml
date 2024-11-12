@@ -1,0 +1,85 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="486550677600814042-2410281907-13" eva="8000105">
+    <ar cp="5" ct="2410282030" l="50"/>
+</s>
+
+
+<s id="-2309088386611741789-2410281713-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2410302359" cat="Information" ts="2408230832" ts-tts="24-10-27 23:16:12.293" pr="3" del="1"/>
+    <m id="r2302744" t="h" from="2410250651" to="2411102359" cat="Information" ts="2410250652" ts-tts="24-10-28 09:16:01.660" pr="3"/>
+    <ar ct="2410282142">
+        <m id="r8712955" t="q" c="80" ts="2410281643" ts-tts="24-10-28 16:43:41.107"/>
+    </ar>
+</s>
+
+
+<s id="-5661005229920740066-2410281838-21" eva="8000105">
+    <ar ct="2410282036" l="RB82">
+        <m id="r8719461" t="d" c="99" ts="2410281900" ts-tts="24-10-28 19:00:25.343"/>
+    </ar>
+</s>
+
+
+<s id="9094493816642653026-2410290702-10" eva="8000105">
+    <ar ct="2410290740" l="RB12"/>
+</s>
+
+
+<s id="7669710181818548236-2410290617-1" eva="8000105">
+    <dp ct="2410290617" l="RB12"/>
+</s>
+
+
+<s id="7226217952501399063-2410282347-1" eva="8000105">
+    <dp ct="2410282347" l="RB12"/>
+</s>
+
+
+<s id="7109080472801536148-2410290532-10" eva="8000105">
+    <ar ct="2410290610" l="RB12"/>
+</s>
+
+
+<s id="-7196265674974663958-2410282302-10" eva="8000105">
+    <ar ct="2410282340" l="RB12"/>
+</s>
+
+
+<s id="3110338756521254946-2410281934-1" eva="8000105">
+    <m id="r2304686" t="h" from="2410281600" to="2410282100" cat="Störung" ts="2410281706" ts-tts="24-10-28 19:16:12.181" pr="1"/>
+    <dp ppth="Langen(Hess)|Darmstadt Hbf|Darmstadt-Eberstadt|Hähnlein-Alsbach|Zwingenberg(Bergstr)|Bensheim-Auerbach|Bensheim|Heppenheim(Bergstr)|Laudenbach(Bergstr)|Weinheim(Bergstr)Hbf|Ladenburg|Neu-Edingen/Friedrichsfeld|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf" cp="5" pp="10" ct="2410282013" pt="2410281934" l="68">
+        <m id="r8695595" t="f" c="0" ts="2410281004" ts-tts="24-10-28 10:04:22.954"/>
+        <m id="r8708088" t="f" c="0" ts="2410281510" ts-tts="24-10-28 15:10:59.789"/>
+        <m id="r8719841" t="f" c="0" ts="2410281902" ts-tts="24-10-28 19:02:14.286"/>
+    </dp>
+    <tl f="N" t="p" o="800574" c="RE" n="4679"/>
+</s>
+
+
+<s id="-2597810254612363168-2410281907-15" eva="8000105">
+    <m id="r2304683" t="h" from="2410281656" to="2410282000" cat="Störung" ts="2410281701" ts-tts="24-10-28 19:16:12.181" pr="2"/>
+    <m id="r2304686" t="h" from="2410281600" to="2410282100" cat="Störung" ts="2410281706" ts-tts="24-10-28 19:16:12.181" pr="1"/>
+    <ar cpth="Neu-Edingen/Friedrichsfeld|Ladenburg|Weinheim(Bergstr)Hbf|Laudenbach(Bergstr)|Heppenheim(Bergstr)|Bensheim|Bensheim-Auerbach|Zwingenberg(Bergstr)|Hähnlein-Alsbach|Darmstadt-Eberstadt|Darmstadt Hbf|Langen(Hess)" ct="2410282025" l="68">
+        <m id="r8679477" t="q" c="82" ts="2410272231" ts-tts="24-10-27 22:31:49.977"/>
+        <m id="r8708931" t="q" c="88" ts="2410281524" ts-tts="24-10-28 15:24:13.790"/>
+        <m id="r8715733" t="d" c="33" ts="2410281744" ts-tts="24-10-28 17:44:14.414"/>
+        <m id="r8718236" t="d" c="33" ts="2410281839" ts-tts="24-10-28 18:39:21.744"/>
+    </ar>
+</s>
+
+
+<s id="-2320340282101811304-2410282043-8" eva="8000105">
+    <ar ct="2410290111">
+        <m id="r8723237" t="q" c="80" ts="2410282013" ts-tts="24-10-28 20:13:41.921"/>
+        <m id="r8723239" t="q" c="80" ts="2410282013" ts-tts="24-10-28 20:13:41.921"/>
+        <m id="r8723241" t="q" c="84" ts="2410282013" ts-tts="24-10-28 20:13:41.921"/>
+    </ar>
+</s>
+
+
+<s id="1790831667886883273-2410282038-1" eva="8000105">
+    <dp ct="2410282041" l="RE85"/>
+</s>
+
+</timetable>

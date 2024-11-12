@@ -1,0 +1,59 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="6563386602617930831-2410290507-8" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-28 23:16:12.303" pr="2"/>
+    <ar cpth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" ct="2410290900">
+        <m id="r8733860" t="d" c="58" ts="2410290507" ts-tts="24-10-29 05:07:59.629"/>
+    </ar>
+    <dp cpth="Mainz Hbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf|München-Pasing|München Hbf" ct="2410290907">
+        <m id="r8733860" t="d" c="58" ts="2410290507" ts-tts="24-10-29 05:07:59.630"/>
+    </dp>
+</s>
+
+
+<s id="4081552720387302901-2410290506-1" eva="8000105">
+    <m id="r2304872" t="h" from="2410290413" to="2410300136" cat="Information" ts="2410290215" ts-tts="24-10-29 02:15:45.523" pr="3"/>
+    <dp ct="2410290506">
+        <m id="r8732097" t="q" c="85" ts="2410290205" ts-tts="24-10-29 02:05:51.038"/>
+    </dp>
+</s>
+
+
+<s id="-3432521978500152278-2410290506-1" eva="8000105">
+    <dp ct="2410290506" l="60"/>
+</s>
+
+
+<s id="-3021522447441037058-2410290537-28" eva="8000105">
+    <ar ct="2410290804" l="RB10"/>
+</s>
+
+
+<s id="6937010390242304742-2410290415-21" eva="8000105">
+    <ar ct="2410290549" l="60">
+        <m id="r8730615" t="q" c="82" ts="2410290101" ts-tts="24-10-29 01:01:34.235"/>
+        <m id="r8733842" t="f" c="0" ts="2410290506" ts-tts="24-10-29 05:06:42.816"/>
+    </ar>
+</s>
+
+
+<s id="7750978145243791777-2410290506-1" eva="8000105">
+    <dp cpth="Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Neumünster|Kiel Hbf" ct="2410290506">
+        <m id="r8659073" t="f" c="0" ts="2410271136" ts-tts="24-10-27 11:37:00.215"/>
+        <m id="r8682207" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.608"/>
+        <m id="r8709779" t="f" c="0" ts="2410281540" ts-tts="24-10-28 15:40:10.529"/>
+        <m id="r8733343" t="q" c="80" ts="2410290436" ts-tts="24-10-29 04:36:46.121"/>
+    </dp>
+</s>
+
+
+<s id="-4946326995182486200-2410290536-1" eva="8000105">
+    <dp ct="2410290536" l="2"/>
+</s>
+
+
+<s id="-7463659337409688183-2410290536-10" eva="8000105">
+    <ar ct="2410290657" l="30"/>
+</s>
+
+</timetable>

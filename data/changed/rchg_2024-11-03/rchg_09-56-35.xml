@@ -1,0 +1,54 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7076418821650022285-2411031026-1" eva="8000105">
+    <dp ct="2411031026" l="50"/>
+</s>
+
+
+<s id="357216455508944088-2411030823-12" eva="8000105">
+    <ar cpth="Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)" ct="2411031043" l="30">
+        <m id="r8940947" t="f" c="0" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8940948" t="f" c="1000" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8940949" t="q" c="85" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8948976" t="d" c="48" ts="2411030743" ts-tts="24-11-03 07:43:15.573"/>
+    </ar>
+</s>
+
+
+<s id="8774939972882156309-2411031025-1" eva="8000105">
+    <dp cpth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)" ct="2411031025" l="RB82"/>
+</s>
+
+
+<s id="-1790024725878292801-2411030836-9" eva="8000105">
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031212">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:10.241"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:57.309"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf|St. Valentin|Amstetten NÖ|St.Pölten Hbf|Wien Meidling|Wien Hbf" ct="2411031222">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:10.241"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:57.309"/>
+    </dp>
+</s>
+
+
+<s id="-8160985285898732989-2411030558-9" eva="8000105">
+    <ar ct="2411031007"/>
+    <dp ct="2411031014">
+        <m id="r8951060" t="f" c="0" ts="2411030916" ts-tts="24-11-03 09:16:30.233"/>
+    </dp>
+</s>
+
+
+<s id="-7827307397706401371-2411030647-5" eva="8000105">
+    <ar ct="2411031004">
+        <m id="r8947635" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:22.854"/>
+        <m id="r8947637" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:22.854"/>
+    </ar>
+    <dp ct="2411031011">
+        <m id="r8947635" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:22.854"/>
+        <m id="r8947637" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:22.854"/>
+    </dp>
+</s>
+
+</timetable>

@@ -1,0 +1,24 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-1497213994658544450-2411041136-13" eva="8000105">
+    <m id="r2302874" t="h" from="2410261816" to="2412131813" cat="Störung" ts="2410252304" ts-tts="24-11-03 23:16:15.841" pr="1"/>
+    <m id="r2308937" t="h" from="2411040717" to="2411042346" cat="Information" ts="2411040202" ts-tts="24-11-04 02:02:22.052" pr="3"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Bremen Hbf|Münster(Westf)Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf">
+        <m id="r8939404" t="f" c="0" ts="2411022005" ts-tts="24-11-02 20:05:32.502"/>
+        <m id="r8945666" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:52.785"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf">
+        <m id="r8939404" t="f" c="0" ts="2411022005" ts-tts="24-11-02 20:05:32.502"/>
+        <m id="r8945666" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:52.785"/>
+    </dp>
+</s>
+
+
+<s id="-7958939615159027987-2411040717-8" eva="8000105">
+    <m id="r2308937" t="h" from="2411040717" to="2411042346" cat="Information" ts="2411040202" ts-tts="24-11-04 02:02:22.052" pr="3"/>
+    <dp>
+        <m id="r8970909" t="f" c="1000" ts="2411031900" ts-tts="24-11-03 19:00:34.384"/>
+    </dp>
+</s>
+
+</timetable>

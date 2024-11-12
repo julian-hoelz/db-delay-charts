@@ -1,0 +1,83 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-5131454907180245685-2411021638-21" eva="8000105">
+    <ar ct="2411021842" l="RB82"/>
+</s>
+
+
+<s id="-8454454517290803659-2411021827-15" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:10.461" pr="2"/>
+    <ar ct="2411030004"/>
+</s>
+
+
+<s id="-7575240079213161486-2411021637-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021716" ts="2411011000" ts-tts="24-11-01 10:01:00.170"/>
+    <ar cpth="Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ppth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" pp="23" ct="2411021949" pt="2411021904" l="RB10">
+        <m id="r8934495" t="d" c="44" ts="2411021731" ts-tts="24-11-02 17:32:01.864"/>
+    </ar>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25027"/>
+</s>
+
+
+<s id="4341219805487381340-2411021825-8" eva="8000105">
+    <ar ct="2411022131">
+        <m id="r8935155" t="q" c="80" ts="2411021755" ts-tts="24-11-02 17:55:30.984"/>
+    </ar>
+</s>
+
+
+<s id="-1497213994658544450-2411021136-13" eva="8000105">
+    <m id="r2307923" t="h" from="2411021136" to="2411030548" cat="Information" ts="2411020205" ts-tts="24-11-02 02:16:10.746" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Bremen Hbf|Münster(Westf)Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411021854">
+        <m id="r8898270" t="f" c="0" ts="2411011610" ts-tts="24-11-01 16:10:40.578"/>
+        <m id="r8932917" t="d" c="43" ts="2411021638" ts-tts="24-11-02 16:38:35.854"/>
+        <m id="r8935148" t="q" c="95" ts="2411021755" ts-tts="24-11-02 17:55:15.451"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf" ct="2411021912">
+        <m id="r8898270" t="f" c="0" ts="2411011610" ts-tts="24-11-01 16:10:40.578"/>
+        <m id="r8932917" t="d" c="43" ts="2411021638" ts-tts="24-11-02 16:38:35.854"/>
+        <m id="r8935148" t="q" c="95" ts="2411021755" ts-tts="24-11-02 17:55:15.451"/>
+    </dp>
+</s>
+
+
+<s id="8603241313343587137-2411021417-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-01 23:16:10.108" pr="3" del="1"/>
+    <m id="r2307940" t="h" from="2411020011" to="2411022339" cat="Information" ts="2411020238" ts-tts="24-11-02 02:38:40.656" pr="3"/>
+    <ar ct="2411021847">
+        <m id="r8914817" t="q" c="85" ts="2411020228" ts-tts="24-11-02 02:28:59.386"/>
+        <m id="r8919985" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:58:11.066"/>
+        <m id="r8927953" t="q" c="80" ts="2411021347" ts-tts="24-11-02 13:47:22.563"/>
+        <m id="r8927955" t="q" c="80" ts="2411021347" ts-tts="24-11-02 13:47:22.563"/>
+        <m id="r8928477" t="q" c="84" ts="2411021401" ts-tts="24-11-02 14:01:19.044"/>
+        <m id="r8934123" t="d" c="64" ts="2411021717" ts-tts="24-11-02 17:17:02.700"/>
+    </ar>
+    <dp ct="2411021855">
+        <m id="r8914817" t="q" c="85" ts="2411020228" ts-tts="24-11-02 02:28:59.386"/>
+        <m id="r8919985" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:58:11.066"/>
+        <m id="r8927953" t="q" c="80" ts="2411021347" ts-tts="24-11-02 13:47:22.563"/>
+        <m id="r8927955" t="q" c="80" ts="2411021347" ts-tts="24-11-02 13:47:22.563"/>
+        <m id="r8928477" t="q" c="84" ts="2411021401" ts-tts="24-11-02 14:01:19.044"/>
+        <m id="r8934123" t="d" c="64" ts="2411021717" ts-tts="24-11-02 17:17:02.700"/>
+    </dp>
+</s>
+
+
+<s id="-7740891857357423186-2411021753-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021716" ts="2411011000" ts-tts="24-11-01 10:01:00.170"/>
+    <dp ct="2411021754" l="RB10"/>
+</s>
+
+
+<s id="3072443038359007172-2411021823-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021716" ts="2411011000" ts-tts="24-11-01 10:01:00.170"/>
+    <dp ct="2411021823" l="RB10"/>
+</s>
+
+
+<s id="-1517157684527005175-2411021633-14" eva="8000105">
+    <ar ct="2411021755" l="60"/>
+</s>
+
+</timetable>

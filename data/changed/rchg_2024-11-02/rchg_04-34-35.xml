@@ -1,0 +1,26 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6179712921514834305-2411020802-11" eva="8000105">
+    <ar ppth="Dresden Hbf|Dresden-Neustadt|Coswig(b Dresden)|Riesa|Leipzig Hbf|Erfurt Hbf|Gotha|Eisenach|Bad Hersfeld|Fulda" pp="6" pt="2411021236">
+        <m id="r8915655" t="d" c="36" ts="2411020424" ts-tts="24-11-02 04:24:29.303"/>
+        <m id="r8915677" t="f" c="0" ts="2411020432" ts-tts="24-11-02 04:32:38.772"/>
+        <m id="r8915678" t="f" c="0" ts="2411020432" ts-tts="24-11-02 04:32:54.054"/>
+        <m id="r8915679" t="f" c="0" ts="2411020433" ts-tts="24-11-02 04:33:24.621"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2952"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1652"/>
+    </ref>
+</s>
+
+
+<s id="-7052912375929255646-2411020502-15" eva="8000105">
+    <ar ct="2411020622" l="68"/>
+</s>
+
+
+<s id="2446164127141487212-2411020404-9" eva="8000105">
+    <ar ct="2411020441" l="RB58"/>
+</s>
+
+</timetable>

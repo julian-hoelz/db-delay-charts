@@ -1,0 +1,30 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="333620029166382799-2410291134-7" eva="8000105">
+    <m id="r2304929" t="h" from="2410290535" to="2410291921" cat="Information" ts="2410290408" ts-tts="24-10-29 04:08:56.746" pr="2"/>
+</s>
+
+
+<s id="-63826304703648840-2410290535-4" eva="8000105">
+    <m id="r2304929" t="h" from="2410290535" to="2410291921" cat="Information" ts="2410290408" ts-tts="24-10-29 04:08:56.746" pr="2"/>
+    <ar cpth="Fulda|Schlüchtern|Hanau Hbf">
+        <m id="r8659114" t="f" c="0" ts="2410271138" ts-tts="24-10-27 11:38:17.066"/>
+        <m id="r8682209" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.609"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Vaihingen(Enz)|Stuttgart Hbf">
+        <m id="r8659114" t="f" c="0" ts="2410271138" ts-tts="24-10-27 11:38:17.066"/>
+        <m id="r8682209" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.609"/>
+    </dp>
+</s>
+
+
+<s id="-5921742979997781539-2410290808-1" eva="8000105">
+    <dp ct="2410290808" l="3"/>
+</s>
+
+
+<s id="5168410402603736157-2410291530-1" eva="8000105">
+    <dp ct="2410291530" l="RB15"/>
+</s>
+
+</timetable>

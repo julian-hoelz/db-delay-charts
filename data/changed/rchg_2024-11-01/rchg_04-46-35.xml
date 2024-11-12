@@ -1,0 +1,64 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7025640092605674704-2411010607-17" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <m id="r2307017" t="h" from="2411010607" to="2411011109" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:19.038" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Bad Bevensen|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)|Frankfurt(Main)West" pp="13" ct="2411011109" pt="2411011109">
+        <m id="r8868610" t="d" c="55" ts="2410312022" ts-tts="24-10-31 20:22:47.426"/>
+        <m id="r8876717" t="q" c="80" ts="2411010209" ts-tts="24-11-01 02:09:12.597"/>
+        <m id="r8876721" t="f" c="0" ts="2411010209" ts-tts="24-11-01 02:10:13.996"/>
+        <m id="r8877827" t="d" c="42" ts="2411010446" ts-tts="24-11-01 04:46:16.798"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2945"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1575"/>
+    </ref>
+</s>
+
+
+<s id="-740193782669832940-2411010516-1" eva="8000105">
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.574" pr="2"/>
+    <dp ct="2411010517"/>
+</s>
+
+
+<s id="8536284617001416347-2411010515-25" eva="8000105">
+    <ar ct="2411010724" l="55"/>
+</s>
+
+
+<s id="-6362335943057855866-2411010515-13" eva="8000105">
+    <ar ct="2411010636" l="50"/>
+</s>
+
+
+<s id="6174471127908678384-2411010444-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-31 23:16:12.712" pr="2"/>
+    <dp ct="2411010444">
+        <m id="r8865094" t="f" c="1000" ts="2410311900" ts-tts="24-10-31 19:00:36.135"/>
+    </dp>
+</s>
+
+
+<s id="1217824204695004483-2411010617-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-10-31 23:16:12.386" pr="3" del="1"/>
+    <m id="r2307083" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <ar cpth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf" ct="2411011044">
+        <m id="r8877683" t="d" c="35" ts="2411010428" ts-tts="24-11-01 04:28:15.076"/>
+        <m id="r8877820" t="d" c="42" ts="2411010444" ts-tts="24-11-01 04:44:44.129"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2411010428">
+        <m id="r8877683" t="d" c="35" ts="2411010428" ts-tts="24-11-01 04:28:15.076"/>
+        <m id="r8877820" t="d" c="42" ts="2411010444" ts-tts="24-11-01 04:44:44.129"/>
+    </dp>
+</s>
+
+
+<s id="-3943170705080026081-2411010514-14" eva="8000105">
+    <ar ct="2411010616" l="51"/>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:11.102"/>
+
+</timetable>

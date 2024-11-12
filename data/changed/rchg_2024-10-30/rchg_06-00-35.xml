@@ -1,0 +1,44 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-4608618167809075409-2410300559-1" eva="8000105">
+    <dp ct="2410300559" l="22"/>
+</s>
+
+
+<s id="2774174590951633862-2410292228-22" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 23:16:12.575" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn-Beuel|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2410300720">
+        <m id="r8677820" t="f" c="0" ts="2410272113" ts-tts="24-10-27 21:13:40.252"/>
+        <m id="r8682319" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:34.918"/>
+        <m id="r8711187" t="f" c="0" ts="2410281603" ts-tts="24-10-28 16:03:44.407"/>
+        <m id="r8779977" t="f" c="0" ts="2410300258" ts-tts="24-10-30 02:58:18.832"/>
+        <m id="r8780294" t="d" c="67" ts="2410300349" ts-tts="24-10-30 03:49:56.820"/>
+        <m id="r8780512" t="d" c="58" ts="2410300424" ts-tts="24-10-30 04:24:05.840"/>
+        <m id="r8780541" t="d" c="58" ts="2410300426" ts-tts="24-10-30 04:26:38.892"/>
+        <m id="r8781755" t="d" c="67" ts="2410300539" ts-tts="24-10-30 05:39:38.763"/>
+        <m id="r8781757" t="d" c="67" ts="2410300539" ts-tts="24-10-30 05:39:38.763"/>
+    </ar>
+</s>
+
+
+<s id="4021377973164879687-2410300628-1" eva="8000105">
+    <dp ct="2410300628">
+        <m id="r8782287" t="q" c="80" ts="2410300558" ts-tts="24-10-30 05:58:39.113"/>
+    </dp>
+</s>
+
+
+<s id="-3943170705080026081-2410300514-14" eva="8000105">
+    <ar ct="2410300619" l="51">
+        <m id="r8781540" t="d" c="43" ts="2410300528" ts-tts="24-10-30 05:28:51.907"/>
+    </ar>
+</s>
+
+
+<s id="-1693889192300063185-2410300359-16" eva="8000105">
+    <ar ct="2410300600" l="50">
+        <m id="r8780630" t="d" c="34" ts="2410300434" ts-tts="24-10-30 04:34:33.501"/>
+    </ar>
+</s>
+
+</timetable>

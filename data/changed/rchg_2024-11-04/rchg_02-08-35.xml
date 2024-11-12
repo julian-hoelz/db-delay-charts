@@ -1,0 +1,63 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-8005609635293134624-2411041716-6" eva="8000105">
+    <m id="r2308834" t="h" from="2411031724" to="2411072359" cat="Information" ts="2411031725" ts-tts="24-11-03 23:16:13.955" pr="3"/>
+    <ar>
+        <m id="r8979718" t="f" c="0" ts="2411040207" ts-tts="24-11-04 02:08:09.725"/>
+    </ar>
+    <dp>
+        <m id="r8979718" t="f" c="0" ts="2411040207" ts-tts="24-11-04 02:08:09.725"/>
+    </dp>
+</s>
+
+
+<s id="-2701809433843388855-2411040608-1" eva="8000105">
+    <dp ct="2411040608" l="3"/>
+</s>
+
+
+<s id="-1497213994658544450-2411041136-13" eva="8000105">
+    <m id="r2302874" t="h" from="2410261816" to="2412131813" cat="Störung" ts="2410252304" ts-tts="24-11-03 23:16:13.850" pr="1"/>
+    <m id="r2308937" t="h" from="2411040717" to="2411042346" cat="Information" ts="2411040202" ts-tts="24-11-04 02:02:18.135" pr="3"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Bremen Hbf|Münster(Westf)Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf">
+        <m id="r8939404" t="f" c="0" ts="2411022005" ts-tts="24-11-02 20:05:35.097"/>
+        <m id="r8945666" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:47.054"/>
+        <m id="r8979704" t="f" c="0" ts="2411040206" ts-tts="24-11-04 02:06:53.271"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf">
+        <m id="r8939404" t="f" c="0" ts="2411022005" ts-tts="24-11-02 20:05:35.097"/>
+        <m id="r8945666" t="f" c="0" ts="2411030145" ts-tts="24-11-03 01:45:47.054"/>
+        <m id="r8979704" t="f" c="0" ts="2411040206" ts-tts="24-11-04 02:06:53.271"/>
+    </dp>
+</s>
+
+
+<s id="-7138074359361066746-2411031835-15" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-02 23:16:09.665" pr="2"/>
+    <m id="r2308684" t="h" from="2411030955" to="2411040728" cat="Information" ts="2411030950" ts-tts="24-11-03 09:51:02.201" pr="2"/>
+    <m id="r296109213" t="c" ts="2411040144" ts-tts="24-11-04 01:44:19.207"/>
+    <m id="r296109214" t="c" ts="2411040144" ts-tts="24-11-04 01:44:19.207"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Eisenach" ct="2411040207">
+        <m id="r8888548" t="f" c="0" ts="2411011152" ts-tts="24-11-01 11:52:31.701"/>
+        <m id="r8888560" t="f" c="0" ts="2411011152" ts-tts="24-11-01 11:52:47.143"/>
+        <m id="r8914068" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:45:31.659"/>
+        <m id="r8914071" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:45:31.659"/>
+        <m id="r8968534" t="q" c="80" ts="2411031805" ts-tts="24-11-03 18:05:24.823"/>
+        <m id="r8968538" t="q" c="80" ts="2411031805" ts-tts="24-11-03 18:05:24.823"/>
+        <m id="r8979082" t="d" c="7" ts="2411040101" ts-tts="24-11-04 01:01:17.297"/>
+        <m id="r8979108" t="f" c="0" ts="2411040106" ts-tts="24-11-04 01:06:40.345"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf" ct="2411040225">
+        <m id="r8888548" t="f" c="0" ts="2411011152" ts-tts="24-11-01 11:52:31.701"/>
+        <m id="r8888560" t="f" c="0" ts="2411011152" ts-tts="24-11-01 11:52:47.143"/>
+        <m id="r8914068" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:45:31.659"/>
+        <m id="r8914071" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:45:31.659"/>
+        <m id="r8968534" t="q" c="80" ts="2411031805" ts-tts="24-11-03 18:05:24.823"/>
+        <m id="r8968538" t="q" c="80" ts="2411031805" ts-tts="24-11-03 18:05:24.823"/>
+        <m id="r8976870" t="f" c="0" ts="2411032210" ts-tts="24-11-03 22:10:53.443"/>
+        <m id="r8979082" t="d" c="7" ts="2411040101" ts-tts="24-11-04 01:01:17.297"/>
+        <m id="r8979108" t="f" c="0" ts="2411040106" ts-tts="24-11-04 01:06:40.345"/>
+    </dp>
+</s>
+
+</timetable>

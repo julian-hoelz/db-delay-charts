@@ -1,0 +1,42 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-2883630941590358458-2411022113-13" eva="8000105">
+    <ar ct="2411022202" l="61"/>
+</s>
+
+
+<s id="649201591963230053-2411022153-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411022116" ts="2411011000" ts-tts="24-11-01 10:01:00.170"/>
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville" ct="2411022155" l="RB10">
+        <m id="r8801977" t="f" c="0" ts="2410301356" ts-tts="24-10-30 13:56:16.496"/>
+        <m id="r8802107" t="f" c="0" ts="2410301359" ts-tts="24-10-30 13:59:07.437"/>
+        <m id="r8802478" t="f" c="0" ts="2410301403" ts-tts="24-10-30 14:03:31.855"/>
+        <m id="r8829292" t="f" c="0" ts="2410310142" ts-tts="24-10-31 01:43:03.661"/>
+        <m id="r8829295" t="f" c="0" ts="2410310142" ts-tts="24-10-31 01:43:03.661"/>
+        <m id="r8829297" t="f" c="0" ts="2410310142" ts-tts="24-10-31 01:43:03.661"/>
+        <m id="r8875836" t="f" c="0" ts="2411010142" ts-tts="24-11-01 01:43:15.060"/>
+        <m id="r8875839" t="f" c="0" ts="2411010142" ts-tts="24-11-01 01:43:15.060"/>
+        <m id="r8875841" t="f" c="0" ts="2411010142" ts-tts="24-11-01 01:43:15.060"/>
+    </dp>
+</s>
+
+
+<s id="331868878962159732-2411030047-1" eva="8000105">
+    <dp ct="2411030047" l="RB12"/>
+</s>
+
+
+<s id="-5920338924935993044-2411022332-10" eva="8000105">
+    <ar ct="2411030010" l="RB12"/>
+</s>
+
+
+<s id="-3586042881332355115-2411021848-1" eva="8000105">
+    <m id="r2307914" t="h" from="2411020552" to="2411030015" cat="Information" ts="2411020155" ts-tts="24-11-02 02:16:10.746" pr="2"/>
+    <m id="r2308070" t="h" from="2411021848" to="2411030015" cat="Information" ts="2411021058" ts-tts="24-11-02 10:58:48.360" pr="2"/>
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Gießen|Marburg(Lahn)|Treysa|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2411021851">
+        <m id="r8935773" t="q" c="80" ts="2411021818" ts-tts="24-11-02 18:18:29.570"/>
+    </dp>
+</s>
+
+</timetable>

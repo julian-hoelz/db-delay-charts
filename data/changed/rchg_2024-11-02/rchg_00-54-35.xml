@@ -1,0 +1,22 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6582453439070561259-2411012046-9" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411020200" cat="Störung" ts="2411012056" ts-tts="24-11-01 23:16:12.284" pr="1"/>
+    <ar cpth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Hanau Hbf|Frankfurt(Main)Süd" ppth="Bebra|Bad Hersfeld|Hünfeld|Fulda|Schlüchtern|Bad Soden-Salmünster|Hanau Hbf|Frankfurt(Main)Süd" pp="7" ct="2411020104" pt="2411012232" l="5">
+        <m id="r8872565" t="q" c="73" ts="2410312238" ts-tts="24-10-31 22:38:46.361"/>
+        <m id="r8872632" t="q" c="85" ts="2410312240" ts-tts="24-10-31 22:40:37.209"/>
+        <m id="r8906909" t="f" c="0" ts="2411011955" ts-tts="24-11-01 19:55:36.430"/>
+        <m id="r8909416" t="d" c="8" ts="2411012128" ts-tts="24-11-01 21:28:35.733"/>
+    </ar>
+    <tl f="N" t="p" o="8005KG" c="RE" n="4598"/>
+</s>
+
+
+<s id="-2320340282101811304-2411012043-9" eva="8000105">
+    <ar cp="18" ct="2411020053">
+        <m id="r8907433" t="q" c="80" ts="2411012013" ts-tts="24-11-01 20:13:21.733"/>
+        <m id="r8907435" t="q" c="80" ts="2411012013" ts-tts="24-11-01 20:13:21.733"/>
+    </ar>
+</s>
+
+</timetable>

@@ -1,0 +1,56 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6373049395898101424-2411020718-13" eva="8000105">
+    <ar ct="2411020818" l="51">
+        <m id="r8918226" t="d" c="34" ts="2411020726" ts-tts="24-11-02 07:26:42.335"/>
+    </ar>
+</s>
+
+
+<s id="-8338217849521596952-2411020636-9" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411041100" cat="Störung" ts="2411011239" ts-tts="24-11-02 06:16:08.106" pr="1"/>
+    <ar cpth="Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411021021">
+        <m id="r8917750" t="d" c="17" ts="2411020658" ts-tts="24-11-02 06:58:42.372"/>
+        <m id="r8917782" t="d" c="17" ts="2411020700" ts-tts="24-11-02 07:00:14.705"/>
+        <m id="r8917794" t="d" c="17" ts="2411020701" ts-tts="24-11-02 07:01:16.381"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf" ct="2411021027">
+        <m id="r8917750" t="d" c="17" ts="2411020658" ts-tts="24-11-02 06:58:42.372"/>
+        <m id="r8917782" t="d" c="17" ts="2411020700" ts-tts="24-11-02 07:00:14.705"/>
+        <m id="r8917794" t="d" c="17" ts="2411020701" ts-tts="24-11-02 07:01:16.381"/>
+    </dp>
+</s>
+
+
+<s id="-3896803976079814437-2411020652-5" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-11-01 23:16:10.317" pr="2"/>
+    <ar cp="3" ct="2411020731" l="22">
+        <m id="r8907764" t="f" c="0" ts="2411012025" ts-tts="24-11-01 20:25:22.458"/>
+    </ar>
+</s>
+
+
+<s id="8149147754402883805-2411020420-18" eva="8000105">
+    <ar ct="2411020743" l="3"/>
+</s>
+
+
+<s id="6492627968416470339-2411021237-9" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411041100" cat="Störung" ts="2411011239" ts-tts="24-11-02 06:16:08.106" pr="1"/>
+    <ar cpth="Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411021630">
+        <m id="r8918134" t="d" c="58" ts="2411020722" ts-tts="24-11-02 07:22:20.926"/>
+        <m id="r8918190" t="d" c="38" ts="2411020724" ts-tts="24-11-02 07:24:23.944"/>
+    </ar>
+    <dp cpth="Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf" ct="2411021636">
+        <m id="r8918134" t="d" c="58" ts="2411020722" ts-tts="24-11-02 07:22:20.926"/>
+        <m id="r8918190" t="d" c="38" ts="2411020724" ts-tts="24-11-02 07:24:23.944"/>
+    </dp>
+</s>
+
+
+<s id="1250549185545396340-2411020704-9" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411020116" ts="2411020032" ts-tts="24-11-02 00:32:26.471"/>
+    <ar ct="2411020739" l="RB58"/>
+</s>
+
+</timetable>

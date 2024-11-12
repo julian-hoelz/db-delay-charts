@@ -1,0 +1,24 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7296668088221534520-2410310823-8" eva="8000105">
+    <ar cpth="Bruxelles Midi|Bruxelles-Nord|Liège-Guillemins|Aachen Hbf|Köln Hbf|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf" cs="p" clt="2410301741">
+        <m id="r8813003" t="d" c="8" ts="2410301741" ts-tts="24-10-30 17:42:03.929"/>
+        <m id="r8824748" t="f" c="0" ts="2410302211" ts-tts="24-10-30 22:11:16.321"/>
+    </ar>
+</s>
+
+
+<s id="-683349446891373235-2410310623-9" eva="8000105">
+    <ar cpth="" cs="c" clt="2410301744">
+        <m id="r8813142" t="d" c="8" ts="2410301744" ts-tts="24-10-30 17:44:40.538"/>
+        <m id="r8823921" t="f" c="0" ts="2410302139" ts-tts="24-10-30 21:39:12.925"/>
+        <m id="r8824740" t="d" c="8" ts="2410302210" ts-tts="24-10-30 22:11:00.856"/>
+    </ar>
+</s>
+
+
+<s id="-2636585662920960256-2410302038-21" eva="8000105">
+    <ar ct="2410302232" l="RB82"/>
+</s>
+
+</timetable>

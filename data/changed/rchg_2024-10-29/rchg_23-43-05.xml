@@ -1,0 +1,38 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3864375000992578991-2410292137-27" eva="8000105">
+    <ar ct="2410300014" l="RB10"/>
+</s>
+
+
+<s id="-8454454517290803659-2410291829-15" eva="8000105">
+    <m id="r2304872" t="h" from="2410290413" to="2410300021" cat="Information" ts="2410290215" ts-tts="24-10-29 18:16:11.364" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 23:16:12.576" pr="2"/>
+    <ar ct="2410300029">
+        <m id="r8732454" t="q" c="85" ts="2410290244" ts-tts="24-10-29 02:44:58.898"/>
+        <m id="r8759079" t="f" c="0" ts="2410291543" ts-tts="24-10-29 15:44:07.463"/>
+        <m id="r8774345" t="d" c="43" ts="2410292140" ts-tts="24-10-29 21:40:38.092"/>
+    </ar>
+</s>
+
+
+<s id="7217092419963954024-2410292223-24" eva="8000105">
+    <ar ct="2410300119" l="30"/>
+</s>
+
+
+<s id="6597109704784414496-2410300342-17" eva="8000105">
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ingelheim|Mainz Hbf|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf" ct="2410300636" l="3"/>
+</s>
+
+
+<s id="-1268335842879231054-2410291905-7" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-28 23:16:12.328" pr="2"/>
+    <m id="r2305351" t="h" from="2410291905" to="2410292352" cat="Information" ts="2410291838" ts-tts="24-10-29 18:39:05.856" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-28 23:16:12.334" pr="2"/>
+    <ar ct="2410292346">
+        <m id="r8766468" t="f" c="0" ts="2410291814" ts-tts="24-10-29 18:14:51.157"/>
+    </ar>
+</s>
+
+</timetable>

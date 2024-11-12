@@ -1,0 +1,54 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="2677562958045670522-2411010959-8" eva="8000105">
+    <m id="r2307054" t="h" from="2411010556" to="2411011843" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:19.039" pr="3"/>
+    <ar cpth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Darmstadt Hbf">
+        <m id="r8797336" t="d" c="31" ts="2410301206" ts-tts="24-10-30 12:06:19.615"/>
+        <m id="r8829200" t="d" c="31" ts="2410310142" ts-tts="24-10-31 01:42:51.991"/>
+        <m id="r8876733" t="q" c="85" ts="2411010211" ts-tts="24-11-01 02:12:01.446"/>
+    </ar>
+    <dp cpth="Fulda|Eisenach|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen">
+        <m id="r8797336" t="d" c="31" ts="2410301206" ts-tts="24-10-30 12:06:19.615"/>
+        <m id="r8829200" t="d" c="31" ts="2410310142" ts-tts="24-10-31 01:42:51.991"/>
+        <m id="r8876733" t="q" c="85" ts="2411010211" ts-tts="24-11-01 02:12:01.446"/>
+    </dp>
+</s>
+
+
+<s id="-445616691397146565-2411010829-14" eva="8000105">
+    <ar ppth="Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)" pp="13" pt="2411011309">
+        <m id="r8872466" t="d" c="37" ts="2410312235" ts-tts="24-10-31 22:35:05.291"/>
+        <m id="r8876731" t="q" c="80" ts="2411010211" ts-tts="24-11-01 02:12:01.445"/>
+    </ar>
+    <tl f="F" t="e" o="80" c="ICE" n="2947"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="1577"/>
+    </ref>
+</s>
+
+
+<s id="4081552720387302901-2411010506-1" eva="8000105">
+    <m id="r2307062" t="h" from="2410312200" to="2411010600" cat="Störung" ts="2410312313" ts-tts="24-11-01 01:16:12.830" pr="1"/>
+    <m id="r2307056" t="h" from="2411010506" to="2411012226" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:19.039" pr="3"/>
+    <dp cpth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur">
+        <m id="r8876599" t="d" c="35" ts="2411010144" ts-tts="24-11-01 01:45:04.068"/>
+        <m id="r8876618" t="f" c="0" ts="2411010147" ts-tts="24-11-01 01:47:07.402"/>
+        <m id="r8876727" t="q" c="85" ts="2411010211" ts-tts="24-11-01 02:11:15.299"/>
+    </dp>
+</s>
+
+
+<s id="-4853549543155830626-2411011238-12" eva="8000105">
+    <m id="r2307056" t="h" from="2411010506" to="2411012226" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:19.039" pr="3"/>
+    <ar>
+        <m id="r8876725" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:44.643"/>
+    </ar>
+    <dp>
+        <m id="r8876725" t="q" c="85" ts="2411010210" ts-tts="24-11-01 02:10:44.643"/>
+    </dp>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:11.102"/>
+
+</timetable>

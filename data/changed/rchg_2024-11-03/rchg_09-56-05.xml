@@ -1,0 +1,50 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8774939972882156309-2411031025-1" eva="8000105">
+    <dp cpth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)" ct="2411031025" l="RB82"/>
+</s>
+
+
+<s id="-1790024725878292801-2411030836-9" eva="8000105">
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031212">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.078"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.893"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf|St. Valentin|Amstetten NÖ|St.Pölten Hbf|Wien Meidling|Wien Hbf" ct="2411031222">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.078"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.893"/>
+    </dp>
+</s>
+
+
+<s id="-8160985285898732989-2411030558-9" eva="8000105">
+    <ar ct="2411031007"/>
+    <dp ct="2411031014">
+        <m id="r8951060" t="f" c="0" ts="2411030916" ts-tts="24-11-03 09:16:29.330"/>
+    </dp>
+</s>
+
+
+<s id="-7827307397706401371-2411030647-5" eva="8000105">
+    <ar ct="2411031004">
+        <m id="r8947635" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:16.352"/>
+        <m id="r8947637" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:16.352"/>
+    </ar>
+    <dp ct="2411031011">
+        <m id="r8947635" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:16.352"/>
+        <m id="r8947637" t="q" c="80" ts="2411030617" ts-tts="24-11-03 06:17:16.352"/>
+    </dp>
+</s>
+
+
+<s id="7657779742611914298-2411031024-1" eva="8000105">
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-11-02 23:16:10.623" pr="2"/>
+    <dp ct="2411031025"/>
+</s>
+
+
+<s id="6756162399285603640-2411031354-8" eva="8000105">
+    <ar ct="2411031538" l="RE99"/>
+</s>
+
+</timetable>

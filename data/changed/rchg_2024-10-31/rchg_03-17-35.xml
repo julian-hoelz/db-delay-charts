@@ -1,0 +1,167 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6223962037244896084-2410310448-6" eva="8000105">
+    <m id="r2306218" t="h" from="2410301841" to="2410310800" cat="Störung" ts="2410301843" ts-tts="24-10-31 03:16:11.215" pr="2"/>
+</s>
+
+
+<s id="5509309536167095600-2410310553-5" eva="8000105">
+    <m id="r2306218" t="h" from="2410301841" to="2410310800" cat="Störung" ts="2410301843" ts-tts="24-10-31 03:16:11.215" pr="2"/>
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf">
+        <m id="r8822183" t="d" c="31" ts="2410302048" ts-tts="24-10-30 20:48:52.484"/>
+        <m id="r8822196" t="f" c="0" ts="2410302049" ts-tts="24-10-30 20:49:23.614"/>
+    </ar>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf">
+        <m id="r8822183" t="d" c="31" ts="2410302048" ts-tts="24-10-30 20:48:52.484"/>
+        <m id="r8822196" t="f" c="0" ts="2410302049" ts-tts="24-10-30 20:49:23.614"/>
+    </dp>
+</s>
+
+
+<s id="-7827307397706401371-2410310647-5" eva="8000105">
+    <m id="r2306218" t="h" from="2410301841" to="2410310800" cat="Störung" ts="2410301843" ts-tts="24-10-31 03:16:11.215" pr="2"/>
+</s>
+
+
+<s id="993826748729604473-2410311946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf">
+        <m id="r8757762" t="f" c="0" ts="2410291512" ts-tts="24-10-29 15:12:27.078"/>
+        <m id="r8779207" t="f" c="0" ts="2410300143" ts-tts="24-10-30 01:43:54.691"/>
+    </ar>
+</s>
+
+
+<s id="-7093433115650796363-2410311949-100" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)|Assmannshausen|Lorch(Rhein)|Lorchhausen|Kaub" ppth="Lorchhausen|Kaub|St Goarshausen|Kestert|Kamp-Bornhofen|Filsen|Osterspai|Braubach|Oberlahnstein|Niederlahnstein|Koblenz Hbf" pp="24" pt="2410311823" ps="a" l="RB10">
+        <m id="r8799990" t="d" c="23" ts="2410301311" ts-tts="24-10-30 13:11:21.354"/>
+    </dp>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25080"/>
+</s>
+
+
+<s id="2659249936109260099-2410311933-23" eva="8000105">
+    <ar cpth="Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410302122" l="RB41"/>
+</s>
+
+
+<s id="8427643844771946574-2410311931-23" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-30 23:16:12.072" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410302122" l="RB40"/>
+</s>
+
+
+<s id="-324577228496578992-2410311923-4" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-30 23:16:11.872" pr="2"/>
+    <m id="r2306356" t="h" from="2410302156" to="2411042359" cat="Information" ts="2410302157" ts-tts="24-10-30 23:16:12.191" pr="3"/>
+    <ar>
+        <m id="r8829646" t="q" c="98" ts="2410310212" ts-tts="24-10-31 02:13:00.632"/>
+    </ar>
+    <dp>
+        <m id="r8829646" t="q" c="98" ts="2410310212" ts-tts="24-10-31 02:13:00.632"/>
+    </dp>
+</s>
+
+
+<s id="-7908451041935798366-2410311919-1" eva="8000105">
+    <dp l="30">
+        <m id="r8826051" t="q" c="85" ts="2410302300" ts-tts="24-10-30 23:00:20.837"/>
+    </dp>
+</s>
+
+
+<s id="2805882215028788438-2410311902-13" eva="8000105">
+    <ar l="2">
+        <m id="r8824945" t="f" c="0" ts="2410302219" ts-tts="24-10-30 22:19:33.150"/>
+    </ar>
+</s>
+
+
+<s id="-4356853165457193863-2410311908-1" eva="8000105">
+    <dp l="2">
+        <m id="r8821690" t="f" c="0" ts="2410302035" ts-tts="24-10-30 20:35:21.252"/>
+    </dp>
+</s>
+
+
+<s id="-1268335842879231054-2410311905-7" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-30 23:16:11.898" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-30 23:16:11.906" pr="2"/>
+</s>
+
+
+<s id="5446419279451908244-2410311954-10" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-30 23:16:11.872" pr="2"/>
+</s>
+
+
+<s id="9120657518897848379-2410311957-3" eva="8000105">
+    <m id="r2293597" t="h" from="2410311900" to="2410312359" cat="Bauarbeiten" ts="2410302302" ts-tts="24-10-30 23:02:40.178" pr="2"/>
+</s>
+
+
+<s id="8614367859162303290-2410311930-1" eva="8000105">
+    <dp cp="8" l="54"/>
+</s>
+
+
+<s id="4393229032382350446-2410311138-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Hochheim(Main)|Mainz Hbf|Mainz Römisches Theater|Bodenheim|Nierstein|Oppenheim|Guntersblum|Osthofen|Worms Hbf|Frankenthal Hbf|Frankenthal Süd|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" cs="c" clt="2410310315" l="SE14">
+        <m id="r8825027" t="f" c="0" ts="2410302221" ts-tts="24-10-30 22:21:21.933"/>
+        <m id="r8830253" t="d" c="49" ts="2410310315" ts-tts="24-10-31 03:15:45.963"/>
+    </dp>
+</s>
+
+
+<s id="-6845282837818138151-2410310502-10" eva="8000105">
+    <ar ct="2410310540" l="RB12"/>
+</s>
+
+
+<s id="-6817269415809298934-2410310948-16" eva="8000105">
+    <ar cpth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Frankenthal Süd|Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" cs="c" clt="2410310315" l="SE14">
+        <m id="r8825038" t="f" c="0" ts="2410302221" ts-tts="24-10-30 22:21:37.490"/>
+        <m id="r8830251" t="d" c="49" ts="2410310315" ts-tts="24-10-31 03:15:45.964"/>
+    </ar>
+</s>
+
+
+<s id="-6519572525712897596-2410310759-14" eva="8000105">
+    <ar ct="2410310914" l="RB15"/>
+</s>
+
+
+<s id="-428989444287040363-2410310713-16" eva="8000105">
+    <ar ct="2410310828" l="RB15"/>
+</s>
+
+
+<s id="-3977687208835362778-2410310717-1" eva="8000105">
+    <dp ct="2410310717" l="RB12"/>
+</s>
+
+
+<s id="7669710181818548236-2410310617-1" eva="8000105">
+    <dp ct="2410310617" l="RB12"/>
+</s>
+
+
+<s id="7109080472801536148-2410310532-10" eva="8000105">
+    <ar ct="2410310610" l="RB12"/>
+</s>
+
+
+<s id="5866882759797823269-2410310632-10" eva="8000105">
+    <ar ct="2410310710" l="RB12"/>
+</s>
+
+
+<s id="-5889655742518419773-2410311517-1" eva="8000105">
+    <dp ct="2410311517" l="RB12"/>
+</s>
+
+
+<s id="-462382426514279593-2410310547-1" eva="8000105">
+    <dp ct="2410310547" l="RB12"/>
+</s>
+
+</timetable>

@@ -1,0 +1,42 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-4617228405729794669-2411030829-9" eva="8000105">
+    <ar ct="2411031232"/>
+</s>
+
+
+<s id="-1497213994658544450-2411031136-13" eva="8000105">
+    <m id="r2308629" t="h" from="2411031136" to="2411032346" cat="Information" ts="2411030759" ts-tts="24-11-03 07:59:23.945" pr="3"/>
+    <m id="r2308626" t="h" from="2411031136" to="2411031546" cat="Information" ts="2411030748" ts-tts="24-11-03 07:48:59.312" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Bremen Hbf|Münster(Westf)Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf">
+        <m id="r8898345" t="f" c="0" ts="2411011613" ts-tts="24-11-01 16:13:28.876"/>
+        <m id="r8914364" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:46:03.345"/>
+        <m id="r8949198" t="f" c="0" ts="2411030753" ts-tts="24-11-03 07:53:56.153"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf">
+        <m id="r8898345" t="f" c="0" ts="2411011613" ts-tts="24-11-01 16:13:28.876"/>
+        <m id="r8914364" t="f" c="0" ts="2411020145" ts-tts="24-11-02 01:46:03.345"/>
+        <m id="r8949198" t="f" c="0" ts="2411030753" ts-tts="24-11-03 07:53:56.153"/>
+    </dp>
+</s>
+
+
+<s id="8902317930613394728-2411030415-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-02 23:16:11.520" pr="3" del="1"/>
+    <ar ct="2411030843">
+        <m id="r8946577" t="q" c="80" ts="2411030345" ts-tts="24-11-03 03:45:24.388"/>
+        <m id="r8946579" t="q" c="80" ts="2411030345" ts-tts="24-11-03 03:45:24.388"/>
+    </ar>
+    <dp ct="2411030852">
+        <m id="r8946577" t="q" c="80" ts="2411030345" ts-tts="24-11-03 03:45:24.388"/>
+        <m id="r8946579" t="q" c="80" ts="2411030345" ts-tts="24-11-03 03:45:24.388"/>
+    </dp>
+</s>
+
+
+<s id="3341745860970087086-2411030829-1" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-11-02 23:16:11.686" pr="2"/>
+    <dp cp="3" ct="2411030829" l="22"/>
+</s>
+
+</timetable>

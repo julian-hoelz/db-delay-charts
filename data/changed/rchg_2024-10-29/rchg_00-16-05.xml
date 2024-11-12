@@ -1,0 +1,11 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="993826748729604473-2410281946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf" ct="2410290020">
+        <m id="r8630788" t="f" c="0" ts="2410261314" ts-tts="24-10-26 13:14:43.556"/>
+        <m id="r8650999" t="f" c="0" ts="2410270146" ts-tts="24-10-27 01:46:37.850"/>
+        <m id="r8721075" t="f" c="0" ts="2410281925" ts-tts="24-10-28 19:25:15.573"/>
+    </ar>
+</s>
+
+</timetable>

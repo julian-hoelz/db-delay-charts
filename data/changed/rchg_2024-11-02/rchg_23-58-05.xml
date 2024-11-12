@@ -1,0 +1,29 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7582314568044505717-2411021944-8" eva="8000105">
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030223">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB">
+        <m id="r8936322" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+        <m id="r8941824" t="f" c="0" ts="2411022147" ts-tts="24-11-02 21:47:18.867"/>
+    </dp>
+</s>
+
+
+<s id="-5851721557238592488-2411021944-8" eva="8000105">
+    <m id="r2228273" t="h" from="2411021944" to="2411030820" cat="Bauarbeiten" ts="2411012301" ts-tts="24-11-01 23:01:24.022" pr="1"/>
+    <ar cpth="Amsterdam Centraal|Utrecht Centraal|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411030223">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB">
+        <m id="r8936321" t="d" c="31" ts="2411021834" ts-tts="24-11-02 18:34:15.167"/>
+    </dp>
+</s>
+
+
+<s id="-5393433415483709575-2411022313-13" eva="8000105">
+    <ar ct="2411030002" l="61"/>
+</s>
+
+</timetable>

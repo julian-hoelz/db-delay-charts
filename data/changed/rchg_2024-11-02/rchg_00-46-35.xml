@@ -1,0 +1,62 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="9117006994590991223-2411012236-32" eva="8000105">
+    <m id="r2296719" t="h" from="2411012236" to="2411020054" cat="Bauarbeiten" ts="2410312303" ts-tts="24-10-31 23:03:14.635" pr="2"/>
+    <ar ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd" pp="5" ct="2411020137" pt="2411020048" l="54">
+        <m id="r8911666" t="d" c="31" ts="2411012317" ts-tts="24-11-01 23:18:09.476"/>
+        <m id="r8912219" t="d" c="31" ts="2411012353" ts-tts="24-11-01 23:53:50.639"/>
+    </ar>
+    <tl f="N" t="p" o="800772" c="RE" n="4636"/>
+</s>
+
+
+<s id="8868050453695511606-2411012134-8" eva="8000105">
+    <ar ct="2411020242">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2411012134-8" eva="8000105">
+    <ar ct="2411020242">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:45:55.355"/>
+    </dp>
+</s>
+
+
+<s id="-6716213240730000376-2411012237-28" eva="8000105">
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" ct="2411020114" l="RB10"/>
+</s>
+
+
+<s id="-2806101227333849836-2411020115-1" eva="8000105">
+    <dp ct="2411020115" l="61"/>
+</s>
+
+
+<s id="7582314568044505717-2411011944-8" eva="8000105">
+    <ar ct="2411020226">
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+    </ar>
+    <dp>
+        <m id="r8911513" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+    </dp>
+</s>
+
+
+<s id="-5851721557238592488-2411011944-8" eva="8000105">
+    <ar ct="2411020226">
+        <m id="r8911511" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+    </ar>
+    <dp>
+        <m id="r8911511" t="d" c="51" ts="2411012307" ts-tts="24-11-01 23:07:26.117"/>
+    </dp>
+</s>
+
+</timetable>

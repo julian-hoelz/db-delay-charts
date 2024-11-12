@@ -1,0 +1,63 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1250549185545396340-2410310704-9" eva="8000105">
+    <ar ct="2410310732" l="RB58"/>
+</s>
+
+
+<s id="7582314568044505717-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:13.869" pr="2"/>
+    <m id="r289491463alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.230"/>
+    <m id="r289491464alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.230"/>
+    <m id="r289491464" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.003"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410310305" pt="2410310223">
+        <m id="r8829691" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:21:06.632"/>
+        <m id="r8829967" t="f" c="0" ts="2410310240" ts-tts="24-10-31 02:40:20.066"/>
+        <m id="r8830118" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:30.549"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410310309" pt="2410310236">
+        <m id="r8829691" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:21:06.632"/>
+        <m id="r8830118" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:30.549"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+
+<s id="-5851721557238592488-2410302028-10" eva="8000105">
+    <m id="r2277427" t="h" from="2409160000" to="2410312359" cat="Information" ts="2409152303" ts-tts="24-10-29 23:16:13.869" pr="2"/>
+    <m id="r289491463alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.230"/>
+    <m id="r289491464alt" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.230"/>
+    <m id="r289491463" t="c" ts="2410310240" ts-tts="24-10-31 02:40:20.003"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="19" ct="2410310305" pt="2410310223" hi="1" wings="7582314568044505717-2410302028">
+        <m id="r8829693" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:21:06.632"/>
+        <m id="r8829963" t="f" c="0" ts="2410310240" ts-tts="24-10-31 02:40:20.066"/>
+        <m id="r8830117" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:30.549"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="19" ct="2410310309" pt="2410310236" hi="1" wings="7582314568044505717-2410302028">
+        <m id="r8829693" t="d" c="31" ts="2410310220" ts-tts="24-10-31 02:21:06.632"/>
+        <m id="r8830117" t="f" c="0" ts="2410310258" ts-tts="24-10-31 02:58:30.549"/>
+    </dp>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="-1048510302242958952-2410310749-16" eva="8000105">
+    <ar cpth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Frankenthal Süd|Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" cs="c" clt="2410310303" l="SE14">
+        <m id="r8828223" t="f" c="0" ts="2410310131" ts-tts="24-10-31 01:31:38.856"/>
+        <m id="r8830158" t="d" c="49" ts="2410310303" ts-tts="24-10-31 03:03:38.125"/>
+    </ar>
+</s>
+
+
+<s id="-8392906129800879718-2410310938-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Hochheim(Main)|Mainz Hbf|Mainz Römisches Theater|Bodenheim|Nierstein|Oppenheim|Guntersblum|Osthofen|Worms Hbf|Frankenthal Hbf|Frankenthal Süd|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" cs="c" clt="2410310303" l="SE14">
+        <m id="r8830156" t="d" c="49" ts="2410310303" ts-tts="24-10-31 03:03:38.124"/>
+    </dp>
+</s>
+
+
+<s id="-6845282837818138151-2410310502-10" eva="8000105">
+    <ar ct="2410310540" l="RB12"/>
+</s>
+
+</timetable>

@@ -1,0 +1,8 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-3806743340109451607-2411021428-19" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411020116" ts="2411020032" ts-tts="24-11-02 00:32:26.471"/>
+    <ar cpth="Stadtallendorf|Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)|Bad Vilbel" cs="c" clt="2411011400" l="RB41"/>
+</s>
+
+</timetable>

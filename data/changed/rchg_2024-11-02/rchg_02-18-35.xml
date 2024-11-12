@@ -1,0 +1,43 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5888878348182935850-2411012303-26" eva="8000105">
+    <ar ppth="Kassel Hbf|Kassel-Wilhelmshöhe|Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Edermünde-Grifte|Felsberg-Wolfershausen|Felsberg-Altenbrunslar|Felsberg-Gensungen|Wabern(Bz Kassel)|Singlis|Borken(Hess)|Zimmersrode|Schlierbach(Schwalm-Eder-Kr.)|Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Gießen|Friedberg(Hess)" pp="6" ct="2411020219" pt="2411020148" l="RE98"/>
+    <tl f="D" t="p" o="K4RE" c="HLB" n="24423"/>
+</s>
+
+
+<s id="8868050453695511606-2411012134-8" eva="8000105">
+    <ar ct="2411020254">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912770" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.819"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2411012134-8" eva="8000105">
+    <ar ct="2411020254">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </ar>
+    <dp ct="2411020313">
+        <m id="r8912772" t="d" c="31" ts="2411020045" ts-tts="24-11-02 00:46:01.818"/>
+    </dp>
+</s>
+
+
+<s id="7108274583246193747-2411012151-8" eva="8000105">
+    <ar ct="2411020232">
+        <m id="r8911648" t="d" c="32" ts="2411012316" ts-tts="24-11-01 23:16:21.215"/>
+    </ar>
+    <dp ct="2411020249">
+        <m id="r8911648" t="d" c="32" ts="2411012316" ts-tts="24-11-01 23:16:21.215"/>
+    </dp>
+</s>
+
+
+<s id="-7787278288294079212-2411020215-1" eva="8000105">
+    <dp ct="2411020216" l="RB58"/>
+</s>
+
+</timetable>

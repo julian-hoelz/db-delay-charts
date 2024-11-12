@@ -1,0 +1,14 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1893592079421645600-2411020153-1" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411020116" ts="2411011000" ts-tts="24-11-01 10:01:02.222"/>
+    <dp cpth="Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)" ct="2411020153" l="RB10"/>
+</s>
+
+
+<s id="-3051527161903582016-2411020554-8" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411020116" ts="2411020032" ts-tts="24-11-02 00:32:29.652"/>
+    <ar ct="2411020738" l="RE99"/>
+</s>
+
+</timetable>

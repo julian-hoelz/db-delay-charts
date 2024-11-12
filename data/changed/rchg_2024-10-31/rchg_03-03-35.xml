@@ -1,0 +1,19 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6845282837818138151-2410310502-10" eva="8000105">
+    <ar ct="2410310540" l="RB12"/>
+</s>
+
+
+<s id="2774174590951633862-2410302228-23" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-29 23:16:13.141" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2410310701">
+        <m id="r8705262" t="f" c="0" ts="2410281412" ts-tts="24-10-28 14:12:25.730"/>
+        <m id="r8731828" t="f" c="0" ts="2410290158" ts-tts="24-10-29 01:58:56.185"/>
+        <m id="r8824475" t="q" c="80" ts="2410302158" ts-tts="24-10-30 21:58:21.273"/>
+        <m id="r8827980" t="d" c="51" ts="2410310101" ts-tts="24-10-31 01:01:47.031"/>
+        <m id="r8830155" t="f" c="0" ts="2410310302" ts-tts="24-10-31 03:02:45.533"/>
+    </ar>
+</s>
+
+</timetable>

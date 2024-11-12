@@ -1,0 +1,78 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3544618350898915804-2411021008-1" eva="8000105">
+    <dp ct="2411021011" l="3"/>
+</s>
+
+
+<s id="-2156217418366026797-2411020651-19" eva="8000105">
+    <ar ct="2411021006" l="3">
+        <m id="r8917466" t="d" c="47" ts="2411020646" ts-tts="24-11-02 06:46:07.920"/>
+    </ar>
+</s>
+
+
+<s id="-8368238155127969333-2411020854-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:10.461" pr="2"/>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2411020855">
+        <m id="r8904958" t="f" c="1000" ts="2411011900" ts-tts="24-11-01 19:00:35.701"/>
+        <m id="r8919347" t="q" c="80" ts="2411020824" ts-tts="24-11-02 08:24:29.989"/>
+    </dp>
+</s>
+
+
+<s id="8603241313343587137-2411021417-11" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-01 23:16:10.108" pr="3" del="1"/>
+    <m id="r2307940" t="h" from="2411020011" to="2411022339" cat="Information" ts="2411020238" ts-tts="24-11-02 02:38:40.656" pr="3"/>
+    <ar>
+        <m id="r8914817" t="q" c="85" ts="2411020228" ts-tts="24-11-02 02:28:59.386"/>
+        <m id="r8919985" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:58:11.066"/>
+    </ar>
+    <dp>
+        <m id="r8914817" t="q" c="85" ts="2411020228" ts-tts="24-11-02 02:28:59.386"/>
+        <m id="r8919985" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:58:11.066"/>
+    </dp>
+</s>
+
+
+<s id="-7780399227820494004-2411020807-13" eva="8000105">
+    <m id="r2308023" t="h" from="2411020730" to="2411021000" cat="Störung" ts="2411020826" ts-tts="24-11-02 08:26:49.069" pr="2"/>
+    <ar ct="2411020948" l="50">
+        <m id="r8918407" t="d" c="48" ts="2411020737" ts-tts="24-11-02 07:37:45.026"/>
+        <m id="r8918887" t="d" c="48" ts="2411020803" ts-tts="24-11-02 08:03:10.219"/>
+    </ar>
+</s>
+
+
+<s id="1853816138721032298-2411020904-9" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411020116" ts="2411020032" ts-tts="24-11-02 00:32:26.471"/>
+    <ar ct="2411020932" l="RB58"/>
+</s>
+
+
+<s id="-9098533399497256331-2411020516-9" eva="8000105">
+    <m id="r2307940" t="h" from="2411020011" to="2411022339" cat="Information" ts="2411020238" ts-tts="24-11-02 02:38:40.656" pr="3"/>
+    <ar cpth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach|Fulda" pp="9" ct="2411021140" pt="2411020944">
+        <m id="r8914853" t="q" c="98" ts="2411020238" ts-tts="24-11-02 02:38:56.054"/>
+        <m id="r8918687" t="d" c="8" ts="2411020751" ts-tts="24-11-02 07:51:22.046"/>
+        <m id="r8918701" t="d" c="8" ts="2411020751" ts-tts="24-11-02 07:51:52.925"/>
+        <m id="r8918796" t="q" c="80" ts="2411020757" ts-tts="24-11-02 07:57:16.145"/>
+        <m id="r8918897" t="q" c="84" ts="2411020803" ts-tts="24-11-02 08:03:25.643"/>
+        <m id="r8919111" t="q" c="80" ts="2411020812" ts-tts="24-11-02 08:12:09.357"/>
+        <m id="r8919688" t="q" c="84" ts="2411020843" ts-tts="24-11-02 08:44:02.591"/>
+        <m id="r8919966" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:57:09.345"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Karlsruhe Hbf|Baden-Baden|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" ppth="Darmstadt Hbf|Karlsruhe Hbf|Baden-Baden|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="9" ct="2411021146" pt="2411020952">
+        <m id="r8914853" t="q" c="98" ts="2411020238" ts-tts="24-11-02 02:38:56.054"/>
+        <m id="r8918687" t="d" c="8" ts="2411020751" ts-tts="24-11-02 07:51:22.046"/>
+        <m id="r8918701" t="d" c="8" ts="2411020751" ts-tts="24-11-02 07:51:52.925"/>
+        <m id="r8918796" t="q" c="80" ts="2411020757" ts-tts="24-11-02 07:57:16.145"/>
+        <m id="r8918897" t="q" c="84" ts="2411020803" ts-tts="24-11-02 08:03:25.644"/>
+        <m id="r8919111" t="q" c="80" ts="2411020812" ts-tts="24-11-02 08:12:09.357"/>
+        <m id="r8919688" t="q" c="84" ts="2411020843" ts-tts="24-11-02 08:44:02.591"/>
+        <m id="r8919966" t="f" c="0" ts="2411020857" ts-tts="24-11-02 08:57:09.345"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="71"/>
+</s>
+
+</timetable>

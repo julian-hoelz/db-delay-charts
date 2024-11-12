@@ -1,0 +1,85 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7986604707054451528-2411010440-18" eva="8000105">
+    <ar ct="2411010610" l="RB41"/>
+</s>
+
+
+<s id="2874903534873226431-2411010634-1" eva="8000105">
+    <dp ct="2411010634" l="55"/>
+</s>
+
+
+<s id="-8633642195932333977-2411010424-22" eva="8000105">
+    <ar ct="2411010610" l="RB40"/>
+</s>
+
+
+<s id="-5890722975720098232-2411010643-16" eva="8000105">
+    <ar cpth="Grävenwiesbach|Hundstadt|Wilhelmsdorf|Usingen|Hausen(Taunus)|Neu-Anspach|Wehrheim|Saalburg(Taunus)|Köppern|Friedrichsdorf(Taunus)|Bad Homburg|Oberursel(Taunus)|Frankfurt-Rödelheim" l="RB15"/>
+</s>
+
+
+<s id="-7864202457110859694-2411010738-1" eva="8000105">
+    <dp cp="20" l="SE14"/>
+</s>
+
+
+<s id="7109080472801536148-2411010532-10" eva="8000105">
+    <ar ct="2411010610" l="RB12"/>
+</s>
+
+
+<s id="-8427912817931382122-2411010453-13" eva="8000105">
+    <ar ct="2411010607" l="RB10"/>
+</s>
+
+
+<s id="-1998685101828923679-2411010549-16" eva="8000105">
+    <ar cpth="Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" cp="20" ct="2411010722" l="SE14">
+        <m id="r8876355" t="d" c="35" ts="2411010144" ts-tts="24-11-01 01:44:17.684"/>
+    </ar>
+</s>
+
+
+<s id="-7782424231001410433-2411010550-5" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:18.794" pr="1"/>
+    <ar ct="2411010931">
+        <m id="r8878180" t="q" c="80" ts="2411010520" ts-tts="24-11-01 05:20:26.625"/>
+        <m id="r8878182" t="q" c="80" ts="2411010520" ts-tts="24-11-01 05:20:26.625"/>
+    </ar>
+    <dp ct="2411010937">
+        <m id="r8878180" t="q" c="80" ts="2411010520" ts-tts="24-11-01 05:20:26.625"/>
+        <m id="r8878182" t="q" c="80" ts="2411010520" ts-tts="24-11-01 05:20:26.625"/>
+    </dp>
+</s>
+
+
+<s id="-5889655742518419773-2411011517-1" eva="8000105">
+    <dp ct="2411011517" l="RB12"/>
+</s>
+
+
+<s id="-554625761549732564-2411011632-10" eva="8000105">
+    <ar ct="2411011710" l="RB12"/>
+</s>
+
+
+<s id="-5011324655945623114-2411011602-10" eva="8000105">
+    <ar ct="2411011640" l="RB12"/>
+</s>
+
+
+<s id="-428989444287040363-2411010713-16" eva="8000105">
+    <ar cpth="Grävenwiesbach|Hundstadt|Wilhelmsdorf|Usingen|Hausen(Taunus)|Neu-Anspach|Wehrheim|Saalburg(Taunus)|Köppern|Friedrichsdorf(Taunus)|Bad Homburg|Oberursel(Taunus)|Frankfurt-Rödelheim" ct="2411010828" l="RB15"/>
+</s>
+
+
+<s id="-2539912525305084881-2411011547-1" eva="8000105">
+    <dp ct="2411011547" l="RB12"/>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:11.102"/>
+
+</timetable>

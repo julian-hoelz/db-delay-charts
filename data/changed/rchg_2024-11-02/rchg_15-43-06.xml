@@ -1,0 +1,32 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1924658128121948341-2411021337-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021516" ts="2411011000" ts-tts="24-11-01 10:01:02.223"/>
+    <ar cpth="Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411021604" l="RB10">
+        <m id="r8925399" t="f" c="0" ts="2411021218" ts-tts="24-11-02 12:18:15.980"/>
+    </ar>
+</s>
+
+
+<s id="8780351192518057290-2411020929-15" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:12.235" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" cp="2" pp="3" ct="2411021543" pt="2411021503">
+        <m id="r8920041" t="q" c="80" ts="2411020859" ts-tts="24-11-02 08:59:16.335"/>
+        <m id="r8920043" t="q" c="80" ts="2411020859" ts-tts="24-11-02 08:59:16.335"/>
+        <m id="r8922078" t="f" c="0" ts="2411021014" ts-tts="24-11-02 10:14:34.056"/>
+        <m id="r8923046" t="f" c="0" ts="2411021051" ts-tts="24-11-02 10:51:23.307"/>
+        <m id="r8925958" t="d" c="43" ts="2411021237" ts-tts="24-11-02 12:38:01.731"/>
+        <m id="r8925963" t="f" c="0" ts="2411021237" ts-tts="24-11-02 12:38:01.731"/>
+        <m id="r8926504" t="d" c="43" ts="2411021255" ts-tts="24-11-02 12:55:11.651"/>
+        <m id="r8927043" t="d" c="43" ts="2411021318" ts-tts="24-11-02 13:18:55.233"/>
+        <m id="r8927383" t="f" c="0" ts="2411021328" ts-tts="24-11-02 13:28:56.464"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1909"/>
+</s>
+
+
+<s id="3266330885468793465-2411021538-1" eva="8000105">
+    <dp ct="2411021541" l="SE14"/>
+</s>
+
+</timetable>

@@ -1,0 +1,19 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3041060466353194746-2411020831-18" eva="8000105">
+    <m id="r900029569" t="r" from="2411020600" to="2411020116" ts="2411020032" ts-tts="24-11-02 00:32:29.652"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)|Bad Vilbel|Bad Vilbel|Frankfurt(Main)West" cs="p" clt="2411011400" l="RB40">
+        <m id="r8914939" t="d" c="40" ts="2411020300" ts-tts="24-11-02 03:00:08.301"/>
+    </ar>
+</s>
+
+
+<s id="-3876736263946883288-2411020610-10" eva="8000105">
+    <m id="r2307943" t="h" from="2411020733" to="2411021036" cat="Information" ts="2411020245" ts-tts="24-11-02 02:45:48.857" pr="2"/>
+    <ar>
+        <m id="r8914929" t="q" c="98" ts="2411020255" ts-tts="24-11-02 02:55:47.843"/>
+        <m id="r8914936" t="q" c="97" ts="2411020258" ts-tts="24-11-02 02:58:36.372"/>
+    </ar>
+</s>
+
+</timetable>

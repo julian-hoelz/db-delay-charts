@@ -1,0 +1,103 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="9094493816642653026-2410310702-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310740" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="8557763541571876036-2410311047-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="709619192907414580-2410311102-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="6198864826098407924-2410311317-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="519911420025520770-2410311217-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="187665071432326374-2410311347-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-9191166363436640285-2410310747-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310747" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-884662956731920747-2410311147-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-7766241751002456514-2410310847-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310847" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-7661986320925319421-2410311132-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-7009356534760750441-2410311017-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-5912829545801191034-2410310802-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310840" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-5437725442367755051-2410311232-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-5301305442312220899-2410310917-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310917" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-4344182421522353440-2410311002-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-4009680935525476241-2410311302-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-3289623992384898938-2410310932-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="-1333427391620168769-2410310832-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310910" cs="c" clt="2410310232" l="RB12"/>
+</s>
+
+
+<s id="7108274583246193747-2410302151-8" eva="8000105">
+    <ar cp="18" ct="2410310233">
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:57.211"/>
+    </ar>
+    <dp cp="18" ct="2410310249">
+        <m id="r8822858" t="f" c="0" ts="2410302106" ts-tts="24-10-30 21:06:15.976"/>
+        <m id="r8825906" t="f" c="0" ts="2410302253" ts-tts="24-10-30 22:53:57.211"/>
+    </dp>
+</s>
+
+</timetable>

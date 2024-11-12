@@ -1,0 +1,43 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-3671994687157025910-2411030813-13" eva="8000105">
+    <ar ct="2411030901" l="61"/>
+</s>
+
+
+<s id="357216455508944088-2411030823-12" eva="8000105">
+    <ar cpth="Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)" l="30">
+        <m id="r8940947" t="f" c="0" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8940948" t="f" c="1000" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8940949" t="q" c="85" ts="2411022105" ts-tts="24-11-02 21:05:11.462"/>
+        <m id="r8948976" t="d" c="48" ts="2411030743" ts-tts="24-11-03 07:43:15.573"/>
+    </ar>
+</s>
+
+
+<s id="2874625510607608743-2411030508-1" eva="8000105">
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Marburg(Lahn)|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Borken(Hess)|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe" ct="2411030509" l="30">
+        <m id="r8940931" t="f" c="0" ts="2411022104" ts-tts="24-11-02 21:04:39.938"/>
+        <m id="r8940932" t="f" c="1000" ts="2411022104" ts-tts="24-11-02 21:04:39.938"/>
+        <m id="r8940933" t="q" c="85" ts="2411022104" ts-tts="24-11-02 21:04:39.938"/>
+    </dp>
+</s>
+
+
+<s id="-6038863164330753428-2411030631-14" eva="8000105">
+    <ar ct="2411030751" l="60">
+        <m id="r8947749" t="d" c="48" ts="2411030630" ts-tts="24-11-03 06:31:04.895"/>
+    </ar>
+</s>
+
+
+<s id="-3876736263946883288-2411030610-10" eva="8000105">
+    <m id="r2308324" t="h" from="2411030449" to="2411032314" cat="Information" ts="2411030128" ts-tts="24-11-03 01:28:05.537" pr="2"/>
+    <ar ct="2411031036">
+        <m id="r8947342" t="q" c="80" ts="2411030540" ts-tts="24-11-03 05:40:16.597"/>
+        <m id="r8947344" t="q" c="80" ts="2411030540" ts-tts="24-11-03 05:40:16.597"/>
+        <m id="r8948965" t="f" c="0" ts="2411030741" ts-tts="24-11-03 07:42:13.289"/>
+    </ar>
+</s>
+
+</timetable>

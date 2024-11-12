@@ -1,0 +1,51 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1848845147149544039-2411030742-1" eva="8000105">
+    <dp ct="2411030752" l="51">
+        <m id="r8948991" t="d" c="61" ts="2411030744" ts-tts="24-11-03 07:44:20.751"/>
+    </dp>
+</s>
+
+
+<s id="-4111942222860974331-2411030636-17" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411030116" ts="2411011000" ts-tts="24-11-01 10:00:54.039"/>
+    <ar cpth="Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ct="2411030804" l="RB10"/>
+</s>
+
+
+<s id="7205068402726255874-2411031238-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" l="RB82"/>
+</s>
+
+
+<s id="-3671994687157025910-2411030813-13" eva="8000105">
+    <ar ct="2411030901" l="61"/>
+</s>
+
+
+<s id="357216455508944088-2411030823-12" eva="8000105">
+    <ar cpth="Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)" l="30">
+        <m id="r8940947" t="f" c="0" ts="2411022105" ts-tts="24-11-02 21:05:03.891"/>
+        <m id="r8940948" t="f" c="1000" ts="2411022105" ts-tts="24-11-02 21:05:03.891"/>
+        <m id="r8940949" t="q" c="85" ts="2411022105" ts-tts="24-11-02 21:05:03.891"/>
+        <m id="r8948976" t="d" c="48" ts="2411030743" ts-tts="24-11-03 07:43:03.868"/>
+    </ar>
+</s>
+
+
+<s id="2874625510607608743-2411030508-1" eva="8000105">
+    <dp cpth="Frankfurt(Main)West|Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Marburg(Lahn)|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Borken(Hess)|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe" ct="2411030509" l="30">
+        <m id="r8940931" t="f" c="0" ts="2411022104" ts-tts="24-11-02 21:04:48.452"/>
+        <m id="r8940932" t="f" c="1000" ts="2411022104" ts-tts="24-11-02 21:04:48.452"/>
+        <m id="r8940933" t="q" c="85" ts="2411022104" ts-tts="24-11-02 21:04:48.452"/>
+    </dp>
+</s>
+
+
+<s id="-6038863164330753428-2411030631-14" eva="8000105">
+    <ar ct="2411030751" l="60">
+        <m id="r8947749" t="d" c="48" ts="2411030630" ts-tts="24-11-03 06:31:04.263"/>
+    </ar>
+</s>
+
+</timetable>

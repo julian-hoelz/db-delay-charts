@@ -1,0 +1,126 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="2999842467467260619-2411021951-1" eva="8000105">
+    <dp ct="2411021955" l="RB41"/>
+</s>
+
+
+<s id="1637202514675212415-2411021749-19" eva="8000105">
+    <ar ct="2411021950" l="RB41">
+        <m id="r8936528" t="d" c="3" ts="2411021840" ts-tts="24-11-02 18:40:43.415"/>
+    </ar>
+</s>
+
+
+<s id="-5519323137816245594-2411021918-1" eva="8000105">
+    <m id="r2308076" t="h" from="2411021918" to="2411030014" cat="Information" ts="2411021114" ts-tts="24-11-02 11:14:20.066" pr="2"/>
+    <dp cpth="Fulda|Bad Hersfeld|Eisenach|Gotha|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden Hbf" cp="11" ct="2411021920">
+        <m id="r8931812" t="f" c="0" ts="2411021555" ts-tts="24-11-02 15:55:36.388"/>
+        <m id="r8934730" t="f" c="0" ts="2411021739" ts-tts="24-11-02 17:39:25.455"/>
+        <m id="r8936772" t="q" c="80" ts="2411021848" ts-tts="24-11-02 18:48:28.343"/>
+    </dp>
+</s>
+
+
+<s id="-2008250529408400956-2411021731-23" eva="8000105">
+    <ar cpth="Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)|Bad Vilbel|Frankfurt(Main)West" ct="2411021950" l="RB40">
+        <m id="r8936511" t="d" c="3" ts="2411021840" ts-tts="24-11-02 18:40:12.332"/>
+    </ar>
+</s>
+
+
+<s id="-1949569066339017119-2411021951-1" eva="8000105">
+    <dp ct="2411021955" l="RB40"/>
+</s>
+
+
+<s id="-7573651573329216408-2411021500-15" eva="8000105">
+    <ar ct="2411022010">
+        <m id="r8929289" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929291" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929293" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929295" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8934350" t="d" c="24" ts="2411021726" ts-tts="24-11-02 17:26:46.120"/>
+    </ar>
+    <dp ct="2411022016">
+        <m id="r8929289" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929291" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929293" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8929295" t="q" c="80" ts="2411021430" ts-tts="24-11-02 14:30:18.072"/>
+        <m id="r8934350" t="d" c="24" ts="2411021726" ts-tts="24-11-02 17:26:46.120"/>
+    </dp>
+</s>
+
+
+<s id="-8855277461764588104-2411021904-9" eva="8000105">
+    <ar ct="2411021938" l="RB58">
+        <m id="r8937650" t="d" c="48" ts="2411021909" ts-tts="24-11-02 19:09:39.457"/>
+    </ar>
+</s>
+
+
+<s id="2949632676489527670-2411021913-13" eva="8000105">
+    <ar ct="2411022003" l="61"/>
+</s>
+
+
+<s id="-7575240079213161486-2411021637-28" eva="8000105">
+    <m id="r900029566" t="r" from="2411020001" to="2411021916" ts="2411011000" ts-tts="24-11-01 10:00:54.038"/>
+    <ar cpth="Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" ppth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel|Frankfurt-Höchst" pp="23" ct="2411021956" pt="2411021904" l="RB10">
+        <m id="r8934495" t="d" c="44" ts="2411021731" ts-tts="24-11-02 17:31:56.016"/>
+    </ar>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25027"/>
+</s>
+
+
+<s id="6351305499723870039-2411021800-6" eva="8000105">
+    <ar cp="19" ct="2411021921">
+        <m id="r8934445" t="q" c="80" ts="2411021730" ts-tts="24-11-02 17:30:23.142"/>
+    </ar>
+</s>
+
+
+<s id="-3281432353838358850-2411021053-20" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.744" pr="2"/>
+    <ar ct="2411021922">
+        <m id="r8922331" t="q" c="80" ts="2411021023" ts-tts="24-11-02 10:23:17.547"/>
+        <m id="r8922333" t="q" c="80" ts="2411021023" ts-tts="24-11-02 10:23:17.547"/>
+        <m id="r8934265" t="d" c="38" ts="2411021722" ts-tts="24-11-02 17:22:22.641"/>
+    </ar>
+</s>
+
+
+<s id="-1609498776407061061-2411021035-24" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.744" pr="2"/>
+    <ar ct="2411021923">
+        <m id="r8934267" t="d" c="38" ts="2411021722" ts-tts="24-11-02 17:22:22.641"/>
+    </ar>
+</s>
+
+
+<s id="-8005609635293134624-2411021716-6" eva="8000105">
+    <ar ct="2411022107">
+        <m id="r8933158" t="q" c="80" ts="2411021646" ts-tts="24-11-02 16:46:28.334"/>
+        <m id="r8933160" t="q" c="80" ts="2411021646" ts-tts="24-11-02 16:46:28.334"/>
+    </ar>
+    <dp ct="2411022113">
+        <m id="r8933158" t="q" c="80" ts="2411021646" ts-tts="24-11-02 16:46:28.334"/>
+        <m id="r8933160" t="q" c="80" ts="2411021646" ts-tts="24-11-02 16:46:28.334"/>
+    </dp>
+</s>
+
+
+<s id="3233608771385140711-2411021749-16" eva="8000105">
+    <ar ct="2411021930" l="SE14">
+        <m id="r8937714" t="d" c="43" ts="2411021912" ts-tts="24-11-02 19:12:14.494"/>
+    </ar>
+</s>
+
+
+<s id="-5318527331154564817-2411021946-1" eva="8000105">
+    <dp cpth="Bad Vilbel|Bad Vilbel-Gronau|Niederdorfelden|Schöneck-Oberdorfelden|Schöneck-Kilianstädten|Schöneck-Büdesheim|Nidderau-Windecken|Nidderau|Nidderau-Eichen|Altenstadt-Höchst|Altenstadt(Hess)|Altenstadt-Lindheim|Glauburg-Glauberg|Glauburg-Stockheim" ct="2411021946" cs="c" clt="2411021918" l="34">
+        <m id="r8937961" t="d" c="49" ts="2411021918" ts-tts="24-11-02 19:18:58.408"/>
+    </dp>
+</s>
+
+</timetable>

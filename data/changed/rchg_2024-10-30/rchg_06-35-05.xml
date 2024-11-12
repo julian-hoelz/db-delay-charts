@@ -1,0 +1,68 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-290146808642792781-2410300519-16" eva="8000105">
+    <ar ct="2410300652" l="55">
+        <m id="r8783377" t="d" c="43" ts="2410300634" ts-tts="24-10-30 06:34:57.184"/>
+    </ar>
+</s>
+
+
+<s id="6961694972802437173-2410300624-9" eva="8000105">
+    <ar ct="2410300716" l="RB82"/>
+</s>
+
+
+<s id="-7782424231001410433-2410300550-5" eva="8000105">
+    <ar ct="2410300931"/>
+    <dp ct="2410300938"/>
+</s>
+
+
+<s id="2774174590951633862-2410292228-22" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-28 23:16:12.575" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn-Beuel|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2410300718">
+        <m id="r8677820" t="f" c="0" ts="2410272113" ts-tts="24-10-27 21:13:40.252"/>
+        <m id="r8682319" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:34.918"/>
+        <m id="r8711187" t="f" c="0" ts="2410281603" ts-tts="24-10-28 16:03:44.407"/>
+        <m id="r8779977" t="f" c="0" ts="2410300258" ts-tts="24-10-30 02:58:18.832"/>
+        <m id="r8780294" t="d" c="67" ts="2410300349" ts-tts="24-10-30 03:49:56.820"/>
+        <m id="r8780512" t="d" c="58" ts="2410300424" ts-tts="24-10-30 04:24:05.840"/>
+        <m id="r8780541" t="d" c="58" ts="2410300426" ts-tts="24-10-30 04:26:38.892"/>
+        <m id="r8781755" t="d" c="67" ts="2410300539" ts-tts="24-10-30 05:39:38.763"/>
+        <m id="r8781757" t="d" c="67" ts="2410300539" ts-tts="24-10-30 05:39:38.763"/>
+    </ar>
+</s>
+
+
+<s id="-1145545552519879876-2410300449-4" eva="8000105">
+    <ar ct="2410300651">
+        <m id="r8759277" t="f" c="0" ts="2410291547" ts-tts="24-10-29 15:47:46.137"/>
+        <m id="r8781542" t="q" c="86" ts="2410300528" ts-tts="24-10-30 05:28:51.907"/>
+    </ar>
+    <dp ct="2410300658">
+        <m id="r8759277" t="f" c="0" ts="2410291547" ts-tts="24-10-29 15:47:46.137"/>
+        <m id="r8781542" t="q" c="86" ts="2410300528" ts-tts="24-10-30 05:28:51.907"/>
+    </dp>
+</s>
+
+
+<s id="6597109704784414496-2410300342-17" eva="8000105">
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ingelheim|Mainz Hbf|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf" ct="2410300635" l="3"/>
+</s>
+
+
+<s id="3425283525912967243-2410300604-9" eva="8000105">
+    <ar ct="2410300634" l="RB58"/>
+</s>
+
+
+<s id="-924011349323769162-2410300632-1" eva="8000105">
+    <dp ct="2410300632" l="68"/>
+</s>
+
+
+<s id="-32357556577948378-2410300702-14" eva="8000105">
+    <ar ct="2410300826" l="30"/>
+</s>
+
+</timetable>

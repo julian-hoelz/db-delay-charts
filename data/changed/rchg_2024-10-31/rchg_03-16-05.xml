@@ -1,0 +1,68 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6817269415809298934-2410310948-16" eva="8000105">
+    <ar cpth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Frankenthal Süd|Frankenthal Hbf|Worms Hbf|Osthofen|Guntersblum|Oppenheim|Nierstein|Bodenheim|Mainz Römisches Theater|Mainz Hbf|Hochheim(Main)|Frankfurt-Höchst" cs="c" clt="2410310315" l="SE14">
+        <m id="r8825038" t="f" c="0" ts="2410302221" ts-tts="24-10-30 22:21:48.175"/>
+        <m id="r8830251" t="d" c="49" ts="2410310315" ts-tts="24-10-31 03:15:56.152"/>
+    </ar>
+</s>
+
+
+<s id="4393229032382350446-2410311138-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Hochheim(Main)|Mainz Hbf|Mainz Römisches Theater|Bodenheim|Nierstein|Oppenheim|Guntersblum|Osthofen|Worms Hbf|Frankenthal Hbf|Frankenthal Süd|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" cs="c" clt="2410310315" l="SE14">
+        <m id="r8825027" t="f" c="0" ts="2410302221" ts-tts="24-10-30 22:21:16.543"/>
+        <m id="r8830253" t="d" c="49" ts="2410310315" ts-tts="24-10-31 03:15:56.151"/>
+    </dp>
+</s>
+
+
+<s id="7669710181818548236-2410310617-1" eva="8000105">
+    <dp ct="2410310617" l="RB12"/>
+</s>
+
+
+<s id="7109080472801536148-2410310532-10" eva="8000105">
+    <ar ct="2410310610" l="RB12"/>
+</s>
+
+
+<s id="5866882759797823269-2410310632-10" eva="8000105">
+    <ar ct="2410310710" l="RB12"/>
+</s>
+
+
+<s id="-6845282837818138151-2410310502-10" eva="8000105">
+    <ar ct="2410310540" l="RB12"/>
+</s>
+
+
+<s id="-6519572525712897596-2410310759-14" eva="8000105">
+    <ar ct="2410310914" l="RB15"/>
+</s>
+
+
+<s id="-5889655742518419773-2410311517-1" eva="8000105">
+    <dp ct="2410311517" l="RB12"/>
+</s>
+
+
+<s id="-462382426514279593-2410310547-1" eva="8000105">
+    <dp ct="2410310547" l="RB12"/>
+</s>
+
+
+<s id="-428989444287040363-2410310713-16" eva="8000105">
+    <ar ct="2410310828" l="RB15"/>
+</s>
+
+
+<s id="-3977687208835362778-2410310717-1" eva="8000105">
+    <dp ct="2410310717" l="RB12"/>
+</s>
+
+
+<s id="5678397547452114598-2410310714-27" eva="8000105">
+    <ar ct="2410310928" l="RB41"/>
+</s>
+
+</timetable>

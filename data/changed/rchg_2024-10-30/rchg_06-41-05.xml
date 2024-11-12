@@ -1,0 +1,62 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="2917602948917207328-2410300638-1" eva="8000105">
+    <dp ct="2410300640" l="RE85"/>
+</s>
+
+
+<s id="-2497385696290219436-2410300507-14" eva="8000105">
+    <ar ct="2410300651" l="2">
+        <m id="r8783232" t="d" c="43" ts="2410300630" ts-tts="24-10-30 06:30:14.697"/>
+    </ar>
+</s>
+
+
+<s id="865956639353630851-2410300639-1" eva="8000105">
+    <dp ct="2410300640" l="30"/>
+</s>
+
+
+<s id="-5549851624903416991-2410300647-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410300659" cs="c" clt="2410300639" l="RB12"/>
+</s>
+
+
+<s id="9029167071702223712-2410300602-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410300657" cs="c" clt="2410300639" l="RB12"/>
+</s>
+
+
+<s id="-7670964421205189474-2410300602-9" eva="8000105">
+    <ar ct="2410300904">
+        <m id="r8783575" t="d" c="43" ts="2410300639" ts-tts="24-10-30 06:40:03.724"/>
+    </ar>
+</s>
+
+
+<s id="7919051421582955296-2410300829-1" eva="8000105">
+    <dp ct="2410300829" l="RB40"/>
+</s>
+
+
+<s id="2686863860928077147-2410300829-1" eva="8000105">
+    <dp ct="2410300829" l="RB41"/>
+</s>
+
+
+<s id="3850374983124523240-2410300533-7" eva="8000105">
+    <ar ct="2410300841">
+        <m id="r8781001" t="q" c="80" ts="2410300503" ts-tts="24-10-30 05:03:40.578"/>
+        <m id="r8782124" t="d" c="34" ts="2410300552" ts-tts="24-10-30 05:52:34.359"/>
+        <m id="r8782625" t="f" c="0" ts="2410300612" ts-tts="24-10-30 06:12:10.231"/>
+    </ar>
+</s>
+
+
+<s id="-7438959797843632351-2410300600-14" eva="8000105">
+    <ar ct="2410300817" l="RE99">
+        <m id="r8783514" t="d" c="3" ts="2410300638" ts-tts="24-10-30 06:39:01.536"/>
+    </ar>
+</s>
+
+</timetable>

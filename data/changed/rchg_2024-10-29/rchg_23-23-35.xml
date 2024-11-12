@@ -1,0 +1,26 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="5406595945530653202-2410292321-1" eva="8000105">
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Lollar|Fronhausen(Lahn)|Niederwalgern|Marburg Süd|Marburg(Lahn)|Cölbe|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Treysa" ct="2410292322" l="30">
+        <m id="r8776447" t="d" c="57" ts="2410292314" ts-tts="24-10-29 23:14:51.523"/>
+        <m id="r8776598" t="f" c="0" ts="2410292319" ts-tts="24-10-29 23:19:51.016"/>
+    </dp>
+</s>
+
+
+<s id="3080474508177482894-2410291851-9" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-28 23:16:13.843" pr="2"/>
+    <ar ct="2410292338">
+        <m id="r8771695" t="d" c="13" ts="2410292013" ts-tts="24-10-29 20:13:16.972"/>
+    </ar>
+</s>
+
+
+<s id="-8449374523683711316-2410292216-13" eva="8000105">
+    <ar cp="12" ct="2410292323" l="51">
+        <m id="r8730712" t="f" c="0" ts="2410290110" ts-tts="24-10-29 01:10:50.346"/>
+        <m id="r8772390" t="f" c="0" ts="2410292031" ts-tts="24-10-29 20:32:06.141"/>
+    </ar>
+</s>
+
+</timetable>

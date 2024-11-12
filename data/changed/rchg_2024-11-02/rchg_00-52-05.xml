@@ -1,0 +1,19 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7217092419963954024-2411012223-24" eva="8000105">
+    <ar ct="2411020133" l="30">
+        <m id="r8872925" t="q" c="85" ts="2410312253" ts-tts="24-10-31 22:54:02.273"/>
+    </ar>
+</s>
+
+
+<s id="-6716213240730000376-2411012237-28" eva="8000105">
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" ct="2411020114" l="RB10"/>
+</s>
+
+
+<s id="-5453835309889600672-2411020450-1" eva="8000105">
+    <dp ct="2411020450" l="RB58"/>
+</s>
+
+</timetable>

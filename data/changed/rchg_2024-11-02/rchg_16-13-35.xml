@@ -1,0 +1,51 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="3024319753768168999-2411021847-1" eva="8000105">
+    <dp ct="2411021847" l="RB12"/>
+</s>
+
+
+<s id="-6514511316100384446-2411021802-10" eva="8000105">
+    <ar ct="2411021840" l="RB12"/>
+</s>
+
+
+<s id="-6246195974825347962-2411021105-15" eva="8000105">
+    <ar ct="2411021656">
+        <m id="r8922612" t="q" c="80" ts="2411021035" ts-tts="24-11-02 10:35:23.721"/>
+        <m id="r8922614" t="q" c="80" ts="2411021035" ts-tts="24-11-02 10:35:23.721"/>
+        <m id="r8923103" t="d" c="48" ts="2411021053" ts-tts="24-11-02 10:53:24.171"/>
+        <m id="r8923111" t="q" c="84" ts="2411021053" ts-tts="24-11-02 10:53:24.171"/>
+        <m id="r8923113" t="q" c="84" ts="2411021053" ts-tts="24-11-02 10:53:24.171"/>
+        <m id="r8931556" t="f" c="0" ts="2411021546" ts-tts="24-11-02 15:46:26.887"/>
+    </ar>
+</s>
+
+
+<s id="-2094843924873777042-2411021129-14" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411041200" cat="Störung" ts="2411011239" ts-tts="24-11-02 13:16:05.632" pr="1"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:10.461" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" pp="2" ct="2411021735" pt="2411021703">
+        <m id="r8921930" t="d" c="17" ts="2411021010" ts-tts="24-11-02 10:10:26.090"/>
+        <m id="r8921960" t="d" c="17" ts="2411021011" ts-tts="24-11-02 10:11:12.324"/>
+        <m id="r8928173" t="d" c="17" ts="2411021354" ts-tts="24-11-02 13:54:36.326"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1911"/>
+</s>
+
+
+<s id="3121167650009527420-2411021326-27" eva="8000105">
+    <ar ct="2411021635" l="54"/>
+</s>
+
+
+<s id="-5554818289511663551-2411021642-1" eva="8000105">
+    <dp ct="2411021642" l="51"/>
+</s>
+
+
+<s id="-2982974729342898704-2411021516-13" eva="8000105">
+    <ar ct="2411021614" l="51"/>
+</s>
+
+</timetable>

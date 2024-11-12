@@ -1,0 +1,26 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7929720578321154182-2410301729-15" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-29 23:16:13.142" pr="2"/>
+    <ar ct="2410310053">
+        <m id="r8824917" t="q" c="80" ts="2410302218" ts-tts="24-10-30 22:18:15.327"/>
+    </ar>
+</s>
+
+
+<s id="8573811631662133764-2410302048-7" eva="8000105">
+    <m id="r2306218" t="h" from="2410301841" to="2410302230" cat="Störung" ts="2410301843" ts-tts="24-10-30 22:16:12.409" pr="2"/>
+    <m id="r2306339" t="h" from="2410302048" to="2410310004" cat="Information" ts="2410302126" ts-tts="24-10-30 21:26:31.077" pr="2"/>
+    <ar cpth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Fürth(Bay)Hbf|Würzburg Hbf|Aschaffenburg Hbf" pp="4" ct="2410310108" pt="2410310004">
+        <m id="r8702231" t="f" c="0" ts="2410281308" ts-tts="24-10-28 13:09:14.683"/>
+        <m id="r8731752" t="f" c="0" ts="2410290158" ts-tts="24-10-29 01:58:40.910"/>
+        <m id="r8823529" t="d" c="14" ts="2410302124" ts-tts="24-10-30 21:24:57.809"/>
+        <m id="r8823727" t="q" c="95" ts="2410302131" ts-tts="24-10-30 21:31:42.279"/>
+        <m id="r8824782" t="d" c="51" ts="2410302212" ts-tts="24-10-30 22:12:49.422"/>
+        <m id="r8825033" t="d" c="64" ts="2410302221" ts-tts="24-10-30 22:21:21.934"/>
+        <m id="r8826368" t="f" c="0" ts="2410302310" ts-tts="24-10-30 23:10:57.286"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="520"/>
+</s>
+
+</timetable>

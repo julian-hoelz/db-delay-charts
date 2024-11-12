@@ -1,0 +1,120 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7556014111328415912-2410310606-12" eva="8000105">
+    <ar cpth="Koblenz Hbf|Boppard Hbf|Oberwesel|Bingen(Rhein) Hbf|Ingelheim|Heidesheim(Rheinhess)|Mainz Hbf|Mainz Römisches Theater|Mainz-Bischofsheim|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf|Frankfurt-Niederrad" ct="2410310753" l="2"/>
+</s>
+
+
+<s id="2095299367669448289-2410310531-23" eva="8000105">
+    <ar ct="2410310734" l="RB40"/>
+</s>
+
+
+<s id="4842522493744101236-2410310609-13" eva="8000105">
+    <ar ct="2410310730" l="50">
+        <m id="r8830871" t="f" c="0" ts="2410310429" ts-tts="24-10-31 04:29:13.274"/>
+    </ar>
+</s>
+
+
+<s id="2801826025756613862-2410310817-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310817" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="2876338763274642822-2410311117-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410311117" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="-2251424720887288145-2410311202-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410311240" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="3883787396073878347-2410311247-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="896384667678103556-2410310732-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310810" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="989207292618606600-2410311032-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410311110" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="9024089942648433409-2410311447-1" eva="8000105">
+    <dp ct="2410311447" l="RB12"/>
+</s>
+
+
+<s id="4311575177435395938-2410310947-1" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)" ct="2410310947" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="-8342458159009848227-2410310902-10" eva="8000105">
+    <ar cpth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst" ct="2410310940" cs="c" clt="2410310727" l="RB12"/>
+</s>
+
+
+<s id="-7913468040661109906-2410311832-10" eva="8000105">
+    <ar ct="2410311910" l="RB12"/>
+</s>
+
+
+<s id="-4405984168365531423-2410311402-10" eva="8000105">
+    <ar ct="2410311440" l="RB12"/>
+</s>
+
+
+<s id="-6296955256436553031-2410310726-1" eva="8000105">
+    <dp ct="2410310726" l="50">
+        <m id="r8834609" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:26.271"/>
+        <m id="r8834611" t="f" c="0" ts="2410310715" ts-tts="24-10-31 07:15:26.271"/>
+    </dp>
+</s>
+
+
+<s id="-1558718362540601901-2410310615-13" eva="8000105">
+    <ar ct="2410310742" l="50"/>
+</s>
+
+
+<s id="8149147754402883805-2410310442-18" eva="8000105">
+    <ar ct="2410310736" l="3"/>
+</s>
+
+
+<s id="-4259697957378930536-2410310538-5" eva="8000105">
+    <ar ct="2410310752">
+        <m id="r8831248" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:09.081"/>
+        <m id="r8831302" t="q" c="80" ts="2410310508" ts-tts="24-10-31 05:08:24.447"/>
+    </ar>
+</s>
+
+
+<s id="4743937711977270766-2410310756-9" eva="8000105">
+    <ar ct="2410310859" l="20">
+        <m id="r8826305" t="q" c="85" ts="2410302308" ts-tts="24-10-30 23:08:53.986"/>
+    </ar>
+</s>
+
+
+<s id="-6251819721670714824-2410310514-27" eva="8000105">
+    <ar ct="2410310734" l="RB41"/>
+</s>
+
+
+<s id="-1569137128894820549-2410310607-15" eva="8000105">
+    <m id="r2306482" t="h" from="2410310511" to="2410310800" cat="Störung" ts="2410310622" ts-tts="24-10-31 06:22:14.886" pr="2"/>
+    <ar ct="2410310728" l="68">
+        <m id="r8823838" t="f" c="0" ts="2410302135" ts-tts="24-10-30 21:35:46.168"/>
+    </ar>
+</s>
+
+</timetable>

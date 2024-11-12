@@ -1,0 +1,31 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7138074359361066746-2411021835-12" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.744" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen" cp="9" ct="2411030241">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:12.883"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:11.339"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:16.230"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:31.808"/>
+    </ar>
+    <dp cpth="Darmstadt Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf" cp="9" ct="2411030247">
+        <m id="r8845271" t="f" c="0" ts="2410311200" ts-tts="24-10-31 12:00:12.883"/>
+        <m id="r8876291" t="f" c="0" ts="2411010144" ts-tts="24-11-01 01:44:11.339"/>
+        <m id="r8935430" t="q" c="80" ts="2411021805" ts-tts="24-11-02 18:05:16.230"/>
+        <m id="r8935432" t="q" c="84" ts="2411021805" ts-tts="24-11-02 18:05:31.808"/>
+    </dp>
+</s>
+
+
+<s id="-3313342237472696204-2411031410-10" eva="8000105">
+    <ar>
+        <m id="r8946024" t="q" c="91" ts="2411030227" ts-tts="24-11-03 02:27:05.365"/>
+        <m id="r8946028" t="f" c="0" ts="2411030228" ts-tts="24-11-03 02:28:37.079"/>
+        <m id="r8946032" t="q" c="98" ts="2411030228" ts-tts="24-11-03 02:29:07.686"/>
+        <m id="r8946039" t="q" c="88" ts="2411030230" ts-tts="24-11-03 02:30:39.446"/>
+        <m id="r8946052" t="f" c="0" ts="2411030232" ts-tts="24-11-03 02:32:41.784"/>
+        <m id="r8946074" t="f" c="0" ts="2411030238" ts-tts="24-11-03 02:38:48.642"/>
+    </ar>
+</s>
+
+</timetable>

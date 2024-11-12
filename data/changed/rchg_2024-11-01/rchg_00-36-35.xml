@@ -1,0 +1,19 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-2820315739988979208-2410311859-9" eva="8000105">
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf" cp="7" pp="2" ct="2411010037" pt="2410312352">
+        <m id="r8860680" t="d" c="48" ts="2410311729" ts-tts="24-10-31 17:29:22.138"/>
+        <m id="r8861592" t="f" c="0" ts="2410311751" ts-tts="24-10-31 17:51:54.086"/>
+        <m id="r8861666" t="q" c="98" ts="2410311753" ts-tts="24-10-31 17:54:02.422"/>
+        <m id="r8861860" t="f" c="0" ts="2410311757" ts-tts="24-10-31 17:57:15.213"/>
+        <m id="r8861930" t="f" c="0" ts="2410311758" ts-tts="24-10-31 17:58:19.465"/>
+        <m id="r8872159" t="d" c="2" ts="2410312217" ts-tts="24-10-31 22:17:42.370"/>
+        <m id="r8873109" t="d" c="55" ts="2410312300" ts-tts="24-10-31 23:00:52.246"/>
+        <m id="r8873187" t="d" c="55" ts="2410312306" ts-tts="24-10-31 23:06:25.456"/>
+        <m id="r8874011" t="f" c="0" ts="2410312358" ts-tts="24-10-31 23:58:34.873"/>
+        <m id="r8874537" t="f" c="0" ts="2411010033" ts-tts="24-11-01 00:34:07.262"/>
+    </ar>
+    <tl f="F" t="p" o="85" c="ICE" n="4"/>
+</s>
+
+</timetable>

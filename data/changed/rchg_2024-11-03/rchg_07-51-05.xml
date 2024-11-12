@@ -1,0 +1,41 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-8884708907056317080-2411030711-17" eva="8000105">
+    <ar ct="2411030831" l="RB82"/>
+</s>
+
+
+<s id="-7204232672837577949-2411030752-1" eva="8000105">
+    <dp ct="2411030752">
+        <m id="r8949130" t="q" c="80" ts="2411030749" ts-tts="24-11-03 07:50:02.320"/>
+    </dp>
+</s>
+
+
+<s id="3436349681683323952-2411030834-1" eva="8000105">
+    <dp cp="9" l="54"/>
+</s>
+
+
+<s id="-879448879626900765-2411030830-1" eva="8000105">
+    <dp cp="6" l="RB58"/>
+</s>
+
+
+<s id="-5489827452009074292-2411031149-19" eva="8000105">
+    <ar ct="2411031328" l="RB41"/>
+</s>
+
+
+<s id="4139829075315633003-2411031425-1" eva="8000105">
+    <dp cpth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)" l="RB82"/>
+</s>
+
+
+<s id="-6038863164330753428-2411030631-14" eva="8000105">
+    <ar cp="10" ct="2411030750" l="60">
+        <m id="r8947749" t="d" c="48" ts="2411030630" ts-tts="24-11-03 06:31:04.895"/>
+    </ar>
+</s>
+
+</timetable>

@@ -1,0 +1,120 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6716213240730000376-2411012237-28" eva="8000105">
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" ct="2411020111" l="RB10"/>
+</s>
+
+
+<s id="9117006994590991223-2411012236-32" eva="8000105">
+    <m id="r2296719" t="h" from="2411012236" to="2411020054" cat="Bauarbeiten" ts="2410312303" ts-tts="24-10-31 23:03:25.597" pr="2"/>
+    <ar ct="2411020049" l="54">
+        <m id="r8911666" t="d" c="31" ts="2411012317" ts-tts="24-11-01 23:18:10.127"/>
+    </ar>
+</s>
+
+
+<s id="4052070690066184400-2411012232-13" eva="8000105">
+    <ar ct="2411012350" l="33"/>
+</s>
+
+
+<s id="3080474508177482894-2411011851-9" eva="8000105">
+    <m id="r2285183" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.016" pr="2"/>
+    <ar ct="2411012355">
+        <m id="r8903509" t="q" c="80" ts="2411011821" ts-tts="24-11-01 18:21:27.550"/>
+        <m id="r8906950" t="d" c="13" ts="2411011957" ts-tts="24-11-01 19:57:35.758"/>
+    </ar>
+</s>
+
+
+<s id="-8147699513644188353-2411011817-6" eva="8000105">
+    <m id="r2307082" t="h" from="2411010200" to="2411040700" cat="Störung" ts="2411010234" ts-tts="24-11-01 02:34:14.388" pr="1"/>
+    <m id="r2307533" t="h" from="2411011930" to="2411012359" cat="Störung" ts="2411012031" ts-tts="24-11-01 20:31:31.588" pr="1"/>
+    <ar cpth="Hamburg Dammtor|Hamburg Hbf|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" ppth="Hamburg Dammtor|Hamburg Hbf|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe" pp="6" ct="2411012340" pt="2411012200">
+        <m id="r8902137" t="q" c="80" ts="2411011747" ts-tts="24-11-01 17:47:29.230"/>
+        <m id="r8902139" t="q" c="80" ts="2411011747" ts-tts="24-11-01 17:47:29.230"/>
+        <m id="r8906438" t="d" c="34" ts="2411011940" ts-tts="24-11-01 19:40:46.890"/>
+        <m id="r8908161" t="d" c="8" ts="2411012039" ts-tts="24-11-01 20:39:17.282"/>
+        <m id="r8909438" t="f" c="0" ts="2411012129" ts-tts="24-11-01 21:29:40.231"/>
+        <m id="r8910636" t="f" c="0" ts="2411012225" ts-tts="24-11-01 22:25:05.764"/>
+        <m id="r8910838" t="f" c="0" ts="2411012235" ts-tts="24-11-01 22:35:39.169"/>
+        <m id="r8910905" t="f" c="0" ts="2411012237" ts-tts="24-11-01 22:37:58.281"/>
+        <m id="r8911607" t="f" c="0" ts="2411012312" ts-tts="24-11-01 23:13:00.559"/>
+        <m id="r8911702" t="f" c="0" ts="2411012321" ts-tts="24-11-01 23:21:15.624"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Heidelberg Hbf|Bruchsal|Karlsruhe Hbf" ppth="Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Bruchsal|Karlsruhe Hbf" pp="6" ct="2411012346" pt="2411012206">
+        <m id="r8902137" t="q" c="80" ts="2411011747" ts-tts="24-11-01 17:47:29.230"/>
+        <m id="r8902139" t="q" c="80" ts="2411011747" ts-tts="24-11-01 17:47:29.230"/>
+        <m id="r8906438" t="d" c="34" ts="2411011940" ts-tts="24-11-01 19:40:46.890"/>
+        <m id="r8908161" t="d" c="8" ts="2411012039" ts-tts="24-11-01 20:39:17.282"/>
+        <m id="r8909438" t="f" c="0" ts="2411012129" ts-tts="24-11-01 21:29:40.231"/>
+        <m id="r8910636" t="f" c="0" ts="2411012225" ts-tts="24-11-01 22:25:05.764"/>
+        <m id="r8910838" t="f" c="0" ts="2411012235" ts-tts="24-11-01 22:35:39.169"/>
+        <m id="r8910905" t="f" c="0" ts="2411012237" ts-tts="24-11-01 22:37:58.281"/>
+        <m id="r8911607" t="f" c="0" ts="2411012312" ts-tts="24-11-01 23:13:00.559"/>
+        <m id="r8911702" t="f" c="0" ts="2411012321" ts-tts="24-11-01 23:21:15.624"/>
+        <m id="r8911726" t="f" c="0" ts="2411012323" ts-tts="24-11-01 23:23:34.663"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="877"/>
+</s>
+
+
+<s id="7217092419963954024-2411012223-24" eva="8000105">
+    <ar ct="2411020131" l="30">
+        <m id="r8872925" t="q" c="85" ts="2410312253" ts-tts="24-10-31 22:54:06.864"/>
+    </ar>
+</s>
+
+
+<s id="6236530130243353826-2411012329-1" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-10-31 23:16:12.043" pr="2"/>
+    <dp ct="2411012336" l="22"/>
+</s>
+
+
+<s id="-2820315739988979208-2411011859-9" eva="8000105">
+    <m id="r2307055" t="h" from="2411010915" to="2411012354" cat="Information" ts="2410312304" ts-tts="24-10-31 23:04:12.591" pr="3"/>
+    <ar ct="2411012351">
+        <m id="r8876729" t="q" c="85" ts="2411010211" ts-tts="24-11-01 02:11:33.943"/>
+        <m id="r8903726" t="q" c="80" ts="2411011829" ts-tts="24-11-01 18:29:29.849"/>
+        <m id="r8903728" t="q" c="80" ts="2411011829" ts-tts="24-11-01 18:29:29.849"/>
+    </ar>
+</s>
+
+
+<s id="-1814010400350286013-2411021251-1" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-01 23:16:10.744" pr="2"/>
+    <dp cpth="Friedberg(Hess)|Gießen|Marburg(Lahn)|Treysa|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Uelzen|Bad Bevensen|Lüneburg|Hamburg-Harburg">
+        <m id="r8911952" t="d" c="31" ts="2411012336" ts-tts="24-11-01 23:36:42.049"/>
+        <m id="r8911964" t="f" c="0" ts="2411012337" ts-tts="24-11-01 23:37:12.966"/>
+    </dp>
+</s>
+
+
+<s id="-8170529235403740838-2411020007-13" eva="8000105">
+    <ar ct="2411020129" l="50"/>
+</s>
+
+
+<s id="-4139895402483667464-2411020006-1" eva="8000105">
+    <dp ct="2411020006" l="60"/>
+</s>
+
+
+<s id="-5193273520162723165-2411012216-21" eva="8000105">
+    <ar ct="2411012352" l="60"/>
+</s>
+
+
+<s id="3864375000992578991-2411012137-28" eva="8000105">
+    <ar cpth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich|Wiesbaden Hbf|Mainz-Kastel" ct="2411020010" l="RB10"/>
+</s>
+
+
+<s id="-1268335842879231054-2411011905-6" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-31 23:16:12.016" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-31 23:16:12.022" pr="2"/>
+    <ar ct="2411012337"/>
+</s>
+
+</timetable>

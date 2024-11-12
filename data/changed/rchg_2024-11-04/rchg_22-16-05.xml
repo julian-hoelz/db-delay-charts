@@ -1,0 +1,42 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="1687515858212053528-2411042215-1" eva="8000105">
+    <dp ct="2411042215" l="61"/>
+</s>
+
+
+<s id="-7093433115650796363-2411041949-100" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)" ppth="Lorchhausen|Kaub|St Goarshausen|Kestert|Kamp-Bornhofen|Filsen|Osterspai|Braubach|Oberlahnstein|Niederlahnstein|Koblenz Hbf" cp="24" pp="23" ct="2411041848" pt="2411041823" ps="a" l="RB10">
+        <m id="r8967279" t="d" c="23" ts="2411031727" ts-tts="24-11-03 17:27:59.695"/>
+        <m id="r9019584" t="d" c="48" ts="2411041822" ts-tts="24-11-04 18:22:29.531"/>
+    </dp>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25080"/>
+</s>
+
+
+<s id="895338070731693269-2411042116-13" eva="8000105">
+    <ar ct="2411042217" l="51"/>
+</s>
+
+
+<s id="-6524998557445987060-2411041847-5" eva="8000105">
+    <m id="r2309259" t="h" from="2411041357" to="2411050300" cat="Störung" ts="2411041400" ts-tts="24-11-04 16:16:15.414" pr="1"/>
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf" ct="2411042219">
+        <m id="r9008419" t="d" c="38" ts="2411041447" ts-tts="24-11-04 14:47:55.978"/>
+        <m id="r9008868" t="d" c="21" ts="2411041456" ts-tts="24-11-04 14:57:07.862"/>
+        <m id="r9008883" t="f" c="0" ts="2411041457" ts-tts="24-11-04 14:57:23.928"/>
+        <m id="r9019497" t="f" c="0" ts="2411041820" ts-tts="24-11-04 18:21:07.609"/>
+        <m id="r9019517" t="d" c="17" ts="2411041821" ts-tts="24-11-04 18:21:23.939"/>
+        <m id="r9024642" t="f" c="0" ts="2411042005" ts-tts="24-11-04 20:05:50.922"/>
+    </ar>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Dortmund Hbf" ct="2411042225">
+        <m id="r9008419" t="d" c="38" ts="2411041447" ts-tts="24-11-04 14:47:55.978"/>
+        <m id="r9008868" t="d" c="21" ts="2411041456" ts-tts="24-11-04 14:57:07.862"/>
+        <m id="r9008883" t="f" c="0" ts="2411041457" ts-tts="24-11-04 14:57:23.928"/>
+        <m id="r9019497" t="f" c="0" ts="2411041820" ts-tts="24-11-04 18:21:07.609"/>
+        <m id="r9019517" t="d" c="17" ts="2411041821" ts-tts="24-11-04 18:21:23.939"/>
+        <m id="r9024642" t="f" c="0" ts="2411042005" ts-tts="24-11-04 20:05:50.922"/>
+    </dp>
+</s>
+
+</timetable>

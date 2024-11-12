@@ -1,0 +1,152 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="8427643844771946574-2410291931-23" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-28 23:16:12.748" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410282314" l="RB40"/>
+</s>
+
+
+<s id="2659249936109260099-2410291933-23" eva="8000105">
+    <ar cpth="Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410282314" l="RB41"/>
+</s>
+
+
+<s id="993826748729604473-2410291946-9" eva="8000105">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Darmstadt Hbf">
+        <m id="r8659301" t="f" c="0" ts="2410271144" ts-tts="24-10-27 11:44:24.542"/>
+        <m id="r8682223" t="f" c="0" ts="2410280144" ts-tts="24-10-28 01:44:19.611"/>
+    </ar>
+</s>
+
+
+<s id="-7093433115650796363-2410291949-100" eva="8000105">
+    <dp cpth="Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)|Assmannshausen|Lorch(Rhein)|Lorchhausen|Kaub" ppth="Lorchhausen|Kaub|St Goarshausen|Kestert|Kamp-Bornhofen|Filsen|Osterspai|Braubach|Oberlahnstein|Niederlahnstein|Koblenz Hbf" pp="23" pt="2410291823" ps="a" l="RB10">
+        <m id="r8716573" t="d" c="23" ts="2410281800" ts-tts="24-10-28 18:00:51.869"/>
+    </dp>
+    <tl f="D" t="p" o="R4RH" c="VIA" n="25080"/>
+</s>
+
+
+<s id="170093097875396020-2410291916-6" eva="8000105">
+    <ar>
+        <m id="r8732438" t="q" c="98" ts="2410290240" ts-tts="24-10-29 02:40:25.723"/>
+    </ar>
+    <dp>
+        <m id="r8732438" t="q" c="98" ts="2410290240" ts-tts="24-10-29 02:40:25.723"/>
+    </dp>
+</s>
+
+
+<s id="-324577228496578992-2410291923-4" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-28 23:16:12.564" pr="2"/>
+    <m id="r2304872" t="h" from="2410290413" to="2410300136" cat="Information" ts="2410290215" ts-tts="24-10-29 02:15:46.231" pr="3"/>
+    <ar>
+        <m id="r8732195" t="q" c="85" ts="2410290210" ts-tts="24-10-29 02:10:41.139"/>
+    </ar>
+    <dp>
+        <m id="r8732195" t="q" c="85" ts="2410290210" ts-tts="24-10-29 02:10:41.139"/>
+    </dp>
+</s>
+
+
+<s id="-4356853165457193863-2410291908-1" eva="8000105">
+    <dp l="2">
+        <m id="r8730538" t="f" c="0" ts="2410290055" ts-tts="24-10-29 00:55:20.013"/>
+    </dp>
+</s>
+
+
+<s id="3110338756521254946-2410291934-1" eva="8000105">
+    <dp l="68">
+        <m id="r8727358" t="f" c="0" ts="2410282231" ts-tts="24-10-28 22:32:09.826"/>
+    </dp>
+</s>
+
+
+<s id="-1268335842879231054-2410291905-7" eva="8000105">
+    <m id="r2285185" t="h" from="2410010000" to="2411152359" cat="Information" ts="2409302303" ts-tts="24-10-28 23:16:12.588" pr="2"/>
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-28 23:16:12.595" pr="2"/>
+</s>
+
+
+<s id="5446419279451908244-2410291954-10" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-10-28 23:16:12.564" pr="2"/>
+    <m id="r2235356" t="h" from="2410282001" to="2410300143" cat="Bauarbeiten" ts="2410272301" ts-tts="24-10-28 23:16:12.362" pr="1"/>
+</s>
+
+
+<s id="8614367859162303290-2410291930-1" eva="8000105">
+    <dp cp="8" l="54"/>
+</s>
+
+
+<s id="9094493816642653026-2410290702-10" eva="8000105">
+    <ar ct="2410290740" l="RB12"/>
+</s>
+
+
+<s id="9029167071702223712-2410290602-10" eva="8000105">
+    <ar ct="2410290640" l="RB12"/>
+</s>
+
+
+<s id="896384667678103556-2410290732-10" eva="8000105">
+    <ar ct="2410290810" l="RB12"/>
+</s>
+
+
+<s id="7669710181818548236-2410290617-1" eva="8000105">
+    <dp ct="2410290617" l="RB12"/>
+</s>
+
+
+<s id="7109080472801536148-2410290532-10" eva="8000105">
+    <ar ct="2410290610" l="RB12"/>
+</s>
+
+
+<s id="4311575177435395938-2410290947-1" eva="8000105">
+    <dp ct="2410290947" l="RB12"/>
+</s>
+
+
+<s id="2801826025756613862-2410290817-1" eva="8000105">
+    <dp ct="2410290817" l="RB12"/>
+</s>
+
+
+<s id="-9191166363436640285-2410290747-1" eva="8000105">
+    <dp ct="2410290747" l="RB12"/>
+</s>
+
+
+<s id="-8342458159009848227-2410290902-10" eva="8000105">
+    <ar ct="2410290940" l="RB12"/>
+</s>
+
+
+<s id="-5890722975720098232-2410290643-16" eva="8000105">
+    <ar ct="2410290757" l="RB15"/>
+</s>
+
+
+<s id="-5549851624903416991-2410290647-1" eva="8000105">
+    <dp ct="2410290647" l="RB12"/>
+</s>
+
+
+<s id="-5301305442312220899-2410290917-1" eva="8000105">
+    <dp ct="2410290917" l="RB12"/>
+</s>
+
+
+<s id="-428989444287040363-2410290713-16" eva="8000105">
+    <ar ct="2410290828" l="RB15"/>
+</s>
+
+
+<s id="-1333427391620168769-2410290832-10" eva="8000105">
+    <ar ct="2410290910" l="RB12"/>
+</s>
+
+</timetable>

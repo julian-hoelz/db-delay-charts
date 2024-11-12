@@ -1,0 +1,54 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="4969515809841555045-2411012007-15" eva="8000105">
+    <ar ct="2411012126" l="68"/>
+</s>
+
+
+<s id="436096027952993164-2411011659-8" eva="8000105">
+    <ar cpth="Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf" ct="2411012152">
+        <m id="r8890285" t="f" c="0" ts="2411011240" ts-tts="24-11-01 12:40:11.618"/>
+        <m id="r8890495" t="d" c="48" ts="2411011246" ts-tts="24-11-01 12:46:54.307"/>
+        <m id="r8902491" t="d" c="50" ts="2411011756" ts-tts="24-11-01 17:56:49.931"/>
+        <m id="r8902525" t="f" c="0" ts="2411011757" ts-tts="24-11-01 17:58:07.517"/>
+        <m id="r8903318" t="f" c="0" ts="2411011816" ts-tts="24-11-01 18:16:16.140"/>
+    </ar>
+</s>
+
+
+<s id="2448379411809660419-2411012104-9" eva="8000105">
+    <ar ct="2411012141" l="RB58"/>
+</s>
+
+
+<s id="8425980936755347637-2411012226-1" eva="8000105">
+    <dp cpth="Wächtersbach|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)|Fulda" cs="c" clt="2411012118" l="50">
+        <m id="r8909182" t="d" c="8" ts="2411012118" ts-tts="24-11-01 21:18:19.000"/>
+    </dp>
+</s>
+
+
+<s id="895338070731693269-2411012116-13" eva="8000105">
+    <m id="r2307535" t="h" from="2411012030" to="2411012200" cat="Störung" ts="2411012056" ts-tts="24-11-01 20:56:21.698" pr="1"/>
+    <ar cpth="" ct="2411012215" cs="c" clt="2411012117" l="51">
+        <m id="r8909167" t="d" c="8" ts="2411012117" ts-tts="24-11-01 21:17:32.459"/>
+    </ar>
+</s>
+
+
+<s id="6070111901823858771-2411011529-14" eva="8000105">
+    <m id="r2307396" t="h" from="2411011224" to="2411012359" cat="Störung" ts="2411011239" ts-tts="24-11-01 15:16:10.598" pr="1"/>
+    <m id="r2307465" t="h" from="2411011529" to="2411012103" cat="Information" ts="2411011526" ts-tts="24-11-01 15:26:32.814" pr="2"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-31 23:16:12.208" pr="2"/>
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf" cp="7" ct="2411012127">
+        <m id="r8895513" t="q" c="80" ts="2411011459" ts-tts="24-11-01 14:59:21.208"/>
+        <m id="r8895515" t="q" c="80" ts="2411011459" ts-tts="24-11-01 14:59:21.208"/>
+        <m id="r8901302" t="d" c="17" ts="2411011724" ts-tts="24-11-01 17:24:09.086"/>
+        <m id="r8901318" t="q" c="80" ts="2411011724" ts-tts="24-11-01 17:24:40.180"/>
+        <m id="r8901320" t="q" c="80" ts="2411011724" ts-tts="24-11-01 17:24:40.180"/>
+        <m id="r8901324" t="d" c="17" ts="2411011724" ts-tts="24-11-01 17:24:40.180"/>
+        <m id="r8909140" t="q" c="84" ts="2411012115" ts-tts="24-11-01 21:15:28.151"/>
+    </ar>
+</s>
+
+</timetable>

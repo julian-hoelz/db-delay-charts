@@ -1,0 +1,64 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6038863164330753428-2411030631-14" eva="8000105">
+    <ar ct="2411030751" l="60">
+        <m id="r8947749" t="d" c="48" ts="2411030630" ts-tts="24-11-03 06:31:04.895"/>
+    </ar>
+</s>
+
+
+<s id="-3876736263946883288-2411030610-10" eva="8000105">
+    <m id="r2308324" t="h" from="2411030449" to="2411032314" cat="Information" ts="2411030128" ts-tts="24-11-03 01:28:05.537" pr="2"/>
+    <ar ct="2411031036">
+        <m id="r8947342" t="q" c="80" ts="2411030540" ts-tts="24-11-03 05:40:16.597"/>
+        <m id="r8947344" t="q" c="80" ts="2411030540" ts-tts="24-11-03 05:40:16.597"/>
+        <m id="r8948965" t="f" c="0" ts="2411030741" ts-tts="24-11-03 07:42:13.289"/>
+    </ar>
+</s>
+
+
+<s id="-5717720788505540143-2411030816-1" eva="8000105">
+    <dp ct="2411030816"/>
+</s>
+
+
+<s id="-3742581979109449988-2411030816-1" eva="8000105">
+    <dp ct="2411030816"/>
+</s>
+
+
+<s id="-8767056179419145945-2411030815-6" eva="8000105">
+    <m id="r2308379" t="h" from="2411030527" to="2411040033" cat="Information" ts="2411030249" ts-tts="24-11-03 02:49:23.043" pr="3"/>
+    <ar ct="2411031200">
+        <m id="r8945947" t="f" c="0" ts="2411030210" ts-tts="24-11-03 02:10:13.275"/>
+    </ar>
+    <dp ct="2411031206">
+        <m id="r8945947" t="f" c="0" ts="2411030210" ts-tts="24-11-03 02:10:13.275"/>
+    </dp>
+</s>
+
+
+<s id="8774939972882156309-2411031025-1" eva="8000105">
+    <dp cpth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)" l="RB82"/>
+</s>
+
+
+<s id="3875970235766118050-2411031038-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" l="RB82"/>
+</s>
+
+
+<s id="9145020881380014050-2411030810-10" eva="8000105">
+    <ar ct="2411031236">
+        <m id="r8948901" t="q" c="80" ts="2411030740" ts-tts="24-11-03 07:40:23.889"/>
+        <m id="r8948903" t="q" c="80" ts="2411030740" ts-tts="24-11-03 07:40:23.889"/>
+    </ar>
+</s>
+
+
+<s id="-2658598192486113961-2411030810-16" eva="8000105">
+    <m id="r2276258" t="h" from="2409111443" to="2411112359" cat="Information" ts="2409120821" ts-tts="24-11-02 23:16:11.525" pr="2"/>
+    <ar ct="2411031305"/>
+</s>
+
+</timetable>

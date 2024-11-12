@@ -1,0 +1,97 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7669710181818548236-2411010617-1" eva="8000105">
+    <dp ct="2411010617" l="RB12"/>
+</s>
+
+
+<s id="5656583513138578556-2411011010-10" eva="8000105">
+    <m id="r2307120" t="h" from="2411011010" to="2411011436" cat="Information" ts="2411010417" ts-tts="24-11-01 04:17:16.500" pr="2"/>
+    <ar>
+        <m id="r8877221" t="f" c="0" ts="2411010341" ts-tts="24-11-01 03:41:53.124"/>
+        <m id="r8877222" t="f" c="1000" ts="2411010341" ts-tts="24-11-01 03:41:53.124"/>
+    </ar>
+</s>
+
+
+<s id="-7680411701843564790-2411012010-22" eva="8000105">
+    <ar cpth="Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Anzefahr|Bürgeln|Cölbe|Marburg(Lahn)|Marburg Süd|Niederweimar|Niederwalgern|Fronhausen(Lahn)|Friedelhausen|Lollar|Gießen Oswaldsgarten|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410312134" l="RB41">
+        <m id="r8871082" t="d" c="99" ts="2410312134" ts-tts="24-10-31 21:34:25.460"/>
+    </ar>
+</s>
+
+
+<s id="2767250544822324629-2411012029-1" eva="8000105">
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-31 23:16:10.896" pr="1"/>
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Gießen Oswaldsgarten|Lollar|Friedelhausen|Fronhausen(Lahn)|Niederwalgern|Niederweimar|Marburg Süd|Marburg(Lahn)" cs="c" clt="2410312130" l="RB41">
+        <m id="r8870987" t="d" c="99" ts="2410312130" ts-tts="24-10-31 21:30:48.519"/>
+    </dp>
+</s>
+
+
+<s id="8573811631662133764-2411012048-7" eva="8000105">
+    <ar cpth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf">
+        <m id="r8801034" t="f" c="0" ts="2410301330" ts-tts="24-10-30 13:30:04.889"/>
+        <m id="r8829234" t="f" c="0" ts="2410310142" ts-tts="24-10-31 01:42:48.297"/>
+    </ar>
+</s>
+
+
+<s id="2375477003020231749-2411012031-18" eva="8000105">
+    <m id="r2292974" t="h" from="2410312031" to="2411020054" cat="Bauarbeiten" ts="2410302302" ts-tts="24-10-31 23:16:10.880" pr="2"/>
+    <m id="r2295928" t="h" from="2410142029" to="2412140003" cat="Störung" ts="2410141604" ts-tts="24-10-31 23:16:10.896" pr="1"/>
+    <ar cpth="Dillenburg|Niederscheld(Dillkr)Süd|Burg(Dillkr) Nord|Herborn(Dillkr)|Sinn|Edingen(Wetzlar)|Katzenfurt|Ehringshausen(Kr Wetzlar)|Werdorf|Aßlar|Wetzlar|Dutenhofen(Wetzlar)|Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)" cs="c" clt="2410312133" l="RB40">
+        <m id="r8871069" t="d" c="99" ts="2410312133" ts-tts="24-10-31 21:34:09.999"/>
+    </ar>
+</s>
+
+
+<s id="1780093007741754802-2411012029-1" eva="8000105">
+    <dp cpth="Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen|Dutenhofen(Wetzlar)|Wetzlar|Aßlar|Werdorf|Ehringshausen(Kr Wetzlar)|Katzenfurt|Edingen(Wetzlar)|Sinn|Herborn(Dillkr)" cs="c" clt="2410312131" l="RB40">
+        <m id="r8870999" t="d" c="99" ts="2410312131" ts-tts="24-10-31 21:31:34.956"/>
+    </dp>
+</s>
+
+
+<s id="-5087640291470386546-2411012001-1" eva="8000105">
+    <dp l="30">
+        <m id="r8872889" t="q" c="85" ts="2410312252" ts-tts="24-10-31 22:52:23.424"/>
+    </dp>
+</s>
+
+
+<s id="7909079333769130460-2411012023-12" eva="8000105">
+    <ar l="30">
+        <m id="r8872800" t="q" c="85" ts="2410312247" ts-tts="24-10-31 22:48:00.598"/>
+    </ar>
+</s>
+
+
+<s id="-1658303684909188967-2411012018-1" eva="8000105">
+    <dp l="5">
+        <m id="r8872670" t="q" c="85" ts="2410312241" ts-tts="24-10-31 22:41:49.386"/>
+    </dp>
+</s>
+
+
+<s id="-6582453439070561259-2411012046-9" eva="8000105">
+    <ar l="5">
+        <m id="r8872565" t="q" c="73" ts="2410312238" ts-tts="24-10-31 22:38:43.347"/>
+        <m id="r8872632" t="q" c="85" ts="2410312240" ts-tts="24-10-31 22:40:31.992"/>
+    </ar>
+</s>
+
+
+<s id="4921421611407831922-2411012021-1" eva="8000105">
+    <m id="r2237310" t="h" from="2407220000" to="2412102359" cat="Bauarbeiten" ts="2408230832" ts-tts="24-10-31 23:16:10.676" pr="1" del="1"/>
+</s>
+
+
+<s id="5240138407908014065-2411012032-1" eva="8000105">
+    <m id="r2220185" t="h" from="2409062032" to="2412010548" cat="Bauarbeiten" ts="2408230832" ts-tts="24-10-31 23:16:10.663" pr="1" del="1"/>
+</s>
+
+
+<m id="r125561" t="r" from="2411010207" to="2411010930" ts="2411010208" ts-tts="24-11-01 02:08:14.154"/>
+
+</timetable>

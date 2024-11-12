@@ -1,0 +1,53 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-6012005053401607387-2411030923-4" eva="8000105">
+    <m id="r2260946" t="h" from="2408182151" to="2411132359" cat="Information" ts="2408230832" ts-tts="24-11-02 23:16:09.661" pr="3" del="1"/>
+    <ar ct="2411031109">
+        <m id="r8951591" t="q" c="86" ts="2411030939" ts-tts="24-11-03 09:39:44.655"/>
+        <m id="r8951799" t="d" c="36" ts="2411030947" ts-tts="24-11-03 09:47:41.894"/>
+    </ar>
+    <dp ct="2411031116">
+        <m id="r8951591" t="q" c="86" ts="2411030939" ts-tts="24-11-03 09:39:44.655"/>
+        <m id="r8951799" t="d" c="36" ts="2411030947" ts-tts="24-11-03 09:47:41.894"/>
+    </dp>
+</s>
+
+
+<s id="-7710914094412173264-2411030905-21" eva="8000105">
+    <ar ct="2411031140" l="RE98"/>
+</s>
+
+
+<s id="-7477759779026557792-2411030954-8" eva="8000105">
+    <ar ct="2411031140" l="RE99"/>
+</s>
+
+
+<s id="-1790024725878292801-2411030836-9" eva="8000105">
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf" ct="2411031212">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.128"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.908"/>
+    </ar>
+    <dp cpth="Hanau Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf|Linz Hbf|St. Valentin|Amstetten NÖ|St.Pölten Hbf|Wien Meidling|Wien Hbf" ct="2411031222">
+        <m id="r8949391" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:24.128"/>
+        <m id="r8949403" t="d" c="57" ts="2411030806" ts-tts="24-11-03 08:06:54.908"/>
+    </dp>
+</s>
+
+
+<s id="1700275294058871327-2411031505-21" eva="8000105">
+    <ar ct="2411031738" l="RE98"/>
+</s>
+
+
+<s id="333620029166382799-2411031134-6" eva="8000105">
+    <ar ct="2411031544"/>
+    <dp ct="2411031551"/>
+</s>
+
+
+<s id="5324783183662023013-2411031134-1" eva="8000105">
+    <dp ct="2411031134" l="68"/>
+</s>
+
+</timetable>

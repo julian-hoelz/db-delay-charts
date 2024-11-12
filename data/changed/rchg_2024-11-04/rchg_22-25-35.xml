@@ -1,0 +1,22 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="7084098503655686187-2411042119-13" eva="8000105">
+    <ar ct="2411042230" l="22"/>
+</s>
+
+
+<s id="-2636585662920960256-2411042038-21" eva="8000105">
+    <ar cpth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord" ct="2411042233" l="RB82"/>
+</s>
+
+
+<s id="3212956860110230921-2411042107-13" eva="8000105">
+    <ar ct="2411042228" l="50"/>
+</s>
+
+
+<s id="4219110208332631493-2411042107-15" eva="8000105">
+    <ar ct="2411042224" l="68"/>
+</s>
+
+</timetable>

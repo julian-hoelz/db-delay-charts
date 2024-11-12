@@ -1,0 +1,40 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-9098533399497256331-2410310516-9" eva="8000105">
+    <m id="r2266770" t="h" from="2410300516" to="2410311310" cat="Bauarbeiten" ts="2410292302" ts-tts="24-10-30 23:16:11.306" pr="2"/>
+    <ar ct="2410310944"/>
+    <dp ct="2410310952"/>
+</s>
+
+
+<s id="-2093843208082076816-2410310502-4" eva="8000105">
+    <ar ppth="Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim" pt="2410310509"/>
+    <dp ppth="Frankfurt-Rödelheim|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)|Köppern|Saalburg(Taunus)|Wehrheim|Neu-Anspach|Hausen(Taunus)|Usingen|Wilhelmsdorf|Hundstadt|Grävenwiesbach" pt="2410310509"/>
+    <tl f="N" t="s" o="RSTN" c="RB" n="72928"/>
+</s>
+
+
+<s id="-740193782669832940-2410310516-1" eva="8000105">
+    <m id="r2289117" t="h" from="2410100000" to="2411042312" cat="Information" ts="2410092303" ts-tts="24-10-30 23:16:11.501" pr="2"/>
+    <dp ct="2410310517">
+        <m id="r8828145" t="f" c="0" ts="2410310121" ts-tts="24-10-31 01:21:34.105"/>
+        <m id="r8831006" t="q" c="80" ts="2410310446" ts-tts="24-10-31 04:46:21.736"/>
+    </dp>
+</s>
+
+
+<s id="6174471127908678384-2410310444-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-10-30 23:16:11.715" pr="2"/>
+    <dp cp="3" ct="2410310445">
+        <m id="r8817521" t="f" c="1000" ts="2410301900" ts-tts="24-10-30 19:00:44.740"/>
+    </dp>
+</s>
+
+
+<s id="-3118459641712443593-2410310515-1" eva="8000105">
+    <dp ct="2410310515">
+        <m id="r8831001" t="q" c="80" ts="2410310445" ts-tts="24-10-31 04:45:20.329"/>
+    </dp>
+</s>
+
+</timetable>

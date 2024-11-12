@@ -1,0 +1,43 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-1145545552519879876-2411030449-4" eva="8000105">
+    <m id="r2308324" t="h" from="2411030449" to="2411032314" cat="Information" ts="2411030128" ts-tts="24-11-03 01:28:07.228" pr="2"/>
+    <ar ct="2411030651">
+        <m id="r8945950" t="q" c="80" ts="2411030210" ts-tts="24-11-03 02:10:45.925"/>
+    </ar>
+    <dp ct="2411030657">
+        <m id="r8945950" t="q" c="80" ts="2411030210" ts-tts="24-11-03 02:10:45.925"/>
+    </dp>
+</s>
+
+
+<s id="6597109704784414496-2411030342-17" eva="8000105">
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ingelheim|Mainz Hbf|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf" ct="2411030639" l="3"/>
+</s>
+
+
+<s id="-7052912375929255646-2411030502-15" eva="8000105">
+    <ar ct="2411030623" l="68"/>
+</s>
+
+
+<s id="-5810233958110953825-2411030619-1" eva="8000105">
+    <dp ct="2411030619">
+        <m id="r8947388" t="q" c="80" ts="2411030549" ts-tts="24-11-03 05:49:18.066"/>
+    </dp>
+</s>
+
+
+<s id="5571962718550540131-2411030552-5" eva="8000105">
+    <m id="r2295912" t="h" from="2410162200" to="2411040230" cat="Bauarbeiten" ts="2410152303" ts-tts="24-11-02 23:16:09.824" pr="2"/>
+    <ar ct="2411030632" l="22"/>
+</s>
+
+
+<s id="8536284617001416347-2411030515-25" eva="8000105">
+    <ar ct="2411030729" l="55">
+        <m id="r8947458" t="d" c="38" ts="2411030557" ts-tts="24-11-03 05:57:27.796"/>
+    </ar>
+</s>
+
+</timetable>

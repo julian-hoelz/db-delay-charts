@@ -1,0 +1,47 @@
+<timetable station="Frankfurt(Main)Hbf" eva="8000105">
+
+<s id="-7929720578321154182-2411021729-16" eva="8000105">
+    <m id="r2307940" t="h" from="2411020011" to="2411022339" cat="Information" ts="2411020238" ts-tts="24-11-02 02:38:38.668" pr="3"/>
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:12.235" pr="2"/>
+    <ar ct="2411022309">
+        <m id="r8914814" t="f" c="0" ts="2411020226" ts-tts="24-11-02 02:27:07.658"/>
+        <m id="r8932870" t="f" c="0" ts="2411021636" ts-tts="24-11-02 16:36:49.483"/>
+        <m id="r8938243" t="d" c="51" ts="2411021929" ts-tts="24-11-02 19:29:56.144"/>
+        <m id="r8939951" t="d" c="51" ts="2411022025" ts-tts="24-11-02 20:25:35.097"/>
+    </ar>
+</s>
+
+
+<s id="8503777394879306018-2411022324-1" eva="8000105">
+    <m id="r2304423" t="h" from="2410280806" to="2411102359" cat="Information" ts="2410280813" ts-tts="24-11-01 23:16:12.234" pr="2"/>
+    <dp cpth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2411022324">
+        <m id="r8941354" t="d" c="31" ts="2411022121" ts-tts="24-11-02 21:21:26.944"/>
+        <m id="r8941545" t="f" c="0" ts="2411022133" ts-tts="24-11-02 21:33:12.852"/>
+    </dp>
+</s>
+
+
+<s id="3950229564533814726-2411022126-1" eva="8000105">
+    <dp cp="6" ct="2411022132" l="50"/>
+</s>
+
+
+<s id="-7821637860017398323-2411021743-5" eva="8000105">
+    <m id="r2307920" t="h" from="2411020502" to="2411030008" cat="Information" ts="2411020204" ts-tts="24-11-02 02:04:33.971" pr="2"/>
+    <ar ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Göttingen" pp="12" ct="2411022235" pt="2411022157">
+        <m id="r8934017" t="q" c="80" ts="2411021713" ts-tts="24-11-02 17:13:29.351"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1135"/>
+</s>
+
+
+<s id="-7754502591388494002-2411022202-16" eva="8000105">
+    <ar ct="2411022314" l="34"/>
+</s>
+
+
+<s id="4871792043336475885-2411022133-14" eva="8000105">
+    <ar ct="2411022251" l="60"/>
+</s>
+
+</timetable>
